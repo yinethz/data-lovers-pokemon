@@ -1,7 +1,7 @@
 // estas funciones son de ejemplo
 
-export const example = () => {
-  return 'example';
+export const filterType = (dataArray, typeUser) => {
+  return dataArray.filter(element => element.type.includes(typeUser))
 };
 
 export const anotherExample = () => {
