@@ -58,7 +58,7 @@ function containerElement(dataPokemon) {
   console.log("después html");
 
   return divElement;
-};
+}
 
 const insertAllPokemon = document.querySelector('#root');
 
@@ -66,7 +66,7 @@ function verPokemon(cargaPokemon) {
   cargaPokemon.forEach((dataPokemon) => {
     insertAllPokemon.appendChild(containerElement(dataPokemon));
   });
-};
+}
 
 verPokemon(data.pokemon);
 
