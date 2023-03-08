@@ -1,20 +1,21 @@
 import data from './data/pokemon/pokemon.js';
+import { filterType } from './data.js';
 const steel = document.getElementById("steel")
-const water = document.getElementById("water") 
+const water = document.getElementById("water")
 
 const pokemones1 = document.getElementById("pokemones1")
 
 const pokemones = data.pokemon
-console.log(filterType(pokemones,"steel"));
-function selecSteel (){
-  steel.addEventListener("click", function() {
-    pokemones1.innerHTML = filterType(pokemones,"steel")
+console.log(filterType(pokemones, "steel"));
+function selecSteel() {
+  steel.addEventListener("click", function () {
+    pokemones1.innerHTML = filterType(pokemones, "steel")
   })
 }
 selecSteel()
-function selecWater (){
-  water.addEventListener("click", function() {
-    pokemones1.innerHTML = filterType(pokemones,"water","img")
+function selecWater() {
+  water.addEventListener("click", function () {
+    pokemones1.innerHTML = filterType(pokemones, "water", "img")
   })
 }
 selecWater()
@@ -83,7 +84,7 @@ function cargaPokemon(){
     img : "www.gato.com",
   }
   const cardElement = containerElement(dataPokemon);
-  
+
   console.log(cardElement);
   const rootElement = document.getElementById("root");
   rootElement.insertAdjacentHTML('afterend', cardElement.outerHTML);
@@ -91,5 +92,5 @@ function cargaPokemon(){
 //dataPokemon.insertAdjacentHTML('afterend', divElement);
 
 
-cargaPokemon() 
+cargaPokemon()
 */
