@@ -21,7 +21,7 @@ body {
 }
 
 /* el bloque donde de encuentran las categoritas*/
-.categorias {
+ .categorias {
   line-height: 1.9em;
   position: relative;
   top: 100px;
@@ -29,12 +29,11 @@ body {
   font-family: 'Ubuntu Condensed', sans-serif;
   background-color: #D4D5DA;
   width: 20%;
-  height: 562px;
+  height: 700px;
   right: 10px;
   border-radius: 10%;
   opacity: .7;
   box-shadow: 10px 5px 5px #D4D5DA;
-
 }
 
 /* palabra categoria*/
@@ -57,6 +56,9 @@ body {
   position: relative;
   left: 20px;
 }
+#pokemones1{
+    position: relative;
+    left: 500px;
 
 .pokebola {
   max-width: 3%;
