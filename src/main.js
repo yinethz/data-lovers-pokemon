@@ -2,27 +2,14 @@ import data from './data/pokemon/pokemon.js';
 import { filterType } from './data.js';
 const steel = document.getElementById("steel")
 const water = document.getElementById("water")
-
 const pokemones1 = document.getElementById("pokemones1")
+const pokemones = data.pokemon;
+console.log(filterType(pokemones, "steel"))
 
-const pokemones = data.pokemon
-console.log(filterType(pokemones, "steel"));
-function selecSteel() {
-  steel.addEventListener("click", function () {
-    pokemones1.innerHTML = filterType(pokemones, "steel")
-  })
-}
-selecSteel()
-function selecWater() {
-  water.addEventListener("click", function () {
-    pokemones1.innerHTML = filterType(pokemones, "water", "img")
-  })
-}
-selecWater()
 function containerElement(dataPokemon) {
   const divElement = document.createElement('div');
   divElement.setAttribute('class', 'div-Element');
-  console.log("HOlaaaaaaaaaaaaaaa");
+  //console.log("HOlaaaaaaaaaaaaaaa");
   let typePokemon = "";
 
   dataPokemon.type.forEach((pokemonCategoria) => {
@@ -55,25 +42,39 @@ function containerElement(dataPokemon) {
     divElement.querySelector('.contenedorModal').style.display = 'none';
     document.querySelector('.miModal').style.display = 'none';
   });
-  console.log("después html");
+  //console.log("después html");
 
   return divElement;
 }
-
 const insertAllPokemon = document.querySelector('#root');
-
 function verPokemon(cargaPokemon) {
+  console.log('el array completo: ', cargaPokemon);
   cargaPokemon.forEach((dataPokemon) => {
+    console.log('cada elemnto del array filtrado', dataPokemon);
     insertAllPokemon.appendChild(containerElement(dataPokemon));
   });
 }
 
 verPokemon(data.pokemon);
 
+function selecSteel() {
+  steel.addEventListener("click", function () {
+    pokemones1.innerHTML = filterType(pokemones, "steel")
+    insertAllPokemon.innerHTML = ''
+    verPokemon(filterType(pokemones,"steel"))
+    console.log('filtrado acero: ', filterType(pokemones, 'steel'));
+  })
+}
+selecSteel()
+function selecWater() {
+  water.addEventListener("click", function () {
+    pokemones1.innerHTML = filterType(pokemones, "water")
+  })
+  
+}
+selecWater()
 
-
-/*
-function cargaPokemon(){
+/*function cargaPokemon(){
 
 
   data.pokemon;
@@ -93,4 +94,5 @@ function cargaPokemon(){
 
 
 cargaPokemon()
+
 */
