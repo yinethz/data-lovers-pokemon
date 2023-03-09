@@ -2,7 +2,6 @@
 export const filterType = (dataArray, typeUser) => {
   return dataArray.filter(element => element.type.includes(typeUser))
 };
-
-export const filterEgg = (dataArray, typeUser) => {
-  return dataArray.filter(element => element.egg.includes(typeUser))
+export const filterWeaknesses = (dataArray, typeUser) => {
+  return dataArray.filter(element => element.weaknesses.includes(typeUser))
 };
