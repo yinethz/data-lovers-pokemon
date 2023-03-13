@@ -21,7 +21,7 @@ body {
 }
 
 /* el bloque donde de encuentran las categoritas*/
- .categorias {
+.categorias {
   line-height: 1.9em;
   position: relative;
   top: 100px;
@@ -44,6 +44,7 @@ body {
   position: relative;
   top: 10px;
   left: 50px;
+  cursor: pointer;
 }
 
 /* todos los linkis*/
@@ -56,10 +57,68 @@ body {
   position: relative;
   left: 20px;
 }
-#pokemones1{
-    position: relative;
-    left: 500px;
- }
+
+/*Card*/
+.contenedorAdelante {
+  display: inline-block;
+  flex-direction: row;
+  position: relative;
+  border: rgb(243, 240, 67) solid;
+  border-radius: 40px;
+  margin: 30px 30px 30px;
+  width: 200px;
+  padding: 10px 20px 10px;
+  text-align: center;
+
+}
+
+.contenedorAdelante:hover {
+  background-color: rgb(243, 240, 67);
+  cursor: pointer;
+}
+
+.contenedorModal {
+  display: none;
+  position: fixed;
+  top: 30%;
+  left: 20%;
+  z-index: 2;
+  background-color: #fefefe;
+  width: 60%;
+  border-radius: 20px;
+  font-size: 20px;
+  text-align: center;
+  animation-name: modal;
+  animation-duration: 2s;
+  padding-bottom: 5%;
+}
+
+@keyframes modal {
+  from {
+    top: -800px;
+    opacity: 0;
+  }
+
+  to {
+    top: 50;
+    opacity: 1
+  }
+}
+
+
+.close {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.close:hover {
+  color: red;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
 .pokebola {
   max-width: 3%;
   max-height: 3%;
@@ -74,7 +133,4 @@ body {
   width: 100%;
   border-top-right-radius: 10%;
   border-top-left-radius: 10%;
-}
-#cate{
-  position: relative;
 }

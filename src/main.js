@@ -13,14 +13,17 @@ function containerElement(dataPokemon) {
   })
   divElement.innerHTML = `
   <div class="contenedorAdelante">
-   
+    <p>${dataPokemon.num}</p>
+    <img src='${dataPokemon.img}'/>
+    <h2>${dataPokemon.name}</h2>
+    <p> Tipo: ${typePokemon}</p>
   </div>
   <div class="contenedorModal">
     <span class="close">&times;</span>
     <h2>${dataPokemon.name}</h2>
     <img src="${dataPokemon.img}"/>
     <p> Tipo: ${typePokemon}</p>
-    <p> Tamaño: ${dataPokemon.size.height}</p>
+    <p> Altura: ${dataPokemon.size.height}</p>
     <p> Peso: ${dataPokemon.size.weight}</p>
     <p> Debilidades: ${dataPokemon.weaknesses}</p>
   </div>`;
@@ -34,7 +37,6 @@ function containerElement(dataPokemon) {
     divElement.querySelector('.contenedorModal').style.display = 'none';
     document.querySelector('.miModal').style.display = 'none';
   });
-  //console.log("después html");
 
   return divElement;
 }
@@ -47,25 +49,25 @@ function verPokemon(cargaPokemon) {
   });
 }
 
-//verPokemon(data.pokemon);
-  
+verPokemon(data.pokemon);
+
 //Prueba para fubciòn dinamica de selecciòn de tipo de pokemon
 function selectPokemon() {
-  document.getElementById("cate").addEventListener("click", function(e){
+  document.getElementById("cate").addEventListener("click", function (e) {
     const target = e.target.id; // Or any other selector.
     console.log(e.target.id)
-    if(target){
+    if (target) {
       pokemones.innerHTML = filterType(pokemones, target)
       insertAllPokemon.innerHTML = ''
-      verPokemon(filterType(pokemones,target))
+      verPokemon(filterType(pokemones, target))
       // Do something with `target`.
     }
   })
-  
+
 }
 selectPokemon()
 
-// funcion para organizar pokemones por nombre 
+// funcion para organizar pokemones por nombre
 
 
 
