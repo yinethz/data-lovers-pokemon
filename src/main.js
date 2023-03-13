@@ -13,10 +13,10 @@ function containerElement(dataPokemon) {
   })
   divElement.innerHTML = `
   <div class="contenedorAdelante">
-  <p>${dataPokemon.num}</p>
-  <img src='${dataPokemon.img}'/>
-  <h2>${dataPokemon.name}</h2>
-  <p> Tipo: ${typePokemon}</p>
+    <p>${dataPokemon.num}</p>
+    <img src='${dataPokemon.img}'/>
+    <h2>${dataPokemon.name}</h2>
+    <p> Tipo: ${typePokemon}</p>
   </div>
   <div class="contenedorModal">
     <span class="close">&times;</span>
@@ -49,7 +49,7 @@ function verPokemon(cargaPokemon) {
   });
 }
 
-//verPokemon(data.pokemon);
+verPokemon(data.pokemon);
 
 //Prueba para fubciòn dinamica de selecciòn de tipo de pokemon
 function selectPokemon() {
