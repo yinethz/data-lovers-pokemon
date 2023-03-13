@@ -3,23 +3,20 @@ import { filterType } from './data.js';
 const steel = document.getElementById("steel")
 const water = document.getElementById("water")
 const pokemones = data.pokemon;
-console.log(filterType(pokemones, "steel"))
 
 function containerElement(dataPokemon) {
   const divElement = document.createElement('div');
   divElement.setAttribute('class', 'div-Element');
   let typePokemon = "";
-
   dataPokemon.type.forEach((pokemonCategoria) => {
     typePokemon += `<span>${pokemonCategoria}</span>`
   })
   divElement.innerHTML = `
   <div class="contenedorAdelante">
-    <p>${dataPokemon.num}</p>
-    <img src='${dataPokemon.img}'/>
-    <h2>${dataPokemon.name}</h2>
-    <p> Tipo: ${typePokemon}</p>
-
+  <p>${dataPokemon.num}</p>
+  <img src='${dataPokemon.img}'/>
+  <h2>${dataPokemon.name}</h2>
+  <p> Tipo: ${typePokemon}</p>
   </div>
   <div class="contenedorModal">
     <span class="close">&times;</span>
@@ -45,31 +42,34 @@ function containerElement(dataPokemon) {
 }
 const insertAllPokemon = document.querySelector('#root');
 function verPokemon(cargaPokemon) {
-  console.log('el array completo: ', cargaPokemon);
+  //console.log('el array completo: ', cargaPokemon);
   cargaPokemon.forEach((dataPokemon) => {
-    console.log('cada elemnto del array filtrado', dataPokemon);
+    //console.log('cada elemnto del array filtrado', dataPokemon);
     insertAllPokemon.appendChild(containerElement(dataPokemon));
   });
 }
 
-verPokemon(data.pokemon);
+//verPokemon(data.pokemon);
 
-function selecSteel() {
-  steel.addEventListener("click", function () {
-    pokemones.innerHTML = filterType(pokemones,)
-    insertAllPokemon.innerHTML = ''
-    verPokemon(filterType(pokemones, "steel"))
-    console.log('filtrado acero: ', filterType(pokemones, 'steel'));
-  })
-}
-selecSteel()
-function selecWater() {
-  water.addEventListener("click", function () {
-    pokemones.innerHTML = filterType(pokemones, "water")
+//Prueba para fubciòn dinamica de selecciòn de tipo de pokemon
+function selectPokemon() {
+  document.getElementById("cate").addEventListener("click", function (e) {
+    const target = e.target.id; // Or any other selector.
+    console.log(e.target.id)
+    if (target) {
+      pokemones.innerHTML = filterType(pokemones, target)
+      insertAllPokemon.innerHTML = ''
+      verPokemon(filterType(pokemones, target))
+      // Do something with `target`.
+    }
   })
 
 }
-selecWater()
+selectPokemon()
+
+// funcion para organizar pokemones por nombre
+
+
 
 /*function cargaPokemon(){
 
