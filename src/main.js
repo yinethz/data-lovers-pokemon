@@ -2,14 +2,12 @@ import data from './data/pokemon/pokemon.js';
 import { filterType } from './data.js';
 const steel = document.getElementById("steel")
 const water = document.getElementById("water")
-const pokemones1 = document.getElementById("pokemones1")
 const pokemones = data.pokemon;
 console.log(filterType(pokemones, "steel"))
 
 function containerElement(dataPokemon) {
   const divElement = document.createElement('div');
   divElement.setAttribute('class', 'div-Element');
-  //console.log("HOlaaaaaaaaaaaaaaa");
   let typePokemon = "";
 
   dataPokemon.type.forEach((pokemonCategoria) => {
@@ -28,7 +26,7 @@ function containerElement(dataPokemon) {
     <h2>${dataPokemon.name}</h2>
     <img src="${dataPokemon.img}"/>
     <p> Tipo: ${typePokemon}</p>
-    <p> Tamaño: ${dataPokemon.size.height}</p>
+    <p> Altura: ${dataPokemon.size.height}</p>
     <p> Peso: ${dataPokemon.size.weight}</p>
     <p> Debilidades: ${dataPokemon.weaknesses}</p>
   </div>`;
@@ -42,7 +40,6 @@ function containerElement(dataPokemon) {
     divElement.querySelector('.contenedorModal').style.display = 'none';
     document.querySelector('.miModal').style.display = 'none';
   });
-  //console.log("después html");
 
   return divElement;
 }
@@ -59,18 +56,18 @@ verPokemon(data.pokemon);
 
 function selecSteel() {
   steel.addEventListener("click", function () {
-    pokemones1.innerHTML = filterType(pokemones, "steel")
+    pokemones.innerHTML = filterType(pokemones,)
     insertAllPokemon.innerHTML = ''
-    verPokemon(filterType(pokemones,"steel"))
+    verPokemon(filterType(pokemones, "steel"))
     console.log('filtrado acero: ', filterType(pokemones, 'steel'));
   })
 }
 selecSteel()
 function selecWater() {
   water.addEventListener("click", function () {
-    pokemones1.innerHTML = filterType(pokemones, "water")
+    pokemones.innerHTML = filterType(pokemones, "water")
   })
-  
+
 }
 selecWater()
 
