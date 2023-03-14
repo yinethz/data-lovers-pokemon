@@ -1,7 +1,8 @@
 import data from './data/pokemon/pokemon.js';
 import { filterType } from './data.js';
+import{filterWeaknesses}from './data.js';
 const pokemones = data.pokemon;
-
+//console.log(filterWeaknesses(pokemones,"water"));
 function containerElement(dataPokemon) {
   const divElement = document.createElement('div');
   divElement.setAttribute('class', 'div-Element');
@@ -53,7 +54,7 @@ verPokemon(data.pokemon);
 function selectPokemon() {
   document.getElementById("cate").addEventListener("click", function (e) {
     const target = e.target.id; // Or any other selector.
-    console.log(e.target.id)
+    //console.log(e.target.id)
     if (target) {
       pokemones.innerHTML = filterType(pokemones, target)
       insertAllPokemon.innerHTML = ''
@@ -64,5 +65,22 @@ function selectPokemon() {
 
 }
 selectPokemon()
+
+
+function seleweaknesses() {
+  const weaknesses = document.getElementById("seleweaknesses")
+  weaknesses.addEventListener("change", function (e) {
+    const target = e.target.value; // Or any other selector.
+    console.log(e.target.value)
+    if (target) {
+      pokemones.innerHTML = filterWeaknesses(pokemones, target)
+      insertAllPokemon.innerHTML = ''
+      verPokemon(filterWeaknesses(pokemones, target))
+      // Do something with `target`.
+    }
+  })
+
+}
+seleweaknesses()
 
 
