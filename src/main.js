@@ -1,7 +1,5 @@
 import data from './data/pokemon/pokemon.js';
 import { filterType } from './data.js';
-const steel = document.getElementById("steel")
-const water = document.getElementById("water")
 const pokemones = data.pokemon;
 
 function containerElement(dataPokemon) {
@@ -13,15 +11,15 @@ function containerElement(dataPokemon) {
   })
   divElement.innerHTML = `
   <div class="contenedorAdelante">
-    <p>${dataPokemon.num}</p>
     <img src='${dataPokemon.img}'/>
+    <p>${dataPokemon.num}</p>
     <h2>${dataPokemon.name}</h2>
     <p> Tipo: ${typePokemon}</p>
   </div>
   <div class="contenedorModal">
     <span class="close">&times;</span>
     <h2>${dataPokemon.name}</h2>
-    <img src="${dataPokemon.img}"/>
+    <img class="imgPokemon" src="${dataPokemon.img}"/>
     <p> Tipo: ${typePokemon}</p>
     <p> Altura: ${dataPokemon.size.height}</p>
     <p> Peso: ${dataPokemon.size.weight}</p>
@@ -67,29 +65,4 @@ function selectPokemon() {
 }
 selectPokemon()
 
-// funcion para organizar pokemones por nombre
 
-
-
-/*function cargaPokemon(){
-
-
-  data.pokemon;
-
-  let dataPokemon = {
-    id : 1,
-    name : "Ivasur",
-    img : "www.gato.com",
-  }
-  const cardElement = containerElement(dataPokemon);
-
-  console.log(cardElement);
-  const rootElement = document.getElementById("root");
-  rootElement.insertAdjacentHTML('afterend', cardElement.outerHTML);
-}
-//dataPokemon.insertAdjacentHTML('afterend', divElement);
-
-
-cargaPokemon()
-
-*/
