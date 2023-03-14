@@ -21,19 +21,19 @@ body {
 }
 
 /* el bloque donde de encuentran las categoritas*/
-.categorias {
+.categoriasList {
   line-height: 1.9em;
-  position: relative;
-  top: 100px;
   color: rgb(103, 100, 100);
   font-family: 'Ubuntu Condensed', sans-serif;
   background-color: #D4D5DA;
+  position: relative;
   width: 20%;
   height: 700px;
   right: 10px;
   border-radius: 10%;
   opacity: .7;
   box-shadow: 10px 5px 5px #D4D5DA;
+  
 }
 
 /* palabra categoria*/
@@ -41,9 +41,6 @@ body {
   color: rgb(103, 100, 100);
   font-family: 'Neucha', cursive;
   font-size: 40px;
-  position: relative;
-  top: 10px;
-  left: 50px;
   cursor: pointer;
 }
 
@@ -56,6 +53,7 @@ body {
   letter-spacing: 4px;
   position: relative;
   left: 20px;
+  cursor: pointer;
 }
 
 /*Card*/
@@ -133,4 +131,12 @@ body {
   width: 100%;
   border-top-right-radius: 10%;
   border-top-left-radius: 10%;
+}
+#root{
+  display: flex;
+  flex-wrap: wrap;
+}
+.container{
+  display: flex;
+  margin-top: 100px;
 }
