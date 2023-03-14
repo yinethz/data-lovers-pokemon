@@ -3,6 +3,19 @@
   padding: 0;
 }
 
+
+#root {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 18%;
+}
+
+
+.container {
+  display: flex;
+  margin-top: 50px;
+}
+
 body {
   background-image: url(assets/background.jpg);
 }
@@ -13,7 +26,23 @@ body {
   text-align: center;
   border-bottom-right-radius: 15px;
   border-bottom-left-radius: 15px;
+  position: fixed;
+  z-index: 2;
 }
+
+nav {
+  padding-top: 5%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navOption {
+  background-color: rgba(230, 230, 230, 0.7);
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 10%;
+}
+
 
 .logo {
   max-width: 7%;
@@ -23,35 +52,32 @@ body {
 /* el bloque donde de encuentran las categoritas*/
 .categoriasList {
   line-height: 1.9em;
-  color: rgb(103, 100, 100);
   font-family: 'Ubuntu Condensed', sans-serif;
-  background-color: #D4D5DA;
-  position: relative;
-  width: 20%;
-  height: 700px;
-  right: 10px;
+  background-color: rgba(230, 230, 230, 0.7);
   border-radius: 10%;
   opacity: .7;
   box-shadow: 10px 5px 5px #D4D5DA;
-  
+  padding: 2%;
+  position: fixed;
+  margin-left: 1%;
 }
 
 /* palabra categoria*/
 .categoria {
-  color: rgb(103, 100, 100);
+  color: rgb(40, 39, 39);
   font-family: 'Neucha', cursive;
   font-size: 40px;
-  cursor: pointer;
+  top: 10px;
+  left: 50px;
 }
 
 /* todos los linkis*/
 .link {
-  color: rgb(103, 100, 100);
+  color: rgb(40, 39, 39);
   text-decoration: none;
   font-family: 'Neucha', cursive;
   font-size: 25px;
-  letter-spacing: 4px;
-  position: relative;
+  letter-spacing: 2px;
   left: 20px;
   cursor: pointer;
 }
@@ -61,17 +87,17 @@ body {
   display: inline-block;
   flex-direction: row;
   position: relative;
-  border: rgb(243, 240, 67) solid;
   border-radius: 40px;
   margin: 30px 30px 30px;
   width: 200px;
   padding: 10px 20px 10px;
   text-align: center;
+  background-color: rgba(239, 192, 13, 0.13);
 
 }
 
 .contenedorAdelante:hover {
-  background-color: rgb(243, 240, 67);
+  background-color: rgba(146, 156, 112, 0.19);
   cursor: pointer;
 }
 
@@ -79,10 +105,10 @@ body {
   display: none;
   position: fixed;
   top: 30%;
-  left: 20%;
+  left: 40%;
   z-index: 2;
-  background-color: #fefefe;
-  width: 60%;
+  background-color: rgba(230, 230, 230, 0.8);
+  width: 35%;
   border-radius: 20px;
   font-size: 20px;
   text-align: center;
@@ -103,7 +129,6 @@ body {
   }
 }
 
-
 .close {
   color: rgb(0, 0, 0);
   font-size: 30px;
@@ -116,6 +141,10 @@ body {
   cursor: pointer;
 }
 
+.contenedorModal .imgPokemon {
+  width: 28%;
+  height: 28%;
+}
 
 .pokebola {
   max-width: 3%;
@@ -131,12 +160,4 @@ body {
   width: 100%;
   border-top-right-radius: 10%;
   border-top-left-radius: 10%;
-}
-#root{
-  display: flex;
-  flex-wrap: wrap;
-}
-.container{
-  display: flex;
-  margin-top: 100px;
 }
