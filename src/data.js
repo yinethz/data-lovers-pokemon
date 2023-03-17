@@ -5,4 +5,3 @@ export const filterType = (dataArray, typeUser) => {
 export const filterWeaknesses = (dataArray, typeUser) => {
   return dataArray.filter(element => element.weaknesses.includes(typeUser))
 };
-
