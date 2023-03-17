@@ -1,7 +1,12 @@
 import data from './data/pokemon/pokemon.js';
 import { filterType } from './data.js';
-import{filterWeaknesses}from './data.js';
+import { filterWeaknesses, order, changeOrder } from './data.js';
+
+const btnAll = document.querySelector('#btnAll');
+const ordenAlfabetico = document.querySelector('#ordenAlfabetico')
 const pokemones = data.pokemon;
+const root = document.querySelector('#root');
+let btnSort = false;
 //console.log(filterWeaknesses(pokemones,"water"));
 function containerElement(dataPokemon) {
   const divElement = document.createElement('div');
@@ -15,7 +20,7 @@ function containerElement(dataPokemon) {
     <img src='${dataPokemon.img}'/>
     <p>${dataPokemon.num}</p>
     <h2>${dataPokemon.name}</h2>
-    <p> Tipo: ${typePokemon}</p>
+    <p> ${typePokemon}</p>
   </div>
   <div class="contenedorModal">
     <span class="close">&times;</span>
@@ -50,7 +55,7 @@ function verPokemon(cargaPokemon) {
 
 verPokemon(data.pokemon);
 
-//Prueba para fubciòn dinamica de selecciòn de tipo de pokemon
+//Función dinamica de selecciòn de tipo de pokemon
 function selectPokemon() {
   document.getElementById("cate").addEventListener("click", function (e) {
     const target = e.target.id; // Or any other selector.
@@ -83,4 +88,19 @@ function seleweaknesses() {
 }
 seleweaknesses()
 
-
+// ordenar A-Z y Z-A
+ordenAlfabetico.addEventListener('click', () => {
+  if (btnSort === false) {
+    root.innerHTML = '';
+    ordenAlfabetico.classList.replace('btn-order', 'btn-orderAsc');
+    const ascendente = order(pokemones, 'a-z');
+    verPokemon(ascendente);
+  }
+  if (btnSort === true) {
+    root.innerHTML = '';
+    ordenAlfabetico.classList.replace('btn-orderAsc', 'btn-order');
+    const descendente = changeOrder(order(pokemones, 'a-z'));
+    verPokemon(descendente);
+  }
+  btnSort = !btnSort;
+});
