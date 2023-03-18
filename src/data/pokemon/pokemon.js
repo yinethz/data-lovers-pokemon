@@ -14,8 +14,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "veneno"
+      "Hierva",
+      " - Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -30,22 +30,22 @@ export default {
       "max-hp": "113"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "hada"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "volador",
-      "psiquico"
+      "Fuego ",
+      "Hielo ",
+      "Volador ",
+      "Psíquico"
     ],
     "quick-move": [
       {
         "name": "vine whip",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -61,21 +61,21 @@ export default {
     "special-attack": [
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
         "name": "seed bomb",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.1"
       },
       {
         "name": "power whip",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
@@ -112,8 +112,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "veneno"
+      "Hierva  ",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -128,29 +128,29 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "hada"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "volador",
-      "psiquico"
+      "Fuego",
+      " Hielo",
+      " Volador",
+      " Psíquico"
     ],
     "quick-move": [
       {
         "name": "razor leaf",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "13",
         "energy": "7",
         "move-duration-seg": "1"
       },
       {
         "name": "vine whip",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -159,21 +159,21 @@ export default {
     "special-attack": [
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
       },
       {
         "name": "power whip",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
@@ -210,8 +210,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "veneno"
+      "Hierva",
+      " - Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -226,29 +226,29 @@ export default {
       "max-hp": "162"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "hada"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "volador",
-      "psiquico"
+      "Fuego",
+      " Hielo",
+      " Volador",
+      " Psíquico"
     ],
     "quick-move": [
       {
         "name": "razor leaf",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "13",
         "energy": "7",
         "move-duration-seg": "1"
       },
       {
         "name": "vine whip",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -257,21 +257,21 @@ export default {
     "special-attack": [
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
         "name": "petal blizzard",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "2.6"
       },
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
@@ -308,7 +308,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -323,21 +323,21 @@ export default {
       "max-hp": "105"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      " Tierra",
+      " Roca"
     ],
     "quick-move": [
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -353,21 +353,21 @@ export default {
     "special-attack": [
       {
         "name": "flame charge",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.8"
       },
       {
         "name": "flame burst",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -404,7 +404,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -419,28 +419,28 @@ export default {
       "max-hp": "131"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      " Tierra",
+      " Roca"
     ],
     "quick-move": [
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
       },
       {
-        "name": "fuego fang",
-        "type": "fuego",
+        "name": "Fuego fang",
+        "type": "Fuego",
         "base-damage": "11",
         "energy": "8",
         "move-duration-seg": "0.9"
@@ -455,22 +455,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "fuego punch",
-        "type": "fuego",
+        "name": "Fuego punch",
+        "type": "Fuego",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.2"
       },
       {
         "name": "flame burst",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -499,7 +499,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Charizard flies around the sky in search of powerful opponents. It breathes fuego of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+    "about": "Charizard flies around the sky in search of powerful opponents. It breathes Fuego of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
     "img": "https://www.serebii.net/pokemongo/pokemon/006.png",
     "size": {
       "height": "1.70 m",
@@ -507,8 +507,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego",
-      "volador"
+      "Fuego",
+      " - Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -523,42 +523,42 @@ export default {
       "max-hp": "158"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "lucha",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Luchador",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "electrico",
-      "roca"
+      "Agua",
+      " Electrico",
+      " Roca"
     ],
     "quick-move": [
       {
-        "name": "fuego spin",
-        "type": "fuego",
+        "name": "Fuego spin",
+        "type": "Fuego",
         "base-damage": "14",
         "energy": "10",
         "move-duration-seg": "1.1"
       },
       {
         "name": "air slash",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "14",
         "energy": "10",
         "move-duration-seg": "1.2"
       },
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
       },
       {
         "name": "wing attack",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "8",
         "energy": "9",
         "move-duration-seg": "0.8"
@@ -566,29 +566,29 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
       },
       {
-        "name": "dragon claw",
-        "type": "dragon",
+        "name": "Dragon claw",
+        "type": "Dragon",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.7"
       },
       {
         "name": "overheat",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "160",
         "energy": "-100",
         "move-duration-seg": "4"
       },
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -617,7 +617,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in agua, enabling this Pokémon to swim at high speeds.",
+    "about": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in Agua, enabling this Pokémon to swim at high speeds.",
     "img": "https://www.serebii.net/pokemongo/pokemon/007.png",
     "size": {
       "height": "0.51 m",
@@ -625,7 +625,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -640,19 +640,19 @@ export default {
       "max-hp": "112"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      " Hierva"
     ],
     "quick-move": [
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
@@ -668,21 +668,21 @@ export default {
     "special-attack": [
       {
         "name": "aqua jet",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "2.6"
       },
       {
         "name": "aqua tail",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -719,7 +719,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -734,19 +734,19 @@ export default {
       "max-hp": "132"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      " Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -762,21 +762,21 @@ export default {
     "special-attack": [
       {
         "name": "aqua jet",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "2.6"
       },
       {
-        "name": "ice beam",
-        "type": "hielo",
+        "name": "Hielo beam",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.3"
       },
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
@@ -805,7 +805,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Blastoise has agua spouts that protrude from its shell. The agua spouts are very accurate. They can shoot bullets of agua with enough accuracy to strike empty cans from a distance of over 160 feet.",
+    "about": "Blastoise has Agua spouts that protrude from its shell. The Agua spouts are very accurate. They can shoot bullets of Agua with enough accuracy to strike empty cans from a distance of over 160 feet.",
     "img": "https://www.serebii.net/pokemongo/pokemon/009.png",
     "size": {
       "height": "1.60 m",
@@ -813,7 +813,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -828,19 +828,19 @@ export default {
       "max-hp": "160"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      " Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -856,21 +856,21 @@ export default {
     "special-attack": [
       {
         "name": "flash cannon",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.7"
       },
       {
-        "name": "ice beam",
-        "type": "hielo",
+        "name": "Hielo beam",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.3"
       },
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
@@ -907,7 +907,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho"
+      "Bicho"
     ],
     "encounter": {
       "base-flee-rate": "0.2",
@@ -922,19 +922,19 @@ export default {
       "max-hp": "113"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra"
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "volador",
-      "roca"
+      "Fuego",
+      " Volador",
+      " Roca"
     ],
     "quick-move": [
       {
         "name": "bug bite",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -949,12 +949,12 @@ export default {
     ],
     "special-attack": [
       {
-      "name": "struggle",
-      "type": "normal",
-      "base-damage": "35",
-      "energy": "-33",
-      "move-duration-seg": "2.2"
-    }],
+        "name": "struggle",
+        "type": "normal",
+        "base-damage": "35",
+        "energy": "-33",
+        "move-duration-seg": "2.2"
+      }],
     "egg": "2 km",
     "buddy-distance-km": "1",
     "evolution": {
@@ -986,7 +986,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho"
+      "Bicho"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -1001,19 +1001,19 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra"
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "volador",
-      "roca"
+      "Fuego",
+      " Volador",
+      " Roca"
     ],
     "quick-move": [
       {
-        "name": "bug bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -1028,12 +1028,12 @@ export default {
     ],
     "special-attack": [
       {
-      "name": "struggle",
-      "type": "normal",
-      "base-damage": "35",
-      "energy": "-33",
-      "move-duration-seg": "2.2"
-    }],
+        "name": "struggle",
+        "type": "normal",
+        "base-damage": "35",
+        "energy": "-33",
+        "move-duration-seg": "2.2"
+      }],
     "egg": "not in eggs",
     "buddy-distance-km": "1",
     "evolution": {
@@ -1065,8 +1065,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "volador"
+      "Bicho",
+      " - Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -1081,36 +1081,36 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra",
-      "bicho"
+      "Hierva",
+      "Luchador",
+      "Tierra",
+      "Bicho"
     ],
     "weaknesses": [
-      "fuego",
-      "electrico",
-      "hielo",
-      "volador",
-      "roca"
+      "Fuego",
+      " Electrico",
+      " Hielo",
+      " Volador",
+      " Roca"
     ],
     "quick-move": [
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
       },
       {
         "name": "struggle bug",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "15",
         "energy": "15",
         "move-duration-seg": "1.5"
       },
       {
-        "name": "bicho bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -1118,22 +1118,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "bicho buzz",
-        "type": "bicho",
+        "name": "Bicho buzz",
+        "type": "Bicho",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.7"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "signal beam",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "75",
         "energy": "-50",
         "move-duration-seg": "2.9"
@@ -1170,8 +1170,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "veneno"
+      "Bicho",
+      " - Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.2",
@@ -1186,29 +1186,29 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "volador",
-      "psiquico",
-      "roca"
+      "Fuego",
+      " Volador",
+      " Psíquico",
+      " Roca"
     ],
     "quick-move": [
       {
-        "name": "bug bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
       },
       {
-        "name": "poison sting",
-        "type": "veneno",
+        "name": "Veneno sting",
+        "type": "Veneno",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -1216,12 +1216,12 @@ export default {
     ],
     "special-attack": [
       {
-      "name": "struggle",
-      "type": "normal",
-      "base-damage": "35",
-      "energy": "-33",
-      "move-duration-seg": "2.2"
-    }],
+        "name": "struggle",
+        "type": "normal",
+        "base-damage": "35",
+        "energy": "-33",
+        "move-duration-seg": "2.2"
+      }],
     "egg": "2 km",
     "buddy-distance-km": "1",
     "evolution": {
@@ -1253,8 +1253,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "veneno"
+      "Bicho",
+      " - Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -1269,29 +1269,29 @@ export default {
       "max-hp": "113"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "volador",
-      "psiquico",
-      "roca"
+      "Fuego",
+      " Volador",
+      " Psíquico",
+      " Roca"
     ],
     "quick-move": [
       {
-        "name": "bicho bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
       },
       {
-        "name": "poison sting",
-        "type": "veneno",
+        "name": "Veneno sting",
+        "type": "Veneno",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -1299,12 +1299,12 @@ export default {
     ],
     "special-attack": [
       {
-      "name": "struggle",
-      "type": "normal",
-      "base-damage": "35",
-      "energy": "-33",
-      "move-duration-seg": "2.2"
-    }],
+        "name": "struggle",
+        "type": "normal",
+        "base-damage": "35",
+        "energy": "-33",
+        "move-duration-seg": "2.2"
+      }],
     "egg": "not in eggs",
     "buddy-distance-km": "1",
     "evolution": {
@@ -1336,8 +1336,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "veneno"
+      "Bicho",
+      " - Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -1352,36 +1352,36 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "volador",
-      "psiquico",
-      "roca"
+      "Fuego",
+      " Volador",
+      " Psíquico",
+      " Roca"
     ],
     "quick-move": [
       {
-        "name": "poison jab",
-        "type": "veneno",
+        "name": "Veneno jab",
+        "type": "Veneno",
         "base-damage": "10",
         "energy": "7",
         "move-duration-seg": "0.8"
       },
       {
         "name": "infestation",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "10",
         "energy": "14",
         "move-duration-seg": "1.1"
       },
       {
-        "name": "bug bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -1390,21 +1390,21 @@ export default {
     "special-attack": [
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
       },
       {
         "name": "x scissor",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-100",
         "move-duration-seg": "4.7"
@@ -1442,7 +1442,7 @@ export default {
     "pokemon-rarity": "normal",
     "type": [
       "normal",
-      "volador"
+      " - Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.2",
@@ -1457,14 +1457,14 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "planta",
-      "tierra",
-      "bicho",
-      "fantasma"
+      "Hierva",
+      "Tierra",
+      "Bicho",
+      "Fantasma"
     ],
     "weaknesses": [
-      "electrico",
-      "roca"
+      "Electrico",
+      " Roca"
     ],
     "quick-move": [
       {
@@ -1485,21 +1485,21 @@ export default {
     "special-attack": [
       {
         "name": "twister",
-        "type": "dragon",
+        "type": "Dragon",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "2.8"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
       },
       {
         "name": "air cutter",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -1537,7 +1537,7 @@ export default {
     "pokemon-rarity": "normal",
     "type": [
       "normal",
-      "volador"
+      " - Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -1552,26 +1552,26 @@ export default {
       "max-hp": "138"
     },
     "resistant": [
-      "planta",
-      "tierra",
-      "bicho",
-      "fantasma"
+      "Hierva",
+      "Tierra",
+      "Bicho",
+      "Fantasma"
     ],
     "weaknesses": [
-      "electrico",
-      "roca"
+      "Electrico",
+      " Roca"
     ],
     "quick-move": [
       {
         "name": "wing attack",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "8",
         "energy": "9",
         "move-duration-seg": "0.8"
       },
       {
-        "name": "acero wing",
-        "type": "acero",
+        "name": "Acero wing",
+        "type": "Acero",
         "base-damage": "11",
         "energy": "6",
         "move-duration-seg": "0.8"
@@ -1580,21 +1580,21 @@ export default {
     "special-attack": [
       {
         "name": "twister",
-        "type": "dragon",
+        "type": "Dragon",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "2.8"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
       },
       {
         "name": "air cutter",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -1632,7 +1632,7 @@ export default {
     "pokemon-rarity": "normal",
     "type": [
       "normal",
-      "volador"
+      " - Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -1647,33 +1647,33 @@ export default {
       "max-hp": "165"
     },
     "resistant": [
-      "planta",
-      "tierra",
-      "bicho",
-      "fantasma"
+      "Hierva",
+      "Tierra",
+      "Bicho",
+      "Fantasma"
     ],
     "weaknesses": [
-      "electrico",
-      "roca"
+      "Electrico",
+      " Roca"
     ],
     "quick-move": [
       {
-        "name": "acero wing",
-        "type": "acero",
+        "name": "Acero wing",
+        "type": "Acero",
         "base-damage": "11",
         "energy": "6",
         "move-duration-seg": "0.8"
       },
       {
         "name": "air slash",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "14",
         "energy": "10",
         "move-duration-seg": "1.2"
       },
       {
         "name": "wing attack",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "8",
         "energy": "9",
         "move-duration-seg": "0.8"
@@ -1682,28 +1682,28 @@ export default {
     "special-attack": [
       {
         "name": "hurricane",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "2.7"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
       },
       {
         "name": "brave bird",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "90",
         "energy": "-100",
         "move-duration-seg": "2"
       },
       {
         "name": "air cutter",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -1755,10 +1755,10 @@ export default {
       "max-hp": "92"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -1779,7 +1779,7 @@ export default {
     "special-attack": [
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
@@ -1817,7 +1817,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Raticate's sturdy fangs grow steadily. To keep them tierra down, it gnaws on rocas and logs. It may even chew on the walls of houses.",
+    "about": "Raticate's sturdy fangs grow steadily. To keep them Tierra down, it gnaws on Rocas and logs. It may even chew on the walls of houses.",
     "img": "https://www.serebii.net/pokemongo/pokemon/020.png",
     "size": {
       "height": "0.71 m",
@@ -1840,10 +1840,10 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -1864,7 +1864,7 @@ export default {
     "special-attack": [
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
@@ -1911,7 +1911,7 @@ export default {
     "pokemon-rarity": "normal",
     "type": [
       "normal",
-      "volador"
+      " - Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -1926,19 +1926,19 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "planta",
-      "tierra",
-      "bicho",
-      "fantasma"
+      "Hierva",
+      " Tierra",
+      " Bicho",
+      " Fantasma"
     ],
     "weaknesses": [
-      "electrico",
-      "roca"
+      "Electrico",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -1954,28 +1954,28 @@ export default {
     "special-attack": [
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
       },
       {
         "name": "drill peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "2.3"
       },
       {
         "name": "sky attack",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2"
       },
       {
         "name": "twister",
-        "type": "dragon",
+        "type": "Dragon",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "2.8"
@@ -1999,7 +1999,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or agua. It deftly moves its long and skinny beak to pluck prey.",
+    "about": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or Agua. It deftly moves its long and skinny beak to pluck prey.",
     "img": "https://www.serebii.net/pokemongo/pokemon/022.png",
     "size": {
       "height": "1.19 m",
@@ -2008,7 +2008,7 @@ export default {
     "pokemon-rarity": "normal",
     "type": [
       "normal",
-      "volador"
+      " - Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -2023,26 +2023,26 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "planta",
-      "tierra",
-      "bicho",
-      "fantasma"
+      "Hierva",
+      " Tierra",
+      " Bicho",
+      " Fantasma"
     ],
     "weaknesses": [
-      "electrico",
-      "roca"
+      "Electrico",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
       },
       {
-        "name": "acero wing",
-        "type": "acero",
+        "name": "Acero wing",
+        "type": "Acero",
         "base-damage": "11",
         "energy": "6",
         "move-duration-seg": "0.8"
@@ -2051,28 +2051,28 @@ export default {
     "special-attack": [
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
       },
       {
         "name": "drill run",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.8"
       },
       {
         "name": "sky attack",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2"
       },
       {
         "name": "twister",
-        "type": "dragon",
+        "type": "Dragon",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "2.8"
@@ -2104,7 +2104,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno"
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -2119,27 +2119,27 @@ export default {
       "max-hp": "99"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "tierra",
-      "psiquico"
+      "Tierra",
+      " Psíquico"
     ],
     "quick-move": [
       {
-        "name": "poison sting",
-        "type": "veneno",
+        "name": "Veneno sting",
+        "type": "Veneno",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
       },
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
@@ -2155,21 +2155,21 @@ export default {
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
-        "name": "poison fang",
-        "type": "veneno",
+        "name": "Veneno fang",
+        "type": "Veneno",
         "base-damage": "35",
         "energy": "-33",
         "move-duration-seg": "1.7"
       },
       {
         "name": "gunk shot",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
@@ -2193,7 +2193,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten acero oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
+    "about": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten Acero oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
     "img": "https://www.serebii.net/pokemongo/pokemon/024.png",
     "size": {
       "height": "3.51 m",
@@ -2201,7 +2201,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno"
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -2216,15 +2216,15 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "tierra",
-      "psiquico"
+      "Tierra",
+      " Psíquico"
     ],
     "quick-move": [
       {
@@ -2236,7 +2236,7 @@ export default {
       },
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
@@ -2252,14 +2252,14 @@ export default {
       },
       {
         "name": "sludge wave",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "3.2"
       },
       {
         "name": "gunk shot",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
@@ -2283,7 +2283,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricoity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
+    "about": "Whenever Pikachu comes across something new, it blasts it with a jolt of Electricoity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
     "img": "https://www.serebii.net/pokemongo/pokemon/025.png",
     "size": {
       "height": "0.41 m",
@@ -2291,7 +2291,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -2306,17 +2306,17 @@ export default {
       "max-hp": "99"
     },
     "resistant": [
-      "electrico",
-      "volador",
-      "acero"
+      "Electrico",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "tierra"
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "thunder shock",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "5",
         "energy": "8",
         "move-duration-seg": "0.6"
@@ -2332,28 +2332,28 @@ export default {
     "special-attack": [
       {
         "name": "discharge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.5"
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
         "name": "wild charge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "thunder",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.4"
@@ -2382,7 +2382,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "If the electricoal sacs become excessively charged, Raichu plants its tail in the tierra and discharges. Scorched patches of tierra will be found near this Pokémon's nest.",
+    "about": "If the Electricoal sacs become excessively charged, Raichu plants its tail in the Tierra and discharges. Scorched patches of Tierra will be found near this Pokémon's nest.",
     "img": "https://www.serebii.net/pokemongo/pokemon/026.png",
     "size": {
       "height": "0.79 m",
@@ -2390,7 +2390,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -2405,31 +2405,31 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "electrico",
-      "volador",
-      "acero"
+      "Electrico",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "tierra"
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "spark",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "6",
         "energy": "9",
         "move-duration-seg": "0.7"
       },
       {
         "name": "volt switch",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "20",
         "energy": "25",
         "move-duration-seg": "2.3"
       },
       {
         "name": "thunder shock",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "5",
         "energy": "8",
         "move-duration-seg": "0.6"
@@ -2445,21 +2445,21 @@ export default {
       },
       {
         "name": "thunder punch",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.8"
       },
       {
         "name": "wild charge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "thunder",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.4"
@@ -2488,7 +2488,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Sandshrew's body is configured to absorb agua without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
+    "about": "Sandshrew's body is configured to absorb Agua without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
     "img": "https://www.serebii.net/pokemongo/pokemon/027.png",
     "size": {
       "height": "0.61 m",
@@ -2496,7 +2496,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "tierra"
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -2511,14 +2511,14 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "electrico",
-      "veneno",
-      "roca"
+      "Electrico",
+      "Veneno",
+      "Roca"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo"
+      "Agua",
+      " Hierva",
+      " Hielo"
     ],
     "quick-move": [
       {
@@ -2530,7 +2530,7 @@ export default {
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -2539,28 +2539,28 @@ export default {
     "special-attack": [
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
       },
       {
-        "name": "rock slide",
-        "type": "roca",
+        "name": "Roca slide",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
         "name": "sand tomb",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "4"
       },
       {
-        "name": "rock tomb",
-        "type": "roca",
+        "name": "Roca tomb",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -2592,7 +2592,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "tierra"
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -2607,26 +2607,26 @@ export default {
       "max-hp": "154"
     },
     "resistant": [
-      "electrico",
-      "veneno",
-      "roca"
+      "Electrico",
+      "Veneno",
+      "Roca"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo"
+      "Agua",
+      " Hierva",
+      " Hielo"
     ],
     "quick-move": [
       {
         "name": "metal claw",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "8",
         "energy": "7",
         "move-duration-seg": "0.7"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -2635,21 +2635,21 @@ export default {
     "special-attack": [
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
       },
       {
-        "name": "rock tomb",
-        "type": "roca",
+        "name": "Roca tomb",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "bulldoze",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.5"
@@ -2673,7 +2673,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Nidoran ♀ has barbs that secrete a powerful veneno. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
+    "about": "Nidoran ♀ has barbs that secrete a powerful Veneno. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
     "img": "https://www.serebii.net/pokemongo/pokemon/029.png",
     "size": {
       "height": "0.41 m",
@@ -2681,7 +2681,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno"
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -2696,15 +2696,15 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "tierra",
-      "psiquico"
+      "Tierra",
+      " Psíquico"
     ],
     "quick-move": [
       {
@@ -2715,8 +2715,8 @@ export default {
         "move-duration-seg": "0.5"
       },
       {
-        "name": "poison sting",
-        "type": "veneno",
+        "name": "Veneno sting",
+        "type": "Veneno",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -2724,8 +2724,8 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "poison fang",
-        "type": "veneno",
+        "name": "Veneno fang",
+        "type": "Veneno",
         "base-damage": "35",
         "energy": "-33",
         "move-duration-seg": "1.7"
@@ -2739,7 +2739,7 @@ export default {
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
@@ -2776,7 +2776,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno"
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -2791,15 +2791,15 @@ export default {
       "max-hp": "147"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "tierra",
-      "psiquico"
+      "Tierra",
+      " Psíquico"
     ],
     "quick-move": [
       {
@@ -2810,8 +2810,8 @@ export default {
         "move-duration-seg": "0.5"
       },
       {
-        "name": "poison sting",
-        "type": "veneno",
+        "name": "Veneno sting",
+        "type": "Veneno",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -2819,22 +2819,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "poison fang",
-        "type": "veneno",
+        "name": "Veneno fang",
+        "type": "Veneno",
         "base-damage": "35",
         "energy": "-33",
         "move-duration-seg": "1.7"
       },
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
@@ -2863,7 +2863,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes volador with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
+    "about": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes Volador with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
     "img": "https://www.serebii.net/pokemongo/pokemon/031.png",
     "size": {
       "height": "1.30 m",
@@ -2871,8 +2871,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno",
-      "tierra"
+      "Veneno",
+      " - Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -2887,22 +2887,22 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "electrico",
-      "lucha",
-      "veneno",
-      "bicho",
-      "roca"
+      "Electrico",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Roca"
     ],
     "weaknesses": [
-      "agua",
-      "hielo",
-      "tierra",
-      "psiquico"
+      "Agua",
+      " Hielo",
+      " Tierra",
+      " Psíquico"
     ],
     "quick-move": [
       {
-        "name": "poison jab",
-        "type": "veneno",
+        "name": "Veneno jab",
+        "type": "Veneno",
         "base-damage": "10",
         "energy": "7",
         "move-duration-seg": "0.8"
@@ -2918,21 +2918,21 @@ export default {
     "special-attack": [
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
       },
       {
         "name": "sludge wave",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "3.2"
       },
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -2961,7 +2961,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Nidoran ♂ (Male) has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's nothielo.",
+    "about": "Nidoran ♂ (Male) has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notHielo.",
     "img": "https://www.serebii.net/pokemongo/pokemon/032.png",
     "size": {
       "height": "0.51 m",
@@ -2969,7 +2969,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno"
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -2984,27 +2984,27 @@ export default {
       "max-hp": "114"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "tierra",
-      "psiquico"
+      "Tierra",
+      "Psíquico"
     ],
     "quick-move": [
       {
         "name": "peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
       },
       {
-        "name": "poison sting",
-        "type": "veneno",
+        "name": "Veneno sting",
+        "type": "Veneno",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -3027,7 +3027,7 @@ export default {
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
@@ -3064,7 +3064,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno"
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -3079,27 +3079,27 @@ export default {
       "max-hp": "135"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "tierra",
-      "psiquico"
+      "Tierra",
+      "Psíquico"
     ],
     "quick-move": [
       {
-        "name": "poison jab",
-        "type": "veneno",
+        "name": "Veneno jab",
+        "type": "Veneno",
         "base-damage": "10",
         "energy": "7",
         "move-duration-seg": "0.8"
       },
       {
-        "name": "poison sting",
-        "type": "veneno",
+        "name": "Veneno sting",
+        "type": "Veneno",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -3115,14 +3115,14 @@ export default {
       },
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
@@ -3159,8 +3159,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno",
-      "tierra"
+      "Veneno",
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -3175,36 +3175,36 @@ export default {
       "max-hp": "162"
     },
     "resistant": [
-      "electrico",
-      "lucha",
-      "veneno",
-      "bicho",
-      "roca"
+      "Electrico",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Roca"
     ],
     "weaknesses": [
-      "agua",
-      "hielo",
-      "tierra",
-      "psiquico"
+      "Agua",
+      "Hielo",
+      "Tierra",
+      "Psíquico"
     ],
     "quick-move": [
       {
-        "name": "poison jab",
-        "type": "veneno",
+        "name": "Veneno jab",
+        "type": "Veneno",
         "base-damage": "10",
         "energy": "7",
         "move-duration-seg": "0.8"
       },
       {
         "name": "iron tail",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "15",
         "energy": "7",
         "move-duration-seg": "1.1"
       },
       {
         "name": "fury cutter",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "3",
         "energy": "6",
         "move-duration-seg": "0.4"
@@ -3213,21 +3213,21 @@ export default {
     "special-attack": [
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
       },
       {
         "name": "sludge wave",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "3.2"
       },
       {
         "name": "megahorn",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "90",
         "energy": "-100",
         "move-duration-seg": "2.2"
@@ -3251,12 +3251,12 @@ export default {
   },
   {
     "num": "035",
-    "name": "clefairy",
+    "name": "cleHada",
     "generation": {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clehada return to their quiet mountain retreats and go to sleep nestled up against each other.",
+    "about": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired CleHada return to their quiet mountain retreats and go to sleep nestled up against each other.",
     "img": "https://www.serebii.net/pokemongo/pokemon/035.png",
     "size": {
       "height": "0.61 m",
@@ -3279,13 +3279,13 @@ export default {
       "max-hp": "147"
     },
     "resistant": [
-      "lucha",
-      "bicho",
-      "dragon",
-      "oscuro"
+      "Luchador",
+      "Bicho",
+      "Dragon",
+      "dark"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -3297,7 +3297,7 @@ export default {
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -3305,8 +3305,8 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "disarming voice",
-        "type": "hada",
+        "name": "disarming voHielo",
+        "type": "Hada",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.9"
@@ -3320,7 +3320,7 @@ export default {
       },
       {
         "name": "moonblast",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.9"
@@ -3329,7 +3329,7 @@ export default {
     "egg": "2 km",
     "buddy-distance-km": "1",
     "evolution": {
-      "candy": "clehada candy",
+      "candy": "cleHada candy",
       "next-evolution": [{
         "num": "036",
         "name": "clefable",
@@ -3349,7 +3349,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Clefable moves by skipping lightly as if it were volador using its wings. Its bouncy step even lets it walk on agua. It is known to take strolls on lakes on quiet, moonlit nights.",
+    "about": "Clefable moves by skipping lightly as if it were Volador using its wings. Its bouncy step even lets it walk on Agua. It is known to take strolls on lakes on quiet, moonlit nights.",
     "img": "https://www.serebii.net/pokemongo/pokemon/036.png",
     "size": {
       "height": "1.30 m",
@@ -3372,25 +3372,25 @@ export default {
       "max-hp": "182"
     },
     "resistant": [
-      "lucha",
-      "bicho",
-      "dragon",
-      "oscuro"
+      "Luchador",
+      "Bicho",
+      "Dragon",
+      "dark"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
       },
       {
         "name": "charge beam",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "8",
         "energy": "15",
         "move-duration-seg": "1.1"
@@ -3406,21 +3406,21 @@ export default {
     "special-attack": [
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "moonblast",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.9"
@@ -3429,10 +3429,10 @@ export default {
     "egg": "not in eggs",
     "buddy-distance-km": "1",
     "evolution": {
-      "candy": "clehada candy",
+      "candy": "cleHada candy",
       "prev-evolution": [{
         "num": "035",
-        "name": "clefairy",
+        "name": "cleHada",
         "candy-cost": "50",
         "prev-evolution": [{
           "num": "173",
@@ -3449,7 +3449,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its trainer. The six tails become magnifhielontly curled.",
+    "about": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its trainer. The six tails become magnifHielontly curled.",
     "img": "https://www.serebii.net/pokemongo/pokemon/037.png",
     "size": {
       "height": "0.61 m",
@@ -3457,7 +3457,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -3472,16 +3472,16 @@ export default {
       "max-hp": "103"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
@@ -3493,7 +3493,7 @@ export default {
       },
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -3509,14 +3509,14 @@ export default {
       },
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
       },
       {
         "name": "flame charge",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.8"
@@ -3548,7 +3548,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -3563,16 +3563,16 @@ export default {
       "max-hp": "151"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
@@ -3583,15 +3583,15 @@ export default {
         "move-duration-seg": "0.9"
       },
       {
-        "name": "fuego spin",
-        "type": "fuego",
+        "name": "Fuego spin",
+        "type": "Fuego",
         "base-damage": "14",
         "energy": "10",
         "move-duration-seg": "1.1"
       },
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -3600,35 +3600,35 @@ export default {
     "special-attack": [
       {
         "name": "heat wave",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "95",
         "energy": "-100",
         "move-duration-seg": "3"
       },
       {
         "name": "overheat",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "160",
         "energy": "-100",
         "move-duration-seg": "4"
       },
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
       },
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
       },
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "fire",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -3652,7 +3652,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Jigglypuff's vocal cords can freely adjust the wavelength of its vohielo. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
+    "about": "Jigglypuff's vocal cords can freely adjust the wavelength of its voHielo. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
     "img": "https://www.serebii.net/pokemongo/pokemon/039.png",
     "size": {
       "height": "0.51 m",
@@ -3675,13 +3675,13 @@ export default {
       "max-hp": "210"
     },
     "resistant": [
-      "bicho",
-      "fantasma",
-      "dragon",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "Dragon",
+      "dark"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -3701,22 +3701,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "disarming voice",
-        "type": "hada",
+        "name": "disarming voHielo",
+        "type": "Hada",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.9"
       },
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
       },
       {
         "name": "gyro ball",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.3"
@@ -3730,7 +3730,7 @@ export default {
       },
       {
         "name": "play rough",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.9"
@@ -3782,13 +3782,13 @@ export default {
       "max-hp": "244"
     },
     "resistant": [
-      "bicho",
-      "fantasma",
-      "dragon",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "Dragon",
+      "dark"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -3809,7 +3809,7 @@ export default {
     "special-attack": [
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
@@ -3823,7 +3823,7 @@ export default {
       },
       {
         "name": "play rough",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.9"
@@ -3860,8 +3860,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno",
-      "volador"
+      "Veneno",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.2",
@@ -3876,17 +3876,17 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "electrico",
-      "hielo",
-      "psiquico",
-      "roca"
+      "Electrico",
+      "Hielo",
+      "Psíquico",
+      "Roca"
     ],
     "quick-move": [
       {
@@ -3906,15 +3906,15 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "poison fang",
-        "type": "veneno",
+        "name": "Veneno fang",
+        "type": "Veneno",
         "base-damage": "35",
         "energy": "-33",
         "move-duration-seg": "1.7"
       },
       {
         "name": "air cutter",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -3928,7 +3928,7 @@ export default {
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
@@ -3965,8 +3965,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno",
-      "volador"
+      "Veneno",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -3981,22 +3981,22 @@ export default {
       "max-hp": "154"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "electrico",
-      "hielo",
-      "psiquico",
-      "roca"
+      "Electrico",
+      "Hielo",
+      "Psíquico",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "wing attack",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "8",
         "energy": "9",
         "move-duration-seg": "0.8"
@@ -4011,29 +4011,29 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "poison fang",
-        "type": "veneno",
+        "name": "Veneno fang",
+        "type": "Veneno",
         "base-damage": "35",
         "energy": "-33",
         "move-duration-seg": "1.7"
       },
       {
         "name": "air cutter",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
         "name": "shadow ball",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3"
       },
       {
         "name": "ominous wind",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.3"
@@ -4061,7 +4061,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "During the daytime, Oddish buries itself in soil to absorb nutrients from the tierra using its entire body. The more fertile the soil, the glossier its leaves become.",
+    "about": "During the daytime, Oddish buries itself in soil to absorb nutrients from the Tierra using its entire body. The more fertile the soil, the glossier its leaves become.",
     "img": "https://www.serebii.net/pokemongo/pokemon/043.png",
     "size": {
       "height": "0.51 m",
@@ -4069,8 +4069,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "veneno"
+      "Hierva",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -4085,29 +4085,29 @@ export default {
       "max-hp": "113"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "hada"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "volador",
-      "psiquico"
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
     ],
     "quick-move": [
       {
         "name": "razor leaf",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "13",
         "energy": "7",
         "move-duration-seg": "1"
       },
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
@@ -4116,21 +4116,21 @@ export default {
     "special-attack": [
       {
         "name": "seed bomb",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.1"
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
         "name": "moonblast",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.9"
@@ -4178,8 +4178,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "veneno"
+      "Hierva",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -4194,29 +4194,29 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "hada"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "volador",
-      "psiquico"
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
     ],
     "quick-move": [
       {
         "name": "razor leaf",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "13",
         "energy": "7",
         "move-duration-seg": "1"
       },
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
@@ -4225,21 +4225,21 @@ export default {
     "special-attack": [
       {
         "name": "petal blizzard",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "2.6"
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
         "name": "moonblast",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.9"
@@ -4287,8 +4287,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "veneno"
+      "Hierva",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -4303,29 +4303,29 @@ export default {
       "max-hp": "154"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "hada"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "volador",
-      "psiquico"
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
     ],
     "quick-move": [
       {
         "name": "razor leaf",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "13",
         "energy": "7",
         "move-duration-seg": "1"
       },
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
@@ -4334,21 +4334,21 @@ export default {
     "special-attack": [
       {
         "name": "petal blizzard",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "2.6"
       },
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
       },
       {
         "name": "moonblast",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.9"
@@ -4377,7 +4377,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this bicho Pokémon host. They are highly valued as a medicine for extending life.",
+    "about": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bicho Pokémon host. They are highly valued as a medicine for extending life.",
     "img": "https://www.serebii.net/pokemongo/pokemon/046.png",
     "size": {
       "height": "0.30 m",
@@ -4385,8 +4385,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "planta"
+      "Bicho",
+      "Hierva"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -4401,19 +4401,19 @@ export default {
       "max-hp": "99"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "tierra"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador",
-      "bicho",
-      "roca"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador",
+      "Bicho",
+      "Roca"
     ],
     "quick-move": [
       {
@@ -4424,8 +4424,8 @@ export default {
         "move-duration-seg": "0.5"
       },
       {
-        "name": "bug bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -4433,22 +4433,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "cross poison",
-        "type": "veneno",
+        "name": "cross Veneno",
+        "type": "Veneno",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.5"
       },
       {
         "name": "x scissor",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-100",
         "move-duration-seg": "4.7"
       },
       {
         "name": "seed bomb",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.1"
@@ -4480,8 +4480,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "planta"
+      "Bicho",
+      "Hierva"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -4496,38 +4496,38 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "tierra"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador",
-      "bicho",
-      "roca"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador",
+      "Bicho",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "fury cutter",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "3",
         "energy": "6",
         "move-duration-seg": "0.4"
       },
       {
-        "name": "struggle bug",
-        "type": "bicho",
+        "name": "struggle Bicho",
+        "type": "Bicho",
         "base-damage": "15",
         "energy": "15",
         "move-duration-seg": "1.5"
       },
       {
-        "name": "bicho bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -4535,22 +4535,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "cross poison",
-        "type": "veneno",
+        "name": "cross Veneno",
+        "type": "Veneno",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.5"
       },
       {
         "name": "x scissor",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-100",
         "move-duration-seg": "4.7"
       },
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
@@ -4582,8 +4582,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "veneno"
+      "Bicho",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -4598,29 +4598,29 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "volador",
-      "psiquico",
-      "roca"
+      "Fuego",
+      "Volador",
+      "Psíquico",
+      "Roca"
     ],
     "quick-move": [
       {
-        "name": "bicho bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
       },
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
@@ -4629,21 +4629,21 @@ export default {
     "special-attack": [
       {
         "name": "psybeam",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
-        "name": "poison fang",
-        "type": "veneno",
+        "name": "Veneno fang",
+        "type": "Veneno",
         "base-damage": "35",
         "energy": "-33",
         "move-duration-seg": "1.7"
       },
       {
         "name": "signal beam",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "75",
         "energy": "-50",
         "move-duration-seg": "2.9"
@@ -4675,8 +4675,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "veneno"
+      "Bicho",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -4691,36 +4691,36 @@ export default {
       "max-hp": "147"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "volador",
-      "psiquico",
-      "roca"
+      "Fuego",
+      "Volador",
+      "Psíquico",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
       },
       {
         "name": "infestation",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "10",
         "energy": "14",
         "move-duration-seg": "1.1"
       },
       {
-        "name": "bug bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -4728,29 +4728,29 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
-        "name": "bicho buzz",
-        "type": "bicho",
+        "name": "Bicho buzz",
+        "type": "Bicho",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.7"
       },
       {
         "name": "silver wind",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.7"
       },
       {
-        "name": "poison fang",
-        "type": "veneno",
+        "name": "Veneno fang",
+        "type": "Veneno",
         "base-damage": "35",
         "energy": "-33",
         "move-duration-seg": "1.7"
@@ -4782,7 +4782,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "tierra"
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -4797,19 +4797,19 @@ export default {
       "max-hp": "64"
     },
     "resistant": [
-      "electrico",
-      "veneno",
-      "roca"
+      "Electrico",
+      "Veneno",
+      "Roca"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo"
+      "Agua",
+      "Hierva",
+      "Hielo"
     ],
     "quick-move": [
       {
         "name": "mud slap",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "15",
         "energy": "12",
         "move-duration-seg": "1.4"
@@ -4823,7 +4823,7 @@ export default {
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -4832,21 +4832,21 @@ export default {
     "special-attack": [
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
       },
       {
         "name": "mud bomb",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.3"
       },
       {
-        "name": "rock tomb",
-        "type": "roca",
+        "name": "Roca tomb",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -4878,7 +4878,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "tierra"
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -4893,14 +4893,14 @@ export default {
       "max-hp": "99"
     },
     "resistant": [
-      "electrico",
-      "veneno",
-      "roca"
+      "Electrico",
+      "Veneno",
+      "Roca"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo"
+      "Agua",
+      "Hierva",
+      "Hielo"
     ],
     "quick-move": [
       {
@@ -4912,14 +4912,14 @@ export default {
       },
       {
         "name": "mud slap",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "15",
         "energy": "12",
         "move-duration-seg": "1.4"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -4928,21 +4928,21 @@ export default {
     "special-attack": [
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
       },
       {
         "name": "mud bomb",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.3"
       },
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -4989,10 +4989,10 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -5081,10 +5081,10 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -5105,14 +5105,14 @@ export default {
     "special-attack": [
       {
         "name": "power gem",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.9"
       },
       {
         "name": "play rough",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.9"
@@ -5158,7 +5158,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -5173,26 +5173,26 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -5201,14 +5201,14 @@ export default {
     "special-attack": [
       {
         "name": "psybeam",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "aqua tail",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -5247,7 +5247,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -5262,26 +5262,26 @@ export default {
       "max-hp": "162"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
@@ -5289,22 +5289,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
-        "name": "ice beam",
-        "type": "hielo",
+        "name": "Hielo beam",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.3"
@@ -5336,7 +5336,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "lucha"
+      "Luchador"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -5351,14 +5351,14 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "bicho",
-      "roca",
-      "oscuro"
+      "Bicho",
+      "Roca",
+      "dark"
     ],
     "weaknesses": [
-      "volador",
-      "psiquico",
-      "hada"
+      "Volador",
+      "Psíquico",
+      "Hada"
     ],
     "quick-move": [
       {
@@ -5425,7 +5425,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "lucha"
+      "Luchador"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -5440,14 +5440,14 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "bicho",
-      "roca",
-      "oscuro"
+      "Bicho",
+      "Roca",
+      "dark"
     ],
     "weaknesses": [
-      "volador",
-      "psiquico",
-      "hada"
+      "Volador",
+      "Psíquico",
+      "Hada"
     ],
     "quick-move": [
       {
@@ -5528,7 +5528,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -5543,21 +5543,21 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -5573,7 +5573,7 @@ export default {
     "special-attack": [
       {
         "name": "flame wheel",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -5587,7 +5587,7 @@ export default {
       },
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -5611,7 +5611,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fuego that blazes wildly within this Pokémon's body is its source of power.",
+    "about": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The Fuego that blazes wildly within this Pokémon's body is its source of power.",
     "img": "https://www.serebii.net/pokemongo/pokemon/059.png",
     "size": {
       "height": "1.91 m",
@@ -5619,7 +5619,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -5634,21 +5634,21 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
-        "name": "fuego fang",
-        "type": "fuego",
+        "name": "Fuego fang",
+        "type": "Fuego",
         "base-damage": "11",
         "energy": "8",
         "move-duration-seg": "0.9"
@@ -5670,15 +5670,15 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
       },
       {
         "name": "wild charge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
@@ -5692,14 +5692,14 @@ export default {
       },
       {
         "name": "bulldoze",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.5"
       },
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -5731,7 +5731,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -5746,26 +5746,26 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -5774,14 +5774,14 @@ export default {
     "special-attack": [
       {
         "name": "bubble beam",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
         "name": "mud bomb",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.3"
@@ -5813,8 +5813,8 @@ export default {
             "name": "politoed",
             "candy-cost": "100",
             "evolution-item": {
-              "name": "kings rock",
-              "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/kings-roca.png"
+              "name": "kings Roca",
+              "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/kings-Roca.png"
             }
           }
         ]
@@ -5836,7 +5836,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -5851,26 +5851,26 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -5879,28 +5879,28 @@ export default {
     "special-attack": [
       {
         "name": "mud bomb",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.3"
       },
       {
         "name": "bubble beam",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "scald",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.7"
@@ -5921,8 +5921,8 @@ export default {
           "name": "politoed",
           "candy-cost": "100",
           "evolution-item": {
-            "name": "kings rock",
-            "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/kings-roca.png"
+            "name": "kings Roca",
+            "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/kings-Roca.png"
           }
         }
       ],
@@ -5948,8 +5948,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "lucha"
+      "Agua",
+      "Luchador"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -5964,37 +5964,37 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "bicho",
-      "roca"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Bicho",
+      "Roca"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "volador",
-      "psiquico",
-      "hada"
+      "Electrico",
+      "Hierva",
+      "Volador",
+      "Psíquico",
+      "Hada"
     ],
     "quick-move": [
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
       },
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -6003,14 +6003,14 @@ export default {
     "special-attack": [
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
-        "name": "ice punch",
-        "type": "hielo",
+        "name": "Hielo punch",
+        "type": "Hielo",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -6061,7 +6061,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "psiquico"
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.99",
@@ -6076,25 +6076,25 @@ export default {
       "max-hp": "85"
     },
     "resistant": [
-      "lucha",
-      "psiquico"
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
       },
       {
         "name": "charge beam",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "8",
         "energy": "15",
         "move-duration-seg": "1.1"
@@ -6103,21 +6103,21 @@ export default {
     "special-attack": [
       {
         "name": "psyshock",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.7"
       },
       {
         "name": "signal beam",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "75",
         "energy": "-50",
         "move-duration-seg": "2.9"
       },
       {
         "name": "shadow ball",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3"
@@ -6154,7 +6154,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "psiquico"
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -6169,25 +6169,25 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "lucha",
-      "psiquico"
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
         "name": "psycho cut",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "5",
         "energy": "8",
         "move-duration-seg": "0.6"
       },
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
@@ -6196,21 +6196,21 @@ export default {
     "special-attack": [
       {
         "name": "psybeam",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
       },
       {
         "name": "shadow ball",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3"
@@ -6247,7 +6247,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "psiquico"
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -6262,25 +6262,25 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "lucha",
-      "psiquico"
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
         "name": "psycho cut",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "5",
         "energy": "8",
         "move-duration-seg": "0.6"
       },
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
@@ -6289,14 +6289,14 @@ export default {
     "special-attack": [
       {
         "name": "shadow ball",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3"
       },
       {
         "name": "futuresight",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "2.7"
@@ -6310,14 +6310,14 @@ export default {
       },
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
@@ -6354,7 +6354,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "lucha"
+      "Luchador"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -6369,14 +6369,14 @@ export default {
       "max-hp": "147"
     },
     "resistant": [
-      "bicho",
-      "roca",
-      "oscuro"
+      "Bicho",
+      "Roca",
+      "dark"
     ],
     "weaknesses": [
-      "volador",
-      "psiquico",
-      "hada"
+      "Volador",
+      "Psíquico",
+      "Hada"
     ],
     "quick-move": [
       {
@@ -6387,8 +6387,8 @@ export default {
         "move-duration-seg": "0.8"
       },
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -6447,7 +6447,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Machoke's thoroughly toned muscles possess the hardness of acero. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
+    "about": "Machoke's thoroughly toned muscles possess the hardness of Acero. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
     "img": "https://www.serebii.net/pokemongo/pokemon/067.png",
     "size": {
       "height": "1.50 m",
@@ -6455,7 +6455,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "lucha"
+      "Luchador"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -6470,14 +6470,14 @@ export default {
       "max-hp": "162"
     },
     "resistant": [
-      "bicho",
-      "roca",
-      "oscuro"
+      "Bicho",
+      "Roca",
+      "dark"
     ],
     "weaknesses": [
-      "volador",
-      "psiquico",
-      "hada"
+      "Volador",
+      "Psíquico",
+      "Hada"
     ],
     "quick-move": [
       {
@@ -6556,7 +6556,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "lucha"
+      "Luchador"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -6571,19 +6571,19 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "bicho",
-      "roca",
-      "oscuro"
+      "Bicho",
+      "Roca",
+      "dark"
     ],
     "weaknesses": [
-      "volador",
-      "psiquico",
-      "hada"
+      "Volador",
+      "Psíquico",
+      "Hada"
     ],
     "quick-move": [
       {
         "name": "bullet punch",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "9",
         "energy": "10",
         "move-duration-seg": "0.9"
@@ -6606,7 +6606,7 @@ export default {
     "special-attack": [
       {
         "name": "heavy slam",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.1"
@@ -6634,7 +6634,7 @@ export default {
       },
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -6678,8 +6678,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "veneno"
+      "Hierva",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -6694,29 +6694,29 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "hada"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "volador",
-      "psiquico"
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
     ],
     "quick-move": [
       {
         "name": "vine whip",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
       },
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
@@ -6725,14 +6725,14 @@ export default {
     "special-attack": [
       {
         "name": "power whip",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
@@ -6768,7 +6768,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the tierra.",
+    "about": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the Tierra.",
     "img": "https://www.serebii.net/pokemongo/pokemon/070.png",
     "size": {
       "height": "0.99 m",
@@ -6776,8 +6776,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "veneno"
+      "Hierva",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -6792,36 +6792,36 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "hada"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "volador",
-      "psiquico"
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
     ],
     "quick-move": [
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
       },
       {
         "name": "bullet seed",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "8",
         "energy": "14",
         "move-duration-seg": "1.1"
       },
       {
         "name": "razor leaf",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "13",
         "energy": "7",
         "move-duration-seg": "1"
@@ -6830,21 +6830,21 @@ export default {
     "special-attack": [
       {
         "name": "power whip",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
         "name": "seed bomb",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.1"
@@ -6881,8 +6881,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "veneno"
+      "Hierva",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -6897,29 +6897,29 @@ export default {
       "max-hp": "162"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "hada"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "volador",
-      "psiquico"
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psíquico"
     ],
     "quick-move": [
       {
         "name": "razor leaf",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "13",
         "energy": "7",
         "move-duration-seg": "1"
       },
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
@@ -6928,21 +6928,21 @@ export default {
     "special-attack": [
       {
         "name": "leaf blade",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "2.4"
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
@@ -6971,7 +6971,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Tentacool's body is largely composed of agua. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea.",
+    "about": "Tentacool's body is largely composed of Agua. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea.",
     "img": "https://www.serebii.net/pokemongo/pokemon/072.png",
     "size": {
       "height": "0.89 m",
@@ -6979,8 +6979,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "veneno"
+      "Agua",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -6995,28 +6995,28 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "lucha",
-      "veneno"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Luchador",
+      "Veneno"
     ],
     "weaknesses": [
-      "electrico",
-      "tierra",
-      "psiquico"
+      "Electrico",
+      "Tierra",
+      "Psíquico"
     ],
     "quick-move": [
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
       },
       {
-        "name": "poison sting",
-        "type": "veneno",
+        "name": "Veneno sting",
+        "type": "Veneno",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -7025,14 +7025,14 @@ export default {
     "special-attack": [
       {
         "name": "bubble beam",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -7071,8 +7071,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "veneno"
+      "Agua",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -7087,28 +7087,28 @@ export default {
       "max-hp": "162"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "lucha",
-      "veneno"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Luchador",
+      "Veneno"
     ],
     "weaknesses": [
-      "electrico",
-      "tierra",
-      "psiquico"
+      "Electrico",
+      "Tierra",
+      "Psíquico"
     ],
     "quick-move": [
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
       },
       {
-        "name": "poison jab",
-        "type": "veneno",
+        "name": "Veneno jab",
+        "type": "Veneno",
         "base-damage": "10",
         "energy": "7",
         "move-duration-seg": "0.8"
@@ -7117,21 +7117,21 @@ export default {
     "special-attack": [
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
         "name": "sludge wave",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "3.2"
       },
       {
         "name": "blizzard",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
@@ -7163,8 +7163,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "roca",
-      "tierra"
+      "Roca",
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -7180,23 +7180,23 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "electrico",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Electrico",
+      "Veneno",
+      "Volador"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo",
-      "lucha",
-      "tierra",
-      "acero"
+      "Agua",
+      "Hierva",
+      "Hielo",
+      "Luchador",
+      "Tierra",
+      "Acero"
     ],
     "quick-move": [
       {
-        "name": "roca throw",
-        "type": "roca",
+        "name": "Roca throw",
+        "type": "Roca",
         "base-damage": "12",
         "energy": "7",
         "move-duration-seg": "0.9"
@@ -7211,22 +7211,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "rock slide",
-        "type": "roca",
+        "name": "Roca slide",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
-        "name": "rock tomb",
-        "type": "roca",
+        "name": "Roca tomb",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
@@ -7255,7 +7255,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Graveler grows by feeding on rocas. Apparently, it prefers to eat rocas that are covered in moss. This Pokémon eats its way through a ton of rocas on a daily basis.",
+    "about": "Graveler grows by feeding on Rocas. Apparently, it prefers to eat Rocas that are covered in moss. This Pokémon eats its way through a ton of Rocas on a daily basis.",
     "img": "https://www.serebii.net/pokemongo/pokemon/075.png",
     "size": {
       "height": "0.99 m",
@@ -7263,8 +7263,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "roca",
-      "tierra"
+      "Roca",
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -7280,37 +7280,37 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "electrico",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Electrico",
+      "Veneno",
+      "Volador"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo",
-      "lucha",
-      "tierra",
-      "acero"
+      "Agua",
+      "Hierva",
+      "Hielo",
+      "Luchador",
+      "Tierra",
+      "Acero"
     ],
     "quick-move": [
       {
-        "name": "rock throw",
-        "type": "roca",
+        "name": "Roca throw",
+        "type": "Roca",
         "base-damage": "12",
         "energy": "7",
         "move-duration-seg": "0.9"
       },
       {
         "name": "mud slap",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "15",
         "energy": "12",
         "move-duration-seg": "1.4"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -7319,28 +7319,28 @@ export default {
     "special-attack": [
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
       },
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
       },
       {
-        "name": "rock blast",
-        "type": "roca",
+        "name": "Roca blast",
+        "type": "Roca",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.1"
       },
       {
-        "name": "rock slide",
-        "type": "roca",
+        "name": "Roca slide",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -7377,8 +7377,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "roca",
-      "tierra"
+      "Roca",
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -7394,37 +7394,37 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "electrico",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Electrico",
+      "Veneno",
+      "Volador"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo",
-      "lucha",
-      "tierra",
-      "acero"
+      "Agua",
+      "Hierva",
+      "Hielo",
+      "Luchador",
+      "Tierra",
+      "Acero"
     ],
     "quick-move": [
       {
-        "name": "rock throw",
-        "type": "roca",
+        "name": "Roca throw",
+        "type": "Roca",
         "base-damage": "12",
         "energy": "7",
         "move-duration-seg": "0.9"
       },
       {
         "name": "mud slap",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "15",
         "energy": "12",
         "move-duration-seg": "1.4"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -7433,28 +7433,28 @@ export default {
     "special-attack": [
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
       },
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
       },
       {
-        "name": "rock blast",
-        "type": "roca",
+        "name": "Roca blast",
+        "type": "Roca",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.1"
       },
       {
         "name": "ancient power",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.5"
@@ -7491,7 +7491,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -7506,16 +7506,16 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
@@ -7527,7 +7527,7 @@ export default {
       },
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -7536,14 +7536,14 @@ export default {
     "special-attack": [
       {
         "name": "flame charge",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.8"
       },
       {
         "name": "flame wheel",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -7556,8 +7556,8 @@ export default {
         "move-duration-seg": "1.7"
       },
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
@@ -7589,7 +7589,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -7604,16 +7604,16 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
@@ -7624,15 +7624,15 @@ export default {
         "move-duration-seg": "0.6"
       },
       {
-        "name": "fuego spin",
-        "type": "fuego",
+        "name": "Fuego spin",
+        "type": "Fuego",
         "base-damage": "14",
         "energy": "10",
         "move-duration-seg": "1.1"
       },
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -7640,22 +7640,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
       },
       {
         "name": "drill run",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.8"
       },
       {
         "name": "heat wave",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "95",
         "energy": "-100",
         "move-duration-seg": "3"
@@ -7679,7 +7679,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Slowpoke uses its tail to catch prey by dipping it in agua at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at agua's edge.",
+    "about": "Slowpoke uses its tail to catch prey by dipping it in Agua at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at Agua's edge.",
     "img": "https://www.serebii.net/pokemongo/pokemon/079.png",
     "size": {
       "height": "1.19 m",
@@ -7687,8 +7687,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "psiquico"
+      "Agua",
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -7703,30 +7703,30 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "lucha",
-      "psiquico"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Electrico",
+      "Hierva",
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
@@ -7734,22 +7734,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "psyshock",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.7"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
@@ -7770,8 +7770,8 @@ export default {
           "name": "slowking",
           "candy-cost": "50",
           "evolution-item": {
-            "name": "kings rock",
-            "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/kings-roca.png"
+            "name": "kings Roca",
+            "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/kings-Roca.png"
           }
         }
       ]
@@ -7792,8 +7792,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "psiquico"
+      "Agua",
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -7808,30 +7808,30 @@ export default {
       "max-hp": "182"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "lucha",
-      "psiquico"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Electrico",
+      "Hierva",
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
@@ -7839,22 +7839,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
-        "name": "ice beam",
-        "type": "hielo",
+        "name": "Hielo beam",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.3"
@@ -7878,7 +7878,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Magnemite attaches itself to power lines to feed on electricoity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
+    "about": "Magnemite attaches itself to power lines to feed on Electricoity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
     "img": "https://www.serebii.net/pokemongo/pokemon/081.png",
     "size": {
       "height": "0.30 m",
@@ -7886,7 +7886,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -7902,27 +7902,27 @@ export default {
     },
     "resistant": [
       "normal",
-      "electrico",
-      "planta",
-      "hielo",
-      "veneno"
+      "Electrico",
+      "Hierva",
+      "Hielo",
+      "Veneno"
     ],
     "weaknesses": [
-      "fuego",
-      "agua",
-      "tierra"
+      "Fuego",
+      "Agua",
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "spark",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "6",
         "energy": "9",
         "move-duration-seg": "0.7"
       },
       {
         "name": "thunder shock",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "5",
         "energy": "8",
         "move-duration-seg": "0.6"
@@ -7931,21 +7931,21 @@ export default {
     "special-attack": [
       {
         "name": "discharge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.5"
       },
       {
         "name": "magnet bomb",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "2.8"
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
@@ -7969,7 +7969,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Magneton emits a powerful magnetic force that is fatal to mechanical devhielos. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
+    "about": "Magneton emits a powerful magnetic force that is fatal to mechanical devHielos. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
     "img": "https://www.serebii.net/pokemongo/pokemon/082.png",
     "size": {
       "height": "0.99 m",
@@ -7977,7 +7977,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -7993,34 +7993,34 @@ export default {
     },
     "resistant": [
       "normal",
-      "electrico",
-      "planta",
-      "hielo",
-      "veneno"
+      "Electrico",
+      "Hierva",
+      "Hielo",
+      "Veneno"
     ],
     "weaknesses": [
-      "fuego",
-      "agua",
-      "tierra"
+      "Fuego",
+      "Agua",
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "spark",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "6",
         "energy": "9",
         "move-duration-seg": "0.7"
       },
       {
         "name": "charge beam",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "8",
         "energy": "15",
         "move-duration-seg": "1.1"
       },
       {
         "name": "thunder shock",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "5",
         "energy": "8",
         "move-duration-seg": "0.6"
@@ -8029,28 +8029,28 @@ export default {
     "special-attack": [
       {
         "name": "magnet bomb",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "2.8"
       },
       {
         "name": "flash cannon",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.7"
       },
       {
         "name": "zap cannon",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "3.7"
       },
       {
         "name": "discharge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.5"
@@ -8083,7 +8083,7 @@ export default {
     "pokemon-rarity": "normal",
     "type": [
       "normal",
-      "volador"
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -8099,26 +8099,26 @@ export default {
       "max-hp": "123"
     },
     "resistant": [
-      "planta",
-      "tierra",
-      "bicho",
-      "fantasma"
+      "Hierva",
+      "Tierra",
+      "Bicho",
+      "Fantasma"
     ],
     "weaknesses": [
-      "electrico",
-      "roca"
+      "Electrico",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "fury cutter",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "3",
         "energy": "6",
         "move-duration-seg": "0.4"
       },
       {
         "name": "air slash",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "14",
         "energy": "10",
         "move-duration-seg": "1.2"
@@ -8134,21 +8134,21 @@ export default {
     "special-attack": [
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
       },
       {
         "name": "air cutter",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
         "name": "leaf blade",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "2.4"
@@ -8176,7 +8176,7 @@ export default {
     "pokemon-rarity": "normal",
     "type": [
       "normal",
-      "volador"
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -8191,19 +8191,19 @@ export default {
       "max-hp": "99"
     },
     "resistant": [
-      "planta",
-      "tierra",
-      "bicho",
-      "fantasma"
+      "Hierva",
+      "Tierra",
+      "Bicho",
+      "Fantasma"
     ],
     "weaknesses": [
-      "electrico",
-      "roca"
+      "Electrico",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -8219,21 +8219,21 @@ export default {
     "special-attack": [
       {
         "name": "drill peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "2.3"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
       },
       {
         "name": "brave bird",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "90",
         "energy": "-100",
         "move-duration-seg": "2"
@@ -8273,7 +8273,7 @@ export default {
     "pokemon-rarity": "normal",
     "type": [
       "normal",
-      "volador"
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -8288,14 +8288,14 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "planta",
-      "tierra",
-      "bicho",
-      "fantasma"
+      "Hierva",
+      "Tierra",
+      "Bicho",
+      "Fantasma"
     ],
     "weaknesses": [
-      "electrico",
-      "roca"
+      "Electrico",
+      "Roca"
     ],
     "quick-move": [
       {
@@ -8306,8 +8306,8 @@ export default {
         "move-duration-seg": "0.9"
       },
       {
-        "name": "acero wing",
-        "type": "acero",
+        "name": "Acero wing",
+        "type": "Acero",
         "base-damage": "11",
         "energy": "6",
         "move-duration-seg": "0.8"
@@ -8316,28 +8316,28 @@ export default {
     "special-attack": [
       {
         "name": "drill peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "2.3"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
       },
       {
         "name": "brave bird",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "90",
         "energy": "-100",
         "move-duration-seg": "2"
       },
       {
         "name": "air cutter",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -8361,7 +8361,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Seel hunts for prey in the frigid sea underneath sheets of hielo. When it needs to breathe, it punches a hole through the hielo with the sharply protruding section of its head.",
+    "about": "Seel hunts for prey in the frigid sea underneath sheets of Hielo. When it needs to breathe, it punches a hole through the Hielo with the sharply protruding section of its head.",
     "img": "https://www.serebii.net/pokemongo/pokemon/086.png",
     "size": {
       "height": "1.09 m",
@@ -8369,7 +8369,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -8384,33 +8384,33 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "ice shard",
-        "type": "hielo",
+        "name": "Hielo shard",
+        "type": "Hielo",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.2"
       },
       {
         "name": "lick",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
       },
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -8419,28 +8419,28 @@ export default {
     "special-attack": [
       {
         "name": "icy wind",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "3.3"
       },
       {
         "name": "aqua tail",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
         "name": "aurora beam",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.55"
       },
       {
         "name": "aqua jet",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "2.6"
@@ -8464,7 +8464,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Dewgong loves to snooze on bitterly cold hielo. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+    "about": "Dewgong loves to snooze on bitterly cold Hielo. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
     "img": "https://www.serebii.net/pokemongo/pokemon/087.png",
     "size": {
       "height": "1.70 m",
@@ -8472,8 +8472,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "hielo"
+      "Agua",
+      "Hielo"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -8488,33 +8488,33 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "agua",
-      "hielo"
+      "Agua",
+      "Hielo"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "lucha",
-      "roca"
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "frost breath",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "10",
         "energy": "8",
         "move-duration-seg": "0.9"
       },
       {
         "name": "iron tail",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "15",
         "energy": "7",
         "move-duration-seg": "1.1"
       },
       {
-        "name": "ice shard",
-        "type": "hielo",
+        "name": "Hielo shard",
+        "type": "Hielo",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.2"
@@ -8523,35 +8523,35 @@ export default {
     "special-attack": [
       {
         "name": "icy wind",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "3.3"
       },
       {
         "name": "aqua jet",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "2.6"
       },
       {
         "name": "blizzard",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
       },
       {
         "name": "aurora beam",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.55"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -8575,7 +8575,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Grimer's sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wasteagua.",
+    "about": "Grimer's sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wasteAgua.",
     "img": "https://www.serebii.net/pokemongo/pokemon/088.png",
     "size": {
       "height": "0.89 m",
@@ -8583,7 +8583,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno"
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -8598,34 +8598,34 @@ export default {
       "max-hp": "162"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "tierra",
-      "psiquico"
+      "Tierra",
+      "Psíquico"
     ],
     "quick-move": [
       {
-        "name": "poison jab",
-        "type": "veneno",
+        "name": "Veneno jab",
+        "type": "Veneno",
         "base-damage": "10",
         "energy": "7",
         "move-duration-seg": "0.8"
       },
       {
         "name": "mud slap",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "15",
         "energy": "12",
         "move-duration-seg": "1.4"
       },
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
@@ -8634,21 +8634,21 @@ export default {
     "special-attack": [
       {
         "name": "sludge",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.1"
       },
       {
         "name": "mud bomb",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.3"
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
@@ -8680,7 +8680,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno"
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -8695,41 +8695,41 @@ export default {
       "max-hp": "195"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "tierra",
-      "psiquico"
+      "Tierra",
+      "Psíquico"
     ],
     "quick-move": [
       {
-        "name": "poison jab",
-        "type": "veneno",
+        "name": "Veneno jab",
+        "type": "Veneno",
         "base-damage": "10",
         "energy": "7",
         "move-duration-seg": "0.8"
       },
       {
         "name": "infestation",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "10",
         "energy": "14",
         "move-duration-seg": "1.1"
       },
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
       },
       {
         "name": "lick",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -8745,14 +8745,14 @@ export default {
       },
       {
         "name": "gunk shot",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
       },
       {
         "name": "sludge wave",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "3.2"
@@ -8784,7 +8784,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -8799,19 +8799,19 @@ export default {
       "max-hp": "92"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "ice shard",
-        "type": "hielo",
+        "name": "Hielo shard",
+        "type": "Hielo",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.2"
@@ -8827,21 +8827,21 @@ export default {
     "special-attack": [
       {
         "name": "bubble beam",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "icy wind",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "3.3"
@@ -8865,7 +8865,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Cloyster is capable of swimming in the sea. It does so by swallowing agua, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
+    "about": "Cloyster is capable of swimming in the sea. It does so by swallowing Agua, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
     "img": "https://www.serebii.net/pokemongo/pokemon/091.png",
     "size": {
       "height": "1.50 m",
@@ -8873,8 +8873,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "hielo"
+      "Agua",
+      "Hielo"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -8889,26 +8889,26 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "agua",
-      "hielo"
+      "Agua",
+      "Hielo"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "lucha",
-      "roca"
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "frost breath",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "10",
         "energy": "8",
         "move-duration-seg": "0.9"
       },
       {
-        "name": "ice shard",
-        "type": "hielo",
+        "name": "Hielo shard",
+        "type": "Hielo",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.2"
@@ -8917,35 +8917,35 @@ export default {
     "special-attack": [
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
         "name": "aurora beam",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.55"
       },
       {
         "name": "avalanche",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
         "name": "blizzard",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
       },
       {
         "name": "icy wind",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "3.3"
@@ -8977,8 +8977,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fantasma",
-      "veneno"
+      "Fantasma",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -8994,28 +8994,28 @@ export default {
     },
     "resistant": [
       "normal",
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho"
     ],
     "weaknesses": [
-      "tierra",
-      "psiquico",
-      "fantasma",
-      "oscuro"
+      "Tierra",
+      "Psíquico",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
         "name": "lick",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
       },
       {
         "name": "astonish",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "8",
         "energy": "14",
         "move-duration-seg": "1.1"
@@ -9038,21 +9038,21 @@ export default {
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
         "name": "night shade",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "ominous wind",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.3"
@@ -9089,8 +9089,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fantasma",
-      "veneno"
+      "Fantasma",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -9106,35 +9106,35 @@ export default {
     },
     "resistant": [
       "normal",
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho"
     ],
     "weaknesses": [
-      "tierra",
-      "psiquico",
-      "fantasma",
-      "oscuro"
+      "Tierra",
+      "Psíquico",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
         "name": "shadow claw",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "9",
         "energy": "6",
         "move-duration-seg": "0.7"
       },
       {
         "name": "astonish",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "8",
         "energy": "14",
         "move-duration-seg": "1.1"
       },
       {
         "name": "lick",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -9150,21 +9150,21 @@ export default {
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
         "name": "shadow punch",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.7"
       },
       {
         "name": "shadow ball",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3"
@@ -9201,8 +9201,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fantasma",
-      "veneno"
+      "Fantasma",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -9218,16 +9218,16 @@ export default {
     },
     "resistant": [
       "normal",
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho"
     ],
     "weaknesses": [
-      "tierra",
-      "psiquico",
-      "fantasma",
-      "oscuro"
+      "Tierra",
+      "Psíquico",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
@@ -9239,14 +9239,14 @@ export default {
       },
       {
         "name": "hex",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "10",
         "energy": "15",
         "move-duration-seg": "1.2"
       },
       {
         "name": "shadow claw",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "9",
         "energy": "6",
         "move-duration-seg": "0.7"
@@ -9255,14 +9255,14 @@ export default {
     "special-attack": [
       {
         "name": "shadow ball",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3"
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
@@ -9276,7 +9276,7 @@ export default {
       },
       {
         "name": "sludge wave",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "3.2"
@@ -9320,8 +9320,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "roca",
-      "tierra"
+      "Roca",
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -9337,23 +9337,23 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "electrico",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Electrico",
+      "Veneno",
+      "Volador"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo",
-      "lucha",
-      "tierra",
-      "acero"
+      "Agua",
+      "Hierva",
+      "Hielo",
+      "Luchador",
+      "Tierra",
+      "Acero"
     ],
     "quick-move": [
       {
-        "name": "rock throw",
-        "type": "roca",
+        "name": "Roca throw",
+        "type": "Roca",
         "base-damage": "12",
         "energy": "7",
         "move-duration-seg": "0.9"
@@ -9369,35 +9369,35 @@ export default {
     "special-attack": [
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
       },
       {
         "name": "sand tomb",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "4"
       },
       {
         "name": "heavy slam",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.1"
       },
       {
-        "name": "rock slide",
-        "type": "roca",
+        "name": "Roca slide",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
         "name": "iron head",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "1.9"
@@ -9409,7 +9409,7 @@ export default {
       "candy": "onix candy",
       "next-evolution": [{
         "num": "208",
-        "name": "aceroix",
+        "name": "Aceroix",
         "candy-cost": "50",
         "evolution-item": {
           "name": "metal coat",
@@ -9433,7 +9433,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "psiquico"
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -9448,13 +9448,13 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "lucha",
-      "psiquico"
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
@@ -9466,7 +9466,7 @@ export default {
       },
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
@@ -9475,21 +9475,21 @@ export default {
     "special-attack": [
       {
         "name": "psybeam",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "psyshock",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.7"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
@@ -9521,7 +9521,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "psiquico"
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -9536,25 +9536,25 @@ export default {
       "max-hp": "168"
     },
     "resistant": [
-      "lucha",
-      "psiquico"
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
       },
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
@@ -9562,15 +9562,15 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "futuresight",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "2.7"
@@ -9584,14 +9584,14 @@ export default {
       },
       {
         "name": "psyshock",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.7"
       },
       {
         "name": "shadow ball",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3"
@@ -9623,7 +9623,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -9638,26 +9638,26 @@ export default {
       "max-hp": "92"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -9665,7 +9665,7 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "vice grip",
+        "name": "vHielo grip",
         "type": "normal",
         "base-damage": "35",
         "energy": "-33",
@@ -9673,14 +9673,14 @@ export default {
       },
       {
         "name": "bubble beam",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -9712,7 +9712,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -9727,33 +9727,33 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
         "name": "metal claw",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "8",
         "energy": "7",
         "move-duration-seg": "0.7"
       },
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -9761,7 +9761,7 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "vice grip",
+        "name": "vHielo grip",
         "type": "normal",
         "base-damage": "35",
         "energy": "-33",
@@ -9769,14 +9769,14 @@ export default {
       },
       {
         "name": "x scissor",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-100",
         "move-duration-seg": "4.7"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -9808,7 +9808,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -9823,17 +9823,17 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "electrico",
-      "volador",
-      "acero"
+      "Electrico",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "tierra"
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "spark",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "6",
         "energy": "9",
         "move-duration-seg": "0.7"
@@ -9849,28 +9849,28 @@ export default {
     "special-attack": [
       {
         "name": "discharge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.5"
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
         "name": "gyro ball",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.3"
       },
       {
         "name": "signal beam",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "75",
         "energy": "-50",
         "move-duration-seg": "2.9"
@@ -9894,7 +9894,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Electrode eats electricoity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricoity.",
+    "about": "Electrode eats Electricoity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much Electricoity.",
     "img": "https://www.serebii.net/pokemongo/pokemon/101.png",
     "size": {
       "height": "1.19 m",
@@ -9902,7 +9902,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -9917,24 +9917,24 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "electrico",
-      "volador",
-      "acero"
+      "Electrico",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "tierra"
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "spark",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "6",
         "energy": "9",
         "move-duration-seg": "0.7"
       },
       {
         "name": "volt switch",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "20",
         "energy": "25",
         "move-duration-seg": "2.3"
@@ -9950,14 +9950,14 @@ export default {
     "special-attack": [
       {
         "name": "discharge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.5"
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
@@ -9996,8 +9996,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "psiquico"
+      "Hierva",
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -10012,32 +10012,32 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "tierra"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador",
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador",
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
       },
       {
         "name": "bullet seed",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "8",
         "energy": "14",
         "move-duration-seg": "1.1"
@@ -10046,21 +10046,21 @@ export default {
     "special-attack": [
       {
         "name": "seed bomb",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.1"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "ancient power",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.5"
@@ -10092,8 +10092,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "psiquico"
+      "Hierva",
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -10108,46 +10108,46 @@ export default {
       "max-hp": "182"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "tierra"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador",
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador",
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
         "name": "bullet seed",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "8",
         "energy": "14",
         "move-duration-seg": "1.1"
       },
       {
         "name": "extrasensory",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.1"
       },
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -10156,21 +10156,21 @@ export default {
     "special-attack": [
       {
         "name": "seed bomb",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.1"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
@@ -10202,7 +10202,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "tierra"
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -10217,26 +10217,26 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "electrico",
-      "veneno",
-      "roca"
+      "Electrico",
+      "Veneno",
+      "Roca"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo"
+      "Agua",
+      "Hierva",
+      "Hielo"
     ],
     "quick-move": [
       {
         "name": "mud slap",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "15",
         "energy": "12",
         "move-duration-seg": "1.4"
       },
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -10245,21 +10245,21 @@ export default {
     "special-attack": [
       {
         "name": "bone club",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
       },
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
       },
       {
         "name": "bulldoze",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.5"
@@ -10291,7 +10291,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "tierra"
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -10306,26 +10306,26 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "electrico",
-      "veneno",
-      "roca"
+      "Electrico",
+      "Veneno",
+      "Roca"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo"
+      "Agua",
+      "Hierva",
+      "Hielo"
     ],
     "quick-move": [
       {
         "name": "mud slap",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "15",
         "energy": "12",
         "move-duration-seg": "1.4"
       },
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -10334,21 +10334,21 @@ export default {
     "special-attack": [
       {
         "name": "bone club",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
       },
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
       },
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
@@ -10380,7 +10380,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "lucha"
+      "Luchador"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -10395,14 +10395,14 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "bicho",
-      "roca",
-      "oscuro"
+      "Bicho",
+      "Roca",
+      "dark"
     ],
     "weaknesses": [
-      "volador",
-      "psiquico",
-      "hada"
+      "Volador",
+      "Psíquico",
+      "Hada"
     ],
     "quick-move": [
       {
@@ -10413,8 +10413,8 @@ export default {
         "move-duration-seg": "0.6"
       },
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -10430,7 +10430,7 @@ export default {
       },
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -10483,7 +10483,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "lucha"
+      "Luchador"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -10498,19 +10498,19 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "bicho",
-      "roca",
-      "oscuro"
+      "Bicho",
+      "Roca",
+      "dark"
     ],
     "weaknesses": [
-      "volador",
-      "psiquico",
-      "hada"
+      "Volador",
+      "Psíquico",
+      "Hada"
     ],
     "quick-move": [
       {
         "name": "bullet punch",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "9",
         "energy": "10",
         "move-duration-seg": "0.9"
@@ -10523,8 +10523,8 @@ export default {
         "move-duration-seg": "0.9"
       },
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -10532,15 +10532,15 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "fuego punch",
-        "type": "fuego",
+        "name": "Fuego punch",
+        "type": "Fuego",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.2"
       },
       {
         "name": "thunder punch",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.8"
@@ -10560,8 +10560,8 @@ export default {
         "move-duration-seg": "1.6"
       },
       {
-        "name": "ice punch",
-        "type": "hielo",
+        "name": "Hielo punch",
+        "type": "Hielo",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -10608,22 +10608,22 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
         "name": "lick",
-        "type": "fantasma",
+        "type": "ghost",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -10646,7 +10646,7 @@ export default {
       },
       {
         "name": "power whip",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
@@ -10673,7 +10673,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno"
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -10688,15 +10688,15 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "tierra",
-      "psiquico"
+      "Tierra",
+      "Psíquico"
     ],
     "quick-move": [
       {
@@ -10708,14 +10708,14 @@ export default {
       },
       {
         "name": "infestation",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "10",
         "energy": "14",
         "move-duration-seg": "1.1"
       },
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
@@ -10724,14 +10724,14 @@ export default {
     "special-attack": [
       {
         "name": "sludge",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.1"
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
@@ -10770,7 +10770,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno"
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -10785,15 +10785,15 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "tierra",
-      "psiquico"
+      "Tierra",
+      "Psíquico"
     ],
     "quick-move": [
       {
@@ -10805,14 +10805,14 @@ export default {
       },
       {
         "name": "infestation",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "10",
         "energy": "14",
         "move-duration-seg": "1.1"
       },
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
@@ -10821,14 +10821,14 @@ export default {
     "special-attack": [
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
         "name": "shadow ball",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3"
@@ -10859,7 +10859,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of acero. This Pokémon may feel some pain from the collision the next day, however.",
+    "about": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of Acero. This Pokémon may feel some pain from the collision the next day, however.",
     "img": "https://www.serebii.net/pokemongo/pokemon/111.png",
     "size": {
       "height": "0.99 m",
@@ -10867,8 +10867,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "tierra",
-      "roca"
+      "Tierra",
+      "Roca"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -10884,30 +10884,30 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "electrico",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Electrico",
+      "Veneno",
+      "Volador"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo",
-      "lucha",
-      "tierra",
-      "acero"
+      "Agua",
+      "Hierva",
+      "Hielo",
+      "Luchador",
+      "Tierra",
+      "Acero"
     ],
     "quick-move": [
       {
         "name": "mud slap",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "15",
         "energy": "12",
         "move-duration-seg": "1.4"
       },
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -10916,7 +10916,7 @@ export default {
     "special-attack": [
       {
         "name": "bulldoze",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.5"
@@ -10971,8 +10971,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "tierra",
-      "roca"
+      "Tierra",
+      "Roca"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -10988,30 +10988,30 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "electrico",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Electrico",
+      "Veneno",
+      "Volador"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo",
-      "lucha",
-      "tierra",
-      "acero"
+      "Agua",
+      "Hierva",
+      "Hielo",
+      "Luchador",
+      "Tierra",
+      "Acero"
     ],
     "quick-move": [
       {
         "name": "mud slap",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "15",
         "energy": "12",
         "move-duration-seg": "1.4"
       },
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -11020,21 +11020,21 @@ export default {
     "special-attack": [
       {
         "name": "megahorn",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "90",
         "energy": "-100",
         "move-duration-seg": "2.2"
       },
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
       },
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -11090,10 +11090,10 @@ export default {
       "max-hp": "396"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -11105,7 +11105,7 @@ export default {
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -11113,15 +11113,15 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
@@ -11135,7 +11135,7 @@ export default {
       },
       {
         "name": "psybeam",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -11171,7 +11171,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta"
+      "Hierva"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -11186,29 +11186,29 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "tierra"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador",
-      "bicho"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador",
+      "Bicho"
     ],
     "quick-move": [
       {
         "name": "vine whip",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
       },
       {
         "name": "infestation",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "10",
         "energy": "14",
         "move-duration-seg": "1.1"
@@ -11217,28 +11217,28 @@ export default {
     "special-attack": [
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
       },
       {
-        "name": "planta knot",
-        "type": "planta",
+        "name": "Hierva knot",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "power whip",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
@@ -11281,15 +11281,15 @@ export default {
       "max-hp": "195"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
         "name": "mud slap",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "15",
         "energy": "12",
         "move-duration-seg": "1.4"
@@ -11305,7 +11305,7 @@ export default {
     "special-attack": [
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
@@ -11319,7 +11319,7 @@ export default {
       },
       {
         "name": "outrage",
-        "type": "dragon",
+        "type": "Dragon",
         "base-damage": "110",
         "energy": "-50",
         "move-duration-seg": "3.9"
@@ -11352,7 +11352,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Horsea eats small insects and moss off of rocas. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocas or coral to prevent being washed away.",
+    "about": "Horsea eats small insects and moss off of Rocas. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around Rocas or coral to prevent being washed away.",
     "img": "https://www.serebii.net/pokemongo/pokemon/116.png",
     "size": {
       "height": "0.41 m",
@@ -11360,7 +11360,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -11375,26 +11375,26 @@ export default {
       "max-hp": "92"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
@@ -11403,21 +11403,21 @@ export default {
     "special-attack": [
       {
         "name": "bubble beam",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
-        "name": "dragon pulse",
-        "type": "dragon",
+        "name": "Dragon pulse",
+        "type": "Dragon",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.6"
       },
       {
         "name": "flash cannon",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.7"
@@ -11436,8 +11436,8 @@ export default {
           "name": "kingdra",
           "candy-cost": "100",
           "evolution-item": {
-            "name": "dragon scale",
-            "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/dragon-scale.png"
+            "name": "Dragon scale",
+            "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/Dragon-scale.png"
           }
         }]
       }]
@@ -11450,7 +11450,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's veneno barbs if they fail to nothielo it.",
+    "about": "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's Veneno barbs if they fail to notHielo it.",
     "img": "https://www.serebii.net/pokemongo/pokemon/117.png",
     "size": {
       "height": "1.19 m",
@@ -11458,7 +11458,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -11473,26 +11473,26 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
-        "name": "dragon breath",
-        "type": "dragon",
+        "name": "Dragon breath",
+        "type": "Dragon",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -11500,29 +11500,29 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "dragon pulse",
-        "type": "dragon",
+        "name": "Dragon pulse",
+        "type": "Dragon",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.6"
       },
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
         "name": "aurora beam",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.55"
       },
       {
         "name": "blizzard",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
@@ -11537,8 +11537,8 @@ export default {
         "name": "kingdra",
         "candy-cost": "100",
         "evolution-item": {
-          "name": "dragon scale",
-          "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/dragon-scale.png"
+          "name": "Dragon scale",
+          "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/Dragon-scale.png"
         }
       }],
       "prev-evolution": [{
@@ -11555,7 +11555,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in agua. However, don't let your guard down around this Pokémon-it could ram you powerfully with its horn.",
+    "about": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in Agua. However, don't let your guard down around this Pokémon-it could ram you powerfully with its horn.",
     "img": "https://www.serebii.net/pokemongo/pokemon/118.png",
     "size": {
       "height": "0.61 m",
@@ -11563,7 +11563,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -11578,26 +11578,26 @@ export default {
       "max-hp": "113"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
         "name": "peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -11605,8 +11605,8 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -11620,7 +11620,7 @@ export default {
       },
       {
         "name": "aqua tail",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -11652,7 +11652,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -11667,26 +11667,26 @@ export default {
       "max-hp": "162"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
         "name": "peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
       },
       {
-        "name": "poison jab",
-        "type": "veneno",
+        "name": "Veneno jab",
+        "type": "Veneno",
         "base-damage": "10",
         "energy": "7",
         "move-duration-seg": "0.8"
@@ -11695,35 +11695,35 @@ export default {
     "special-attack": [
       {
         "name": "megahorn",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "90",
         "energy": "-100",
         "move-duration-seg": "2.2"
       },
       {
-        "name": "ice beam",
-        "type": "hielo",
+        "name": "Hielo beam",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.3"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "icy wind",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "3.3"
       },
       {
         "name": "drill run",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.8"
@@ -11755,7 +11755,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -11770,19 +11770,19 @@ export default {
       "max-hp": "92"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -11812,14 +11812,14 @@ export default {
       },
       {
         "name": "bubble beam",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
         "name": "power gem",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.9"
@@ -11851,8 +11851,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "psiquico"
+      "Agua",
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -11867,23 +11867,23 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "lucha",
-      "psiquico"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Electrico",
+      "Hierva",
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -11913,28 +11913,28 @@ export default {
     "special-attack": [
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
         "name": "power gem",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.9"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "psybeam",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -11966,7 +11966,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "psiquico"
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -11982,26 +11982,26 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "lucha",
-      "psiquico",
-      "dragon"
+      "Luchador",
+      "Psíquico",
+      "Dragon"
     ],
     "weaknesses": [
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -12010,21 +12010,21 @@ export default {
     "special-attack": [
       {
         "name": "psybeam",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "shadow ball",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3"
@@ -12048,7 +12048,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slhielo through thick logs in one wicked stroke.",
+    "about": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slHielo through thick logs in one wicked stroke.",
     "img": "https://www.serebii.net/pokemongo/pokemon/123.png",
     "size": {
       "height": "1.50 m",
@@ -12056,8 +12056,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "volador"
+      "Bicho",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -12072,36 +12072,36 @@ export default {
       "max-hp": "147"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra",
-      "bicho"
+      "Hierva",
+      "Luchador",
+      "Tierra",
+      "Bicho"
     ],
     "weaknesses": [
-      "fuego",
-      "electrico",
-      "hielo",
-      "volador",
-      "roca"
+      "Fuego",
+      "Electrico",
+      "Hielo",
+      "Volador",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "fury cutter",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "3",
         "energy": "6",
         "move-duration-seg": "0.4"
       },
       {
         "name": "air slash",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "14",
         "energy": "10",
         "move-duration-seg": "1.2"
       },
       {
-        "name": "acero wing",
-        "type": "acero",
+        "name": "Acero wing",
+        "type": "Acero",
         "base-damage": "11",
         "energy": "6",
         "move-duration-seg": "0.8"
@@ -12117,21 +12117,21 @@ export default {
       },
       {
         "name": "x scissor",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-100",
         "move-duration-seg": "4.7"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
       },
       {
-        "name": "bug buzz",
-        "type": "bicho",
+        "name": "Bicho buzz",
+        "type": "Bicho",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.7"
@@ -12167,8 +12167,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "hielo",
-      "psiquico"
+      "Hielo",
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -12183,28 +12183,28 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "hielo",
-      "psiquico"
+      "Hielo",
+      "Psíquico"
     ],
     "weaknesses": [
-      "fuego",
-      "bicho",
-      "roca",
-      "fantasma",
-      "oscuro",
-      "acero"
+      "Fuego",
+      "Bicho",
+      "Roca",
+      "Fantasma",
+      "dark",
+      "Acero"
     ],
     "quick-move": [
       {
         "name": "frost breath",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "10",
         "energy": "8",
         "move-duration-seg": "0.9"
       },
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
@@ -12220,28 +12220,28 @@ export default {
     "special-attack": [
       {
         "name": "draining kiss",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "psyshock",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.7"
       },
       {
         "name": "avalanche",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
-        "name": "ice punch",
-        "type": "hielo",
+        "name": "Hielo punch",
+        "type": "Hielo",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -12273,7 +12273,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -12288,17 +12288,17 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "electrico",
-      "volador",
-      "acero"
+      "Electrico",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "tierra"
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "thunder shock",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "5",
         "energy": "8",
         "move-duration-seg": "0.6"
@@ -12314,21 +12314,21 @@ export default {
     "special-attack": [
       {
         "name": "thunder punch",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.8"
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
         "name": "thunder",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.4"
@@ -12361,7 +12361,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite planta and trees in its surroundings.",
+    "about": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite Hierva and trees in its surroundings.",
     "img": "https://www.serebii.net/pokemongo/pokemon/126.png",
     "size": {
       "height": "1.30 m",
@@ -12369,7 +12369,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -12384,21 +12384,21 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -12413,22 +12413,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
       },
       {
-        "name": "fuego punch",
-        "type": "fuego",
+        "name": "Fuego punch",
+        "type": "Fuego",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.2"
       },
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -12461,7 +12461,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Pinsir is astoundingly strong. It can grip a foe weighing twhielo its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.",
+    "about": "Pinsir is astoundingly strong. It can grip a foe weighing twHielo its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.",
     "img": "https://www.serebii.net/pokemongo/pokemon/127.png",
     "size": {
       "height": "1.50 m",
@@ -12469,7 +12469,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho"
+      "Bicho"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -12484,33 +12484,33 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra"
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "volador",
-      "roca"
+      "Fuego",
+      "Volador",
+      "Roca"
     ],
     "quick-move": [
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
       },
       {
-        "name": "bicho bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
       },
       {
         "name": "fury cutter",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "3",
         "energy": "6",
         "move-duration-seg": "0.4"
@@ -12518,7 +12518,7 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "vice grip",
+        "name": "vHielo grip",
         "type": "normal",
         "base-damage": "35",
         "energy": "-33",
@@ -12526,7 +12526,7 @@ export default {
       },
       {
         "name": "x scissor",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-100",
         "move-duration-seg": "4.7"
@@ -12583,10 +12583,10 @@ export default {
       "max-hp": "154"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -12598,7 +12598,7 @@ export default {
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -12614,14 +12614,14 @@ export default {
       },
       {
         "name": "iron head",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "1.9"
       },
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
@@ -12648,7 +12648,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -12663,31 +12663,31 @@ export default {
       "max-hp": "79"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-      "name": "splash",
-      "type": "agua",
-      "base-damage": "0",
-      "energy": "0",
-      "move-duration-seg": "1.73"
-    }],
+        "name": "splash",
+        "type": "Agua",
+        "base-damage": "0",
+        "energy": "0",
+        "move-duration-seg": "1.73"
+      }],
     "special-attack": [
       {
-      "name": "struggle",
-      "type": "normal",
-      "base-damage": "35",
-      "energy": "-33",
-      "move-duration-seg": "2.2"
-    }],
+        "name": "struggle",
+        "type": "normal",
+        "base-damage": "35",
+        "energy": "-33",
+        "move-duration-seg": "2.2"
+      }],
     "egg": "2 km",
     "buddy-distance-km": "1",
     "evolution": {
@@ -12714,8 +12714,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "volador"
+      "Agua",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -12730,15 +12730,15 @@ export default {
       "max-hp": "182"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "lucha",
-      "tierra",
-      "bicho"
+      "Fuego",
+      "Agua",
+      "Luchador",
+      "Tierra",
+      "Bicho"
     ],
     "weaknesses": [
-      "electrico",
-      "roca"
+      "Electrico",
+      "Roca"
     ],
     "quick-move": [
       {
@@ -12749,15 +12749,15 @@ export default {
         "move-duration-seg": "0.5"
       },
       {
-        "name": "dragon tail",
-        "type": "dragon",
+        "name": "Dragon tail",
+        "type": "Dragon",
         "base-damage": "15",
         "energy": "9",
         "move-duration-seg": "1.1"
       },
       {
-        "name": "dragon breath",
-        "type": "dragon",
+        "name": "Dragon breath",
+        "type": "Dragon",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -12766,7 +12766,7 @@ export default {
     "special-attack": [
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
@@ -12780,21 +12780,21 @@ export default {
       },
       {
         "name": "outrage",
-        "type": "dragon",
+        "type": "Dragon",
         "base-damage": "110",
         "energy": "-50",
         "move-duration-seg": "3.9"
       },
       {
-        "name": "dragon pulse",
-        "type": "dragon",
+        "name": "Dragon pulse",
+        "type": "Dragon",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.6"
       },
       {
         "name": "twister",
-        "type": "dragon",
+        "type": "Dragon",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "2.8"
@@ -12826,8 +12826,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "hielo"
+      "Agua",
+      "Hielo"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -12842,33 +12842,33 @@ export default {
       "max-hp": "230"
     },
     "resistant": [
-      "agua",
-      "hielo"
+      "Agua",
+      "Hielo"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "lucha",
-      "roca"
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "frost breath",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "10",
         "energy": "8",
         "move-duration-seg": "0.9"
       },
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
-        "name": "ice shard",
-        "type": "hielo",
+        "name": "Hielo shard",
+        "type": "Hielo",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.2"
@@ -12876,29 +12876,29 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "ice beam",
-        "type": "hielo",
+        "name": "Hielo beam",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.3"
       },
       {
         "name": "blizzard",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
       },
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
-        "name": "dragon pulse",
-        "type": "dragon",
+        "name": "Dragon pulse",
+        "type": "Dragon",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.6"
@@ -12940,27 +12940,27 @@ export default {
       "max-hp": "117"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
-      "name": "pound",
-      "type": "normal",
-      "base-damage": "7",
-      "energy": "6",
-      "move-duration-seg": "0.6"
-    }],
+        "name": "pound",
+        "type": "normal",
+        "base-damage": "7",
+        "energy": "6",
+        "move-duration-seg": "0.6"
+      }],
     "special-attack": [
       {
-      "name": "struggle",
-      "type": "normal",
-      "base-damage": "35",
-      "energy": "-33",
-      "move-duration-seg": "2.2"
-    }],
+        "name": "struggle",
+        "type": "normal",
+        "base-damage": "35",
+        "energy": "-33",
+        "move-duration-seg": "2.2"
+      }],
     "egg": "not in eggs",
     "buddy-distance-km": "3",
     "evolution": {
@@ -12997,10 +12997,10 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -13021,7 +13021,7 @@ export default {
     "special-attack": [
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
@@ -13091,7 +13091,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underagua. This Pokémon has the ability to freely control agua.",
+    "about": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underAgua. This Pokémon has the ability to freely control Agua.",
     "img": "https://www.serebii.net/pokemongo/pokemon/134.png",
     "size": {
       "height": "0.99 m",
@@ -13099,7 +13099,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -13114,41 +13114,41 @@ export default {
       "max-hp": "230"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-      "name": "agua gun",
-      "type": "agua",
-      "base-damage": "5",
-      "energy": "5",
-      "move-duration-seg": "0.5"
-    }],
+        "name": "Agua gun",
+        "type": "Agua",
+        "base-damage": "5",
+        "energy": "5",
+        "move-duration-seg": "0.5"
+      }],
     "special-attack": [
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
         "name": "aqua tail",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -13172,7 +13172,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Jolteon's cells generate a low level of electricoity. This power is amplified by the static electricoity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electricoally charged needles.",
+    "about": "Jolteon's cells generate a low level of Electricoity. This power is amplified by the static Electricoity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of Electricoally charged needles.",
     "img": "https://www.serebii.net/pokemongo/pokemon/135.png",
     "size": {
       "height": "0.79 m",
@@ -13180,7 +13180,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -13195,24 +13195,24 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "electrico",
-      "volador",
-      "acero"
+      "Electrico",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "tierra"
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "thunder shock",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "5",
         "energy": "8",
         "move-duration-seg": "0.6"
       },
       {
         "name": "volt switch",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "20",
         "energy": "25",
         "move-duration-seg": "2.3"
@@ -13221,21 +13221,21 @@ export default {
     "special-attack": [
       {
         "name": "discharge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.5"
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
         "name": "thunder",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.4"
@@ -13267,7 +13267,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -13282,28 +13282,28 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
       },
       {
-        "name": "fuego spin",
-        "type": "fuego",
+        "name": "Fuego spin",
+        "type": "Fuego",
         "base-damage": "14",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -13311,29 +13311,29 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
       },
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
       },
       {
         "name": "overheat",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "160",
         "energy": "-100",
         "move-duration-seg": "4"
       },
       {
         "name": "heat wave",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "95",
         "energy": "-100",
         "move-duration-seg": "3"
@@ -13380,15 +13380,15 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
         "name": "charge beam",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "8",
         "energy": "15",
         "move-duration-seg": "1.1"
@@ -13416,7 +13416,7 @@ export default {
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -13425,7 +13425,7 @@ export default {
     "special-attack": [
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
@@ -13439,28 +13439,28 @@ export default {
       },
       {
         "name": "zap cannon",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "3.7"
       },
       {
         "name": "discharge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.5"
       },
       {
         "name": "psybeam",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "signal beam",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "75",
         "energy": "-50",
         "move-duration-seg": "2.9"
@@ -13505,8 +13505,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "roca",
-      "agua"
+      "Roca",
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -13522,28 +13522,28 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "lucha",
-      "tierra"
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -13552,35 +13552,35 @@ export default {
     "special-attack": [
       {
         "name": "ancient power",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.5"
       },
       {
         "name": "bubble beam",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
-        "name": "rock blast",
-        "type": "roca",
+        "name": "Roca blast",
+        "type": "Roca",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.1"
       },
       {
-        "name": "rock tomb",
-        "type": "roca",
+        "name": "Roca tomb",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "brine",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.3"
@@ -13612,8 +13612,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "roca",
-      "agua"
+      "Roca",
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -13629,35 +13629,35 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "lucha",
-      "tierra"
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
       },
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
-        "name": "rock throw",
-        "type": "roca",
+        "name": "Roca throw",
+        "type": "Roca",
         "base-damage": "12",
         "energy": "7",
         "move-duration-seg": "0.9"
@@ -13666,28 +13666,28 @@ export default {
     "special-attack": [
       {
         "name": "ancient power",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.5"
       },
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
-        "name": "rock blast",
-        "type": "roca",
+        "name": "Roca blast",
+        "type": "Roca",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.1"
       },
       {
-        "name": "rock slide",
-        "type": "roca",
+        "name": "Roca slide",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -13719,8 +13719,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "roca",
-      "agua"
+      "Roca",
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -13736,16 +13736,16 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "lucha",
-      "tierra"
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "quick-move": [
       {
@@ -13757,7 +13757,7 @@ export default {
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -13766,21 +13766,21 @@ export default {
     "special-attack": [
       {
         "name": "ancient power",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.5"
       },
       {
         "name": "aqua jet",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "2.6"
       },
       {
-        "name": "rock tomb",
-        "type": "roca",
+        "name": "Roca tomb",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -13804,7 +13804,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Kabutops swam underagua to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a agua-dweller to living on land as evident from the beginnings of change in its gills and legs.",
+    "about": "Kabutops swam underAgua to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a Agua-dweller to living on land as evident from the beginnings of change in its gills and legs.",
     "img": "https://www.serebii.net/pokemongo/pokemon/141.png",
     "size": {
       "height": "1.30 m",
@@ -13812,8 +13812,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "roca",
-      "agua"
+      "Roca",
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -13829,35 +13829,35 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "lucha",
-      "tierra"
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
       },
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
       },
       {
         "name": "fury cutter",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "3",
         "energy": "6",
         "move-duration-seg": "0.4"
@@ -13866,21 +13866,21 @@ export default {
     "special-attack": [
       {
         "name": "ancient power",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.5"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -13912,8 +13912,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "roca",
-      "volador"
+      "Roca",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -13929,22 +13929,22 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "veneno",
-      "volador",
-      "bicho"
+      "Fuego",
+      "Veneno",
+      "Volador",
+      "Bicho"
     ],
     "weaknesses": [
-      "agua",
-      "electrico",
-      "hielo",
-      "roca",
-      "acero"
+      "Agua",
+      "Electrico",
+      "Hielo",
+      "Roca",
+      "Acero"
     ],
     "quick-move": [
       {
-        "name": "acero wing",
-        "type": "acero",
+        "name": "Acero wing",
+        "type": "Acero",
         "base-damage": "11",
         "energy": "6",
         "move-duration-seg": "0.8"
@@ -13960,14 +13960,14 @@ export default {
     "special-attack": [
       {
         "name": "ancient power",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.5"
       },
       {
         "name": "iron head",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "1.9"
@@ -14016,22 +14016,22 @@ export default {
       "max-hp": "272"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
       },
       {
         "name": "lick",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -14047,14 +14047,14 @@ export default {
       },
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
       },
       {
         "name": "heavy slam",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.1"
@@ -14085,7 +14085,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Articuno is a legendary bird Pokémon that can control hielo. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+    "about": "Articuno is a legendary bird Pokémon that can control Hielo. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
     "img": "https://www.serebii.net/pokemongo/pokemon/144.png",
     "size": {
       "height": "1.70 m",
@@ -14093,8 +14093,8 @@ export default {
     },
     "pokemon-rarity": "legendary",
     "type": [
-      "hielo",
-      "volador"
+      "Hielo",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -14109,42 +14109,42 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "planta",
-      "tierra",
-      "bicho"
+      "Hierva",
+      "Tierra",
+      "Bicho"
     ],
     "weaknesses": [
-      "fuego",
-      "electrico",
-      "roca",
-      "acero"
+      "Fuego",
+      "Electrico",
+      "Roca",
+      "Acero"
     ],
     "quick-move": [
       {
-      "name": "frost breath",
-      "type": "hielo",
-      "base-damage": "10",
-      "energy": "8",
-      "move-duration-seg": "0.9"
-    }],
+        "name": "frost breath",
+        "type": "Hielo",
+        "base-damage": "10",
+        "energy": "8",
+        "move-duration-seg": "0.9"
+      }],
     "special-attack": [
       {
-        "name": "ice beam",
-        "type": "hielo",
+        "name": "Hielo beam",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.3"
       },
       {
         "name": "icy wind",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "3.3"
       },
       {
         "name": "blizzard",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
@@ -14163,7 +14163,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Zapdos is a legendary bird Pokémon that has the ability to control electricoity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
+    "about": "Zapdos is a legendary bird Pokémon that has the ability to control Electricoity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
     "img": "https://www.serebii.net/pokemongo/pokemon/145.png",
     "size": {
       "height": "1.60 m",
@@ -14171,8 +14171,8 @@ export default {
     },
     "pokemon-rarity": "legendary",
     "type": [
-      "electrico",
-      "volador"
+      "Electrico",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -14187,27 +14187,27 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "volador",
-      "bicho",
-      "acero"
+      "Hierva",
+      "Luchador",
+      "Volador",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "hielo",
-      "roca"
+      "Hielo",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "charge beam",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "8",
         "energy": "15",
         "move-duration-seg": "1.1"
       },
       {
         "name": "volt switch",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "20",
         "energy": "25",
         "move-duration-seg": "2.3"
@@ -14216,21 +14216,21 @@ export default {
     "special-attack": [
       {
         "name": "zap cannon",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "3.7"
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
         "name": "thunder",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.4"
@@ -14249,7 +14249,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Moltres is a legendary bird Pokémon that has the ability to control fuego. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+    "about": "Moltres is a legendary bird Pokémon that has the ability to control Fuego. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
     "img": "https://www.serebii.net/pokemongo/pokemon/146.png",
     "size": {
       "height": "2.01 m",
@@ -14257,8 +14257,8 @@ export default {
     },
     "pokemon-rarity": "legendary",
     "type": [
-      "fuego",
-      "volador"
+      "Fuego",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -14273,43 +14273,43 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "lucha",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Luchador",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "electrico",
-      "roca"
+      "Agua",
+      "Electrico",
+      "Roca"
     ],
     "quick-move": [
       {
-      "name": "fuego spin",
-      "type": "fuego",
-      "base-damage": "14",
-      "energy": "10",
-      "move-duration-seg": "1.1"
-    }],
+        "name": "Fuego spin",
+        "type": "Fuego",
+        "base-damage": "14",
+        "energy": "10",
+        "move-duration-seg": "1.1"
+      }],
     "special-attack": [
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
       },
       {
         "name": "heat wave",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "95",
         "energy": "-100",
         "move-duration-seg": "3"
       },
       {
         "name": "overheat",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "160",
         "energy": "-100",
         "move-duration-seg": "4"
@@ -14336,7 +14336,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "dragon"
+      "Dragon"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -14351,27 +14351,27 @@ export default {
       "max-hp": "107"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "electrico",
-      "planta"
+      "Fuego",
+      "Agua",
+      "Electrico",
+      "Hierva"
     ],
     "weaknesses": [
-      "hielo",
-      "dragon",
-      "hada"
+      "Hielo",
+      "Dragon",
+      "Hada"
     ],
     "quick-move": [
       {
-        "name": "dragon breath",
-        "type": "dragon",
+        "name": "Dragon breath",
+        "type": "Dragon",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
       },
       {
         "name": "iron tail",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "15",
         "energy": "7",
         "move-duration-seg": "1.1"
@@ -14387,14 +14387,14 @@ export default {
       },
       {
         "name": "twister",
-        "type": "dragon",
+        "type": "Dragon",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "2.8"
       },
       {
         "name": "aqua tail",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -14406,11 +14406,11 @@ export default {
       "candy": "dratini candy",
       "next-evolution": [{
         "num": "148",
-        "name": "dragonair",
+        "name": "Dragonair",
         "candy-cost": "25",
         "next-evolution": [{
           "num": "149",
-          "name": "dragonite",
+          "name": "Dragonite",
           "candy-cost": "100"
         }]
       }]
@@ -14418,7 +14418,7 @@ export default {
   },
   {
     "num": "148",
-    "name": "dragonair",
+    "name": "Dragonair",
     "generation": {
       "num": "generation i",
       "name": "kanto"
@@ -14431,7 +14431,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "dragon"
+      "Dragon"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -14446,27 +14446,27 @@ export default {
       "max-hp": "135"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "electrico",
-      "planta"
+      "Fuego",
+      "Agua",
+      "Electrico",
+      "Hierva"
     ],
     "weaknesses": [
-      "hielo",
-      "dragon",
-      "hada"
+      "Hielo",
+      "Dragon",
+      "Hada"
     ],
     "quick-move": [
       {
-        "name": "dragon breath",
-        "type": "dragon",
+        "name": "Dragon breath",
+        "type": "Dragon",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
       },
       {
         "name": "iron tail",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "15",
         "energy": "7",
         "move-duration-seg": "1.1"
@@ -14482,14 +14482,14 @@ export default {
       },
       {
         "name": "aqua tail",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
-        "name": "dragon pulse",
-        "type": "dragon",
+        "name": "Dragon pulse",
+        "type": "Dragon",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.6"
@@ -14501,7 +14501,7 @@ export default {
       "candy": "dratini candy",
       "next-evolution": [{
         "num": "149",
-        "name": "dragonite",
+        "name": "Dragonite",
         "candy-cost": "100"
       }],
       "prev-evolution": [{
@@ -14513,7 +14513,7 @@ export default {
   },
   {
     "num": "149",
-    "name": "dragonite",
+    "name": "Dragonite",
     "generation": {
       "num": "generation i",
       "name": "kanto"
@@ -14526,8 +14526,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "dragon",
-      "volador"
+      "Dragon",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -14542,36 +14542,36 @@ export default {
       "max-hp": "177"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "planta",
-      "lucha",
-      "tierra"
+      "Fuego",
+      "Agua",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "weaknesses": [
-      "hielo",
-      "roca",
-      "dragon",
-      "hada"
+      "Hielo",
+      "Roca",
+      "Dragon",
+      "Hada"
     ],
     "quick-move": [
       {
-        "name": "acero wing",
-        "type": "acero",
+        "name": "Acero wing",
+        "type": "Acero",
         "base-damage": "11",
         "energy": "6",
         "move-duration-seg": "0.8"
       },
       {
-        "name": "dragon tail",
-        "type": "dragon",
+        "name": "Dragon tail",
+        "type": "Dragon",
         "base-damage": "15",
         "energy": "9",
         "move-duration-seg": "1.1"
       },
       {
-        "name": "dragon breath",
-        "type": "dragon",
+        "name": "Dragon breath",
+        "type": "Dragon",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -14587,28 +14587,28 @@ export default {
       },
       {
         "name": "hurricane",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "2.7"
       },
       {
         "name": "outrage",
-        "type": "dragon",
+        "type": "Dragon",
         "base-damage": "110",
         "energy": "-50",
         "move-duration-seg": "3.9"
       },
       {
-        "name": "dragon claw",
-        "type": "dragon",
+        "name": "Dragon claw",
+        "type": "Dragon",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.7"
       },
       {
-        "name": "dragon pulse",
-        "type": "dragon",
+        "name": "Dragon pulse",
+        "type": "Dragon",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.6"
@@ -14620,7 +14620,7 @@ export default {
       "candy": "dratini candy",
       "prev-evolution": [{
         "num": "148",
-        "name": "dragonair",
+        "name": "Dragonair",
         "candy-cost": "100",
         "prev-evolution": [{
           "num": "147",
@@ -14645,7 +14645,7 @@ export default {
     },
     "pokemon-rarity": "legendary",
     "type": [
-      "psiquico"
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -14660,25 +14660,25 @@ export default {
       "max-hp": "180"
     },
     "resistant": [
-      "lucha",
-      "psiquico"
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
         "name": "psycho cut",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "5",
         "energy": "8",
         "move-duration-seg": "0.6"
       },
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
@@ -14686,15 +14686,15 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "shadow ball",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3"
@@ -14727,7 +14727,7 @@ export default {
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids nothielo even if it approaches people.",
+    "about": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notHielo even if it approaches people.",
     "img": "https://www.serebii.net/pokemongo/pokemon/151.png",
     "size": {
       "height": "0.41 m",
@@ -14735,7 +14735,7 @@ export default {
     },
     "pokemon-rarity": "mythic",
     "type": [
-      "psiquico"
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0",
@@ -14750,40 +14750,40 @@ export default {
       "max-hp": "189"
     },
     "resistant": [
-      "lucha",
-      "psiquico"
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
-      "name": "pound",
-      "type": "normal",
-      "base-damage": "7",
-      "energy": "6",
-      "move-duration-seg": "0.6"
-    }],
+        "name": "pound",
+        "type": "normal",
+        "base-damage": "7",
+        "energy": "6",
+        "move-duration-seg": "0.6"
+      }],
     "special-attack": [
       {
         "name": "blizzard",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
       },
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
@@ -14797,21 +14797,21 @@ export default {
       },
       {
         "name": "thunder",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.4"
       },
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
       },
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
@@ -14845,7 +14845,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta"
+      "Hierva"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -14860,21 +14860,21 @@ export default {
       "max-hp": "113"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "tierra"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "quick-move": [
       {
         "name": "vine whip",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -14890,14 +14890,14 @@ export default {
     "special-attack": [
       {
         "name": "energy ball",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.9"
       },
       {
-        "name": "grass knot",
-        "type": "planta",
+        "name": "Hierva knot",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
@@ -14941,7 +14941,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta"
+      "Hierva"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -14956,21 +14956,21 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "tierra"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "quick-move": [
       {
         "name": "razor leaf",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "13",
         "energy": "7",
         "move-duration-seg": "1"
@@ -14986,21 +14986,21 @@ export default {
     "special-attack": [
       {
         "name": "energy ball",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.9"
       },
       {
-        "name": "planta knot",
-        "type": "planta",
+        "name": "Hierva knot",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "ancient power",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.5"
@@ -15029,7 +15029,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "The fragrance of Meganium's flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe's lucha spirit.",
+    "about": "The fragrance of Meganium's flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe's Luchador spirit.",
     "img": "https://www.serebii.net/pokemongo/pokemon/154.png",
     "size": {
       "height": "1.80 m",
@@ -15037,7 +15037,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta"
+      "Hierva"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -15052,28 +15052,28 @@ export default {
       "max-hp": "162"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "tierra"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "quick-move": [
       {
         "name": "razor leaf",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "13",
         "energy": "7",
         "move-duration-seg": "1"
       },
       {
         "name": "vine whip",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -15082,21 +15082,21 @@ export default {
     "special-attack": [
       {
         "name": "petal blizzard",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "2.6"
       },
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
       },
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
@@ -15133,7 +15133,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -15148,21 +15148,21 @@ export default {
       "max-hp": "105"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -15178,7 +15178,7 @@ export default {
     "special-attack": [
       {
         "name": "flame charge",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.8"
@@ -15192,7 +15192,7 @@ export default {
       },
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -15229,7 +15229,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -15244,21 +15244,21 @@ export default {
       "max-hp": "131"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -15274,21 +15274,21 @@ export default {
     "special-attack": [
       {
         "name": "flame charge",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.8"
       },
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
       },
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -15325,7 +15325,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -15340,28 +15340,28 @@ export default {
       "max-hp": "158"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
       },
       {
         "name": "shadow claw",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "9",
         "energy": "6",
         "move-duration-seg": "0.7"
@@ -15369,22 +15369,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
       },
       {
         "name": "overheat",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "160",
         "energy": "-100",
         "move-duration-seg": "4"
       },
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
@@ -15421,7 +15421,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -15436,19 +15436,19 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -15471,14 +15471,14 @@ export default {
       },
       {
         "name": "aqua jet",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "2.6"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -15515,7 +15515,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -15530,19 +15530,19 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -15564,15 +15564,15 @@ export default {
         "move-duration-seg": "3.2"
       },
       {
-        "name": "ice punch",
-        "type": "hielo",
+        "name": "Hielo punch",
+        "type": "Hielo",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -15601,7 +15601,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the tierra hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+    "about": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the Tierra hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
     "img": "https://www.serebii.net/pokemongo/pokemon/160.png",
     "size": {
       "height": "2.31 m",
@@ -15609,7 +15609,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -15624,19 +15624,19 @@ export default {
       "max-hp": "168"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -15659,14 +15659,14 @@ export default {
       },
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
-        "name": "ice beam",
-        "type": "hielo",
+        "name": "Hielo beam",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.3"
@@ -15718,10 +15718,10 @@ export default {
       "max-hp": "99"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -15742,7 +15742,7 @@ export default {
     "special-attack": [
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
@@ -15755,8 +15755,8 @@ export default {
         "move-duration-seg": "1.6"
       },
       {
-        "name": "grass knot",
-        "type": "planta",
+        "name": "Hierva knot",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
@@ -15803,10 +15803,10 @@ export default {
       "max-hp": "168"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -15827,7 +15827,7 @@ export default {
     "special-attack": [
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
@@ -15874,7 +15874,7 @@ export default {
     "pokemon-rarity": "normal",
     "type": [
       "normal",
-      "volador"
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -15889,15 +15889,15 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "planta",
-      "tierra",
-      "bicho",
-      "fantasma"
+      "Hierva",
+      "Tierra",
+      "Bicho",
+      "Fantasma"
     ],
     "weaknesses": [
-      "electrico",
-      "hielo",
-      "roca"
+      "Electrico",
+      "Hielo",
+      "Roca"
     ],
     "quick-move": [
       {
@@ -15909,7 +15909,7 @@ export default {
       },
       {
         "name": "peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -15917,12 +15917,12 @@ export default {
     ],
     "special-attack": [
       {
-      "name": "blizzard",
-      "type": "hielo",
-      "base-damage": "130",
-      "energy": "-100",
-      "move-duration-seg": "3.1"
-    }],
+        "name": "blizzard",
+        "type": "Hielo",
+        "base-damage": "130",
+        "energy": "-100",
+        "move-duration-seg": "3.1"
+      }],
     "egg": "not in eggs",
     "buddy-distance-km": "1",
     "evolution": {
@@ -15950,7 +15950,7 @@ export default {
     "pokemon-rarity": "normal",
     "type": [
       "normal",
-      "volador"
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -15965,27 +15965,27 @@ export default {
       "max-hp": "189"
     },
     "resistant": [
-      "planta",
-      "tierra",
-      "bicho",
-      "fantasma"
+      "Hierva",
+      "Tierra",
+      "Bicho",
+      "Fantasma"
     ],
     "weaknesses": [
-      "electrico",
-      "hielo",
-      "roca"
+      "Electrico",
+      "Hielo",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "wing attack",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "8",
         "energy": "9",
         "move-duration-seg": "0.8"
       },
       {
         "name": "extrasensory",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.1"
@@ -15993,22 +15993,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "sky attack",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2"
       },
       {
         "name": "night shade",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.6"
@@ -16040,8 +16040,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "volador"
+      "Bicho",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.2",
@@ -16056,16 +16056,16 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra",
-      "bicho"
+      "Hierva",
+      "Luchador",
+      "Tierra",
+      "Bicho"
     ],
     "weaknesses": [
-      "fuego",
-      "electrico",
-      "hielo",
-      "volador"
+      "Fuego",
+      "Electrico",
+      "Hielo",
+      "Volador"
     ],
     "quick-move": [
       {
@@ -16076,8 +16076,8 @@ export default {
         "move-duration-seg": "0.5"
       },
       {
-        "name": "bug bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -16086,7 +16086,7 @@ export default {
     "special-attack": [
       {
         "name": "silver wind",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.7"
@@ -16100,7 +16100,7 @@ export default {
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
@@ -16132,8 +16132,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "volador"
+      "Bicho",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -16148,28 +16148,28 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra",
-      "bicho"
+      "Hierva",
+      "Luchador",
+      "Tierra",
+      "Bicho"
     ],
     "weaknesses": [
-      "fuego",
-      "electrico",
-      "hielo",
-      "volador"
+      "Fuego",
+      "Electrico",
+      "Hielo",
+      "Volador"
     ],
     "quick-move": [
       {
-        "name": "struggle bicho",
-        "type": "bicho",
+        "name": "struggle Bicho",
+        "type": "Bicho",
         "base-damage": "15",
         "energy": "15",
         "move-duration-seg": "1.5"
       },
       {
-        "name": "bicho bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -16177,22 +16177,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "bicho buzz",
-        "type": "bicho",
+        "name": "Bicho buzz",
+        "type": "Bicho",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.7"
       },
       {
         "name": "silver wind",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.7"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
@@ -16224,8 +16224,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "veneno"
+      "Bicho",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.2",
@@ -16240,29 +16240,29 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "volador",
-      "psiquico",
-      "roca"
+      "Fuego",
+      "Volador",
+      "Psíquico",
+      "Roca"
     ],
     "quick-move": [
       {
-        "name": "poison sting",
-        "type": "veneno",
+        "name": "Veneno sting",
+        "type": "Veneno",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
       },
       {
-        "name": "bug bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -16278,14 +16278,14 @@ export default {
       },
       {
         "name": "signal beam",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "75",
         "energy": "-50",
         "move-duration-seg": "2.9"
       },
       {
-        "name": "cross poison",
-        "type": "veneno",
+        "name": "cross Veneno",
+        "type": "Veneno",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.5"
@@ -16317,8 +16317,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "veneno"
+      "Bicho",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -16333,29 +16333,29 @@ export default {
       "max-hp": "147"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "fuego",
-      "volador",
-      "psiquico",
-      "roca"
+      "Fuego",
+      "Volador",
+      "Psíquico",
+      "Roca"
     ],
     "quick-move": [
       {
-        "name": "poison sting",
-        "type": "veneno",
+        "name": "Veneno sting",
+        "type": "Veneno",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
       },
       {
         "name": "infestation",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "10",
         "energy": "14",
         "move-duration-seg": "1.1"
@@ -16364,21 +16364,21 @@ export default {
     "special-attack": [
       {
         "name": "shadow sneak",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.9"
       },
       {
         "name": "megahorn",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "90",
         "energy": "-100",
         "move-duration-seg": "2.2"
       },
       {
-        "name": "cross poison",
-        "type": "veneno",
+        "name": "cross Veneno",
+        "type": "Veneno",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.5"
@@ -16402,7 +16402,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "If this Pokémon is volador by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that Crobat has been volador a long distance. It switches the wings it uses if it is tired.",
+    "about": "If this Pokémon is Volador by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that Crobat has been Volador a long distance. It switches the wings it uses if it is tired.",
     "img": "https://www.serebii.net/pokemongo/pokemon/169.png",
     "size": {
       "height": "1.80 m",
@@ -16410,8 +16410,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "veneno",
-      "volador"
+      "Veneno",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -16426,22 +16426,22 @@ export default {
       "max-hp": "168"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "veneno",
-      "bicho",
-      "hada"
+      "Hierva",
+      "Luchador",
+      "Veneno",
+      "Bicho",
+      "Hada"
     ],
     "weaknesses": [
-      "electrico",
-      "hielo",
-      "psiquico",
-      "roca"
+      "Electrico",
+      "Hielo",
+      "Psíquico",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "air slash",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "14",
         "energy": "10",
         "move-duration-seg": "1.2"
@@ -16457,21 +16457,21 @@ export default {
     "special-attack": [
       {
         "name": "shadow ball",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3"
       },
       {
         "name": "air cutter",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
@@ -16500,7 +16500,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Chinchou lets loose positive and negative electricoal charges from its two antennas to make its prey faint. This Pokémon flashes its electrico lights to exchange signals with others.",
+    "about": "Chinchou lets loose positive and negative Electricoal charges from its two antennas to make its prey faint. This Pokémon flashes its Electrico lights to exchange signals with others.",
     "img": "https://www.serebii.net/pokemongo/pokemon/170.png",
     "size": {
       "height": "0.51 m",
@@ -16508,8 +16508,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "electrico"
+      "Agua",
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -16524,27 +16524,27 @@ export default {
       "max-hp": "154"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "volador",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "planta",
-      "tierra"
+      "Hierva",
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
       },
       {
         "name": "spark",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "6",
         "energy": "9",
         "move-duration-seg": "0.7"
@@ -16552,22 +16552,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
         "name": "bubble beam",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -16599,8 +16599,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "electrico"
+      "Agua",
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -16615,27 +16615,27 @@ export default {
       "max-hp": "223"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "volador",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "planta",
-      "tierra"
+      "Hierva",
+      "Tierra"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "charge beam",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "8",
         "energy": "15",
         "move-duration-seg": "1.1"
@@ -16644,21 +16644,21 @@ export default {
     "special-attack": [
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
         "name": "thunder",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.4"
@@ -16682,7 +16682,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Pichu charges itself with electricoity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricoity coming off this Pokémon.",
+    "about": "Pichu charges itself with Electricoity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static Electricoity coming off this Pokémon.",
     "img": "https://www.serebii.net/pokemongo/pokemon/172.png",
     "size": {
       "height": "0.30 m",
@@ -16690,7 +16690,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "not in capture",
@@ -16705,17 +16705,17 @@ export default {
       "max-hp": "79"
     },
     "resistant": [
-      "electrico",
-      "volador",
-      "acero"
+      "Electrico",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "tierra"
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "thunder shock",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "5",
         "energy": "8",
         "move-duration-seg": "0.6"
@@ -16731,21 +16731,21 @@ export default {
     "special-attack": [
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
-        "name": "disarming voice",
-        "type": "hada",
+        "name": "disarming voHielo",
+        "type": "Hada",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.9"
       },
       {
         "name": "thunder punch",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.8"
@@ -16782,7 +16782,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "hada"
+      "Hada"
     ],
     "encounter": {
       "base-flee-rate": "not in capture",
@@ -16797,14 +16797,14 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "lucha",
-      "bicho",
-      "dragon",
-      "oscuro"
+      "Luchador",
+      "Bicho",
+      "Dragon",
+      "dark"
     ],
     "weaknesses": [
-      "veneno",
-      "acero"
+      "Veneno",
+      "Acero"
     ],
     "quick-move": [
       {
@@ -16816,7 +16816,7 @@ export default {
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -16824,29 +16824,29 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "grass knot",
-        "type": "planta",
+        "name": "Hierva knot",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "psyshock",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.7"
       },
       {
         "name": "signal beam",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "75",
         "energy": "-50",
         "move-duration-seg": "2.9"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
@@ -16862,10 +16862,10 @@ export default {
     "egg": "7 km",
     "buddy-distance-km": "1",
     "evolution": {
-      "candy": "clehada candy",
+      "candy": "cleHada candy",
       "next-evolution": [{
         "num": "035",
-        "name": "clefairy",
+        "name": "cleHada",
         "candy-cost": "25",
         "next-evolution": [{
           "num": "036",
@@ -16882,7 +16882,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Igglybuff's vocal cords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pokémon gargles with freshagua from a clean stream.",
+    "about": "Igglybuff's vocal cords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pokémon gargles with freshAgua from a clean stream.",
     "img": "https://www.serebii.net/pokemongo/pokemon/174.png",
     "size": {
       "height": "0.30 m",
@@ -16891,7 +16891,7 @@ export default {
     "pokemon-rarity": "normal",
     "type": [
       "normal",
-      "hada"
+      "Hada"
     ],
     "encounter": {
       "base-flee-rate": "not in capture",
@@ -16906,14 +16906,14 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "bicho",
-      "fantasma",
-      "dragon",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "Dragon",
+      "dark"
     ],
     "weaknesses": [
-      "veneno",
-      "acero"
+      "Veneno",
+      "Acero"
     ],
     "quick-move": [
       {
@@ -16934,21 +16934,21 @@ export default {
     "special-attack": [
       {
         "name": "wild charge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "shadow ball",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
@@ -16992,7 +16992,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "hada"
+      "Hada"
     ],
     "encounter": {
       "base-flee-rate": "not in capture",
@@ -17007,14 +17007,14 @@ export default {
       "max-hp": "99"
     },
     "resistant": [
-      "lucha",
-      "bicho",
-      "dragon",
-      "oscuro"
+      "Luchador",
+      "Bicho",
+      "Dragon",
+      "dark"
     ],
     "weaknesses": [
-      "veneno",
-      "acero"
+      "Veneno",
+      "Acero"
     ],
     "quick-move": [
       {
@@ -17026,14 +17026,14 @@ export default {
       },
       {
         "name": "peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -17042,21 +17042,21 @@ export default {
     "special-attack": [
       {
         "name": "ancient power",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.5"
       },
       {
         "name": "psyshock",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.7"
       },
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
@@ -17097,8 +17097,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "hada",
-      "volador"
+      "Hada",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -17113,22 +17113,22 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra",
-      "bicho",
-      "dragon"
+      "Hierva",
+      "Luchador",
+      "Tierra",
+      "Bicho",
+      "Dragon"
     ],
     "weaknesses": [
-      "electrico",
-      "hielo",
-      "veneno",
-      "roca"
+      "Electrico",
+      "Hielo",
+      "Veneno",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "extrasensory",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.1"
@@ -17144,21 +17144,21 @@ export default {
     "special-attack": [
       {
         "name": "ancient power",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.5"
       },
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
@@ -17199,8 +17199,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "psiquico",
-      "volador"
+      "Psíquico",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -17215,21 +17215,21 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra",
-      "psiquico"
+      "Hierva",
+      "Luchador",
+      "Tierra",
+      "Psíquico"
     ],
     "weaknesses": [
-      "electrico",
-      "hielo",
-      "roca",
-      "fantasma"
+      "Electrico",
+      "Hielo",
+      "Roca",
+      "Fantasma"
     ],
     "quick-move": [
       {
         "name": "peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -17245,21 +17245,21 @@ export default {
     "special-attack": [
       {
         "name": "night shade",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "psyshock",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.7"
       },
       {
         "name": "drill peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "2.3"
@@ -17291,8 +17291,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "psiquico",
-      "volador"
+      "Psíquico",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -17307,21 +17307,21 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra",
-      "psiquico"
+      "Hierva",
+      "Luchador",
+      "Tierra",
+      "Psíquico"
     ],
     "weaknesses": [
-      "electrico",
-      "hielo",
-      "roca",
-      "fantasma"
+      "Electrico",
+      "Hielo",
+      "Roca",
+      "Fantasma"
     ],
     "quick-move": [
       {
         "name": "air slash",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "14",
         "energy": "10",
         "move-duration-seg": "1.2"
@@ -17337,21 +17337,21 @@ export default {
     "special-attack": [
       {
         "name": "ominous wind",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.3"
       },
       {
         "name": "futuresight",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "2.7"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
@@ -17375,7 +17375,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Mareep's fluffy coat of wool rubs together and builds a static charge. The more static electricoity is charged, the more brightly the lightbulb at the tip of its tail glows.",
+    "about": "Mareep's fluffy coat of wool rubs together and builds a static charge. The more static Electricoity is charged, the more brightly the lightbulb at the tip of its tail glows.",
     "img": "https://www.serebii.net/pokemongo/pokemon/179.png",
     "size": {
       "height": "0.61 m",
@@ -17383,7 +17383,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -17398,12 +17398,12 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "electrico",
-      "volador",
-      "acero"
+      "Electrico",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "tierra"
+      "Tierra"
     ],
     "quick-move": [
       {
@@ -17415,7 +17415,7 @@ export default {
       },
       {
         "name": "thunder shock",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "5",
         "energy": "8",
         "move-duration-seg": "0.6"
@@ -17431,14 +17431,14 @@ export default {
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
         "name": "discharge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.5"
@@ -17467,7 +17467,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Flaaffy's wool quality changes so that it can generate a high amount of static electricoity with a small amount of wool. The bare and slick parts of its hide are shielded against electricoity.",
+    "about": "Flaaffy's wool quality changes so that it can generate a high amount of static Electricoity with a small amount of wool. The bare and slick parts of its hide are shielded against Electricoity.",
     "img": "https://www.serebii.net/pokemongo/pokemon/180.png",
     "size": {
       "height": "0.79 m",
@@ -17475,7 +17475,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -17490,12 +17490,12 @@ export default {
       "max-hp": "147"
     },
     "resistant": [
-      "electrico",
-      "volador",
-      "acero"
+      "Electrico",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "tierra"
+      "Tierra"
     ],
     "quick-move": [
       {
@@ -17507,7 +17507,7 @@ export default {
       },
       {
         "name": "charge beam",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "8",
         "energy": "15",
         "move-duration-seg": "1.1"
@@ -17516,21 +17516,21 @@ export default {
     "special-attack": [
       {
         "name": "power gem",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.9"
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
         "name": "discharge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.5"
@@ -17567,7 +17567,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -17582,24 +17582,24 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "electrico",
-      "volador",
-      "acero"
+      "Electrico",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "tierra"
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "charge beam",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "8",
         "energy": "15",
         "move-duration-seg": "1.1"
       },
       {
         "name": "volt switch",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "20",
         "energy": "25",
         "move-duration-seg": "2.3"
@@ -17608,7 +17608,7 @@ export default {
     "special-attack": [
       {
         "name": "zap cannon",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "3.7"
@@ -17622,7 +17622,7 @@ export default {
       },
       {
         "name": "thunder",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.4"
@@ -17659,7 +17659,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta"
+      "Hierva"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -17674,28 +17674,28 @@ export default {
       "max-hp": "154"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "tierra"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "quick-move": [
       {
         "name": "razor leaf",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "13",
         "energy": "7",
         "move-duration-seg": "1"
       },
       {
         "name": "acid",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "9",
         "energy": "8",
         "move-duration-seg": "0.8"
@@ -17704,21 +17704,21 @@ export default {
     "special-attack": [
       {
         "name": "leaf blade",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "2.4"
       },
       {
         "name": "petal blizzard",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "2.6"
       },
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
@@ -17751,7 +17751,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Marill's oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the agua's surface, it's a sure indication that this Pokémon is diving beneath the agua to feed on aquatic plants.",
+    "about": "Marill's oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the Agua's surface, it's a sure indication that this Pokémon is diving beneath the Agua to feed on aquatic plants.",
     "img": "https://www.serebii.net/pokemongo/pokemon/183.png",
     "size": {
       "height": "0.41 m",
@@ -17759,8 +17759,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "hada"
+      "Agua",
+      "Hada"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -17775,16 +17775,16 @@ export default {
       "max-hp": "147"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "lucha",
-      "bicho"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Luchador",
+      "Bicho"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "veneno"
+      "Electrico",
+      "Hierva",
+      "Veneno"
     ],
     "quick-move": [
       {
@@ -17796,7 +17796,7 @@ export default {
       },
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
@@ -17805,14 +17805,14 @@ export default {
     "special-attack": [
       {
         "name": "bubble beam",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
         "name": "aqua tail",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -17856,8 +17856,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "hada"
+      "Agua",
+      "Hada"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -17872,28 +17872,28 @@ export default {
       "max-hp": "189"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "lucha",
-      "bicho"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Luchador",
+      "Bicho"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "veneno"
+      "Electrico",
+      "Hierva",
+      "Veneno"
     ],
     "quick-move": [
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
       },
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
@@ -17902,21 +17902,21 @@ export default {
     "special-attack": [
       {
         "name": "play rough",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.9"
       },
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
-        "name": "ice beam",
-        "type": "hielo",
+        "name": "Hielo beam",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.3"
@@ -17953,7 +17953,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "roca"
+      "Roca"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -17969,20 +17969,20 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Veneno",
+      "Volador"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "lucha",
-      "tierra"
+      "Agua",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "quick-move": [
       {
-        "name": "rock throw",
-        "type": "roca",
+        "name": "Roca throw",
+        "type": "Roca",
         "base-damage": "12",
         "energy": "7",
         "move-duration-seg": "0.9"
@@ -17998,21 +17998,21 @@ export default {
     "special-attack": [
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
       },
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
       },
       {
-        "name": "rock slide",
-        "type": "roca",
+        "name": "Roca slide",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -18044,7 +18044,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -18059,26 +18059,26 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
       },
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
@@ -18087,21 +18087,21 @@ export default {
     "special-attack": [
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
         "name": "blizzard",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
       },
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
@@ -18116,8 +18116,8 @@ export default {
         "name": "poliwhirl",
         "candy-cost": "100",
         "evolution-item": {
-          "name": "kings rock",
-          "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/kings-roca.png"
+          "name": "kings Roca",
+          "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/kings-Roca.png"
         },
         "prev-evolution": [{
           "num": "060",
@@ -18142,8 +18142,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "volador"
+      "Hierva",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.12",
@@ -18158,16 +18158,16 @@ export default {
       "max-hp": "99"
     },
     "resistant": [
-      "agua",
-      "planta",
-      "lucha",
-      "tierra"
+      "Agua",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "quick-move": [
       {
@@ -18179,7 +18179,7 @@ export default {
       },
       {
         "name": "bullet seed",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "8",
         "energy": "14",
         "move-duration-seg": "1.1"
@@ -18187,22 +18187,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "planta knot",
-        "type": "planta",
+        "name": "Hierva knot",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
       },
       {
         "name": "seed bomb",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.1"
@@ -18239,8 +18239,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "volador"
+      "Hierva",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -18255,16 +18255,16 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "agua",
-      "planta",
-      "lucha",
-      "tierra"
+      "Agua",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "quick-move": [
       {
@@ -18276,7 +18276,7 @@ export default {
       },
       {
         "name": "bullet seed",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "8",
         "energy": "14",
         "move-duration-seg": "1.1"
@@ -18284,22 +18284,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "grass knot",
-        "type": "planta",
+        "name": "Hierva knot",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
       },
       {
         "name": "energy ball",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.9"
@@ -18328,7 +18328,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the tierra when it encounters cold air while it is floating.",
+    "about": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the Tierra when it encounters cold air while it is floating.",
     "img": "https://www.serebii.net/pokemongo/pokemon/189.png",
     "size": {
       "height": "0.79 m",
@@ -18336,8 +18336,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta",
-      "volador"
+      "Hierva",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -18352,28 +18352,28 @@ export default {
       "max-hp": "154"
     },
     "resistant": [
-      "agua",
-      "planta",
-      "lucha",
-      "tierra"
+      "Agua",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "quick-move": [
       {
         "name": "infestation",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "10",
         "energy": "14",
         "move-duration-seg": "1.1"
       },
       {
         "name": "bullet seed",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "8",
         "energy": "14",
         "move-duration-seg": "1.1"
@@ -18382,21 +18382,21 @@ export default {
     "special-attack": [
       {
         "name": "energy ball",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.9"
       },
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
       },
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
@@ -18448,10 +18448,10 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -18463,7 +18463,7 @@ export default {
       },
       {
         "name": "astonish",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "8",
         "energy": "14",
         "move-duration-seg": "1.1"
@@ -18486,7 +18486,7 @@ export default {
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
@@ -18513,7 +18513,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta"
+      "Hierva"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -18528,21 +18528,21 @@ export default {
       "max-hp": "92"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "tierra"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "quick-move": [
       {
         "name": "razor leaf",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "13",
         "energy": "7",
         "move-duration-seg": "1"
@@ -18558,21 +18558,21 @@ export default {
     "special-attack": [
       {
         "name": "energy ball",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.9"
       },
       {
-        "name": "planta knot",
-        "type": "planta",
+        "name": "Hierva knot",
+        "type": "Hierva",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "seed bomb",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.1"
@@ -18608,7 +18608,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "planta"
+      "Hierva"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -18623,28 +18623,28 @@ export default {
       "max-hp": "154"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "tierra"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "quick-move": [
       {
         "name": "razor leaf",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "13",
         "energy": "7",
         "move-duration-seg": "1"
       },
       {
         "name": "bullet seed",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "8",
         "energy": "14",
         "move-duration-seg": "1.1"
@@ -18653,21 +18653,21 @@ export default {
     "special-attack": [
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
       },
       {
         "name": "petal blizzard",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "2.6"
       },
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
@@ -18695,7 +18695,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its volador ability to quickly chase down targeted prey.",
+    "about": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its Volador ability to quickly chase down targeted prey.",
     "img": "https://www.serebii.net/pokemongo/pokemon/193.png",
     "size": {
       "height": "1.19 m",
@@ -18703,8 +18703,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "volador"
+      "Bicho",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -18719,16 +18719,16 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra",
-      "bicho"
+      "Hierva",
+      "Luchador",
+      "Tierra",
+      "Bicho"
     ],
     "weaknesses": [
-      "fuego",
-      "electrico",
-      "hielo",
-      "volador"
+      "Fuego",
+      "Electrico",
+      "Hielo",
+      "Volador"
     ],
     "quick-move": [
       {
@@ -18740,7 +18740,7 @@ export default {
       },
       {
         "name": "wing attack",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "8",
         "energy": "9",
         "move-duration-seg": "0.8"
@@ -18749,21 +18749,21 @@ export default {
     "special-attack": [
       {
         "name": "ancient power",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.5"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
       },
       {
         "name": "silver wind",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.7"
@@ -18782,7 +18782,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Wooper usually lives in agua. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+    "about": "Wooper usually lives in Agua. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
     "img": "https://www.serebii.net/pokemongo/pokemon/194.png",
     "size": {
       "height": "0.41 m",
@@ -18790,8 +18790,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "tierra"
+      "Agua",
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -18806,25 +18806,25 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "fuego",
-      "veneno",
-      "roca",
-      "acero"
+      "Fuego",
+      "Veneno",
+      "Roca",
+      "Acero"
     ],
     "weaknesses": [
-      "planta"
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -18833,14 +18833,14 @@ export default {
     "special-attack": [
       {
         "name": "mud bomb",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.3"
       },
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
@@ -18871,7 +18871,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Quagsire hunts for food by leaving its mouth wide open in agua and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
+    "about": "Quagsire hunts for food by leaving its mouth wide open in Agua and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
     "img": "https://www.serebii.net/pokemongo/pokemon/195.png",
     "size": {
       "height": "1.40 m",
@@ -18879,8 +18879,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "tierra"
+      "Agua",
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -18895,25 +18895,25 @@ export default {
       "max-hp": "182"
     },
     "resistant": [
-      "fuego",
-      "veneno",
-      "roca",
-      "acero"
+      "Fuego",
+      "Veneno",
+      "Roca",
+      "Acero"
     ],
     "weaknesses": [
-      "planta"
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -18922,21 +18922,21 @@ export default {
     "special-attack": [
       {
         "name": "sludge bomb",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.3"
       },
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
       },
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -18968,7 +18968,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "psiquico"
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -18983,25 +18983,25 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "lucha",
-      "psiquico"
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -19010,21 +19010,21 @@ export default {
     "special-attack": [
       {
         "name": "psybeam",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "futuresight",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "2.7"
@@ -19071,14 +19071,14 @@ export default {
       "max-hp": "182"
     },
     "resistant": [
-      "psiquico",
-      "fantasma",
-      "oscuro"
+      "Psíquico",
+      "Fantasma",
+      "dark"
     ],
     "weaknesses": [
-      "lucha",
-      "bicho",
-      "hada"
+      "Luchador",
+      "Bicho",
+      "Hada"
     ],
     "quick-move": [
       {
@@ -19138,8 +19138,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "oscuro",
-      "volador"
+      "dark",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -19154,22 +19154,22 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "planta",
-      "tierra",
-      "psiquico",
-      "fantasma",
-      "oscuro"
+      "Hierva",
+      "Tierra",
+      "Psíquico",
+      "Fantasma",
+      "dark"
     ],
     "weaknesses": [
-      "electrico",
-      "hielo",
-      "roca",
-      "hada"
+      "Electrico",
+      "Hielo",
+      "Roca",
+      "Hada"
     ],
     "quick-move": [
       {
         "name": "peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -19185,7 +19185,7 @@ export default {
     "special-attack": [
       {
         "name": "drill peck",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "2.3"
@@ -19235,8 +19235,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "psiquico"
+      "Agua",
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -19251,29 +19251,29 @@ export default {
       "max-hp": "182"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "lucha",
-      "psiquico"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "bicho",
-      "fantasma"
+      "Electrico",
+      "Hierva",
+      "Bicho",
+      "Fantasma"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
@@ -19282,21 +19282,21 @@ export default {
     "special-attack": [
       {
         "name": "blizzard",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
@@ -19311,8 +19311,8 @@ export default {
         "name": "slowpoke",
         "candy-cost": "50",
         "evolution-item": {
-          "name": "kings rock",
-          "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/kings-roca.png"
+          "name": "kings Roca",
+          "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/kings-Roca.png"
         }
       }]
     }
@@ -19332,7 +19332,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fantasma"
+      "Fantasma"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -19348,25 +19348,25 @@ export default {
     },
     "resistant": [
       "normal",
-      "lucha",
-      "veneno",
-      "bicho"
+      "Luchador",
+      "Veneno",
+      "Bicho"
     ],
     "weaknesses": [
-      "fantasma",
-      "oscuro"
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
         "name": "astonish",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "8",
         "energy": "14",
         "move-duration-seg": "1.1"
       },
       {
         "name": "hex",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "10",
         "energy": "15",
         "move-duration-seg": "1.2"
@@ -19375,7 +19375,7 @@ export default {
     "special-attack": [
       {
         "name": "shadow sneak",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.9"
@@ -19389,7 +19389,7 @@ export default {
       },
       {
         "name": "ominous wind",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.3"
@@ -19425,7 +19425,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "psiquico"
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -19440,30 +19440,30 @@ export default {
       "max-hp": "117"
     },
     "resistant": [
-      "lucha",
-      "psiquico"
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
-      "name": "hidden power",
-      "type": "normal",
-      "base-damage": "15",
-      "energy": "15",
-      "move-duration-seg": "1.5"
-    }],
+        "name": "hidden power",
+        "type": "normal",
+        "base-damage": "15",
+        "energy": "15",
+        "move-duration-seg": "1.5"
+      }],
     "special-attack": [
       {
-      "name": "struggle",
-      "type": "normal",
-      "base-damage": "35",
-      "energy": "-33",
-      "move-duration-seg": "2.2"
-    }],
+        "name": "struggle",
+        "type": "normal",
+        "base-damage": "35",
+        "energy": "-33",
+        "move-duration-seg": "2.2"
+      }],
     "egg": "not in eggs",
     "buddy-distance-km": "5",
     "evolution": {
@@ -19485,7 +19485,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "psiquico"
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -19500,13 +19500,13 @@ export default {
       "max-hp": "313"
     },
     "resistant": [
-      "lucha",
-      "psiquico"
+      "Luchador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "bicho",
-      "fantasma",
-      "oscuro"
+      "Bicho",
+      "Fantasma",
+      "dark"
     ],
     "quick-move": [
       {
@@ -19518,7 +19518,7 @@ export default {
       },
       {
         "name": "splash",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "0",
         "energy": "0",
         "move-duration-seg": "1.73"
@@ -19526,12 +19526,12 @@ export default {
     ],
     "special-attack": [
       {
-      "name": "mirror coat",
-      "type": "psiquico",
-      "base-damage": "60",
-      "energy": "-50",
-      "move-duration-seg": "2.6"
-    }],
+        "name": "mirror coat",
+        "type": "Psíquico",
+        "base-damage": "60",
+        "energy": "-50",
+        "move-duration-seg": "2.6"
+      }],
     "egg": "not in eggs",
     "buddy-distance-km": "3",
     "evolution": {
@@ -19559,7 +19559,7 @@ export default {
     "pokemon-rarity": "normal",
     "type": [
       "normal",
-      "psiquico"
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -19574,11 +19574,11 @@ export default {
       "max-hp": "147"
     },
     "resistant": [
-      "psiquico"
+      "Psíquico"
     ],
     "weaknesses": [
-      "bicho",
-      "oscuro"
+      "Bicho",
+      "dark"
     ],
     "quick-move": [
       {
@@ -19590,7 +19590,7 @@ export default {
       },
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
@@ -19598,22 +19598,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
         "name": "mirror coat",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.6"
@@ -19632,7 +19632,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the tierra and explodes with no warning.",
+    "about": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the Tierra and explodes with no warning.",
     "img": "https://www.serebii.net/pokemongo/pokemon/204.png",
     "size": {
       "height": "0.61 m",
@@ -19640,7 +19640,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho"
+      "Bicho"
     ],
     "encounter": {
       "base-flee-rate": "0.12",
@@ -19655,14 +19655,14 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra"
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "volador",
-      "roca"
+      "Fuego",
+      "Volador",
+      "Roca"
     ],
     "quick-move": [
       {
@@ -19673,8 +19673,8 @@ export default {
         "move-duration-seg": "0.5"
       },
       {
-        "name": "bug bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -19683,21 +19683,21 @@ export default {
     "special-attack": [
       {
         "name": "gyro ball",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.3"
       },
       {
-        "name": "rock tomb",
-        "type": "roca",
+        "name": "Roca tomb",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "sand tomb",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "4"
@@ -19721,7 +19721,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Forretress conceals itself inside its hardened acero shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
+    "about": "Forretress conceals itself inside its hardened Acero shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
     "img": "https://www.serebii.net/pokemongo/pokemon/205.png",
     "size": {
       "height": "1.19 m",
@@ -19729,8 +19729,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "acero"
+      "Bicho",
+      "Acero"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -19746,25 +19746,25 @@ export default {
     },
     "resistant": [
       "normal",
-      "planta",
-      "hielo",
-      "veneno",
-      "psiquico"
+      "Hierva",
+      "Hielo",
+      "Veneno",
+      "Psíquico"
     ],
     "weaknesses": [
-      "fuego"
+      "Fuego"
     ],
     "quick-move": [
       {
-        "name": "bug bite",
-        "type": "bicho",
+        "name": "Bicho bite",
+        "type": "Bicho",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
       },
       {
-        "name": "struggle bicho",
-        "type": "bicho",
+        "name": "struggle Bicho",
+        "type": "Bicho",
         "base-damage": "15",
         "energy": "15",
         "move-duration-seg": "1.5"
@@ -19773,21 +19773,21 @@ export default {
     "special-attack": [
       {
         "name": "heavy slam",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.1"
       },
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
       },
       {
-        "name": "rock tomb",
-        "type": "roca",
+        "name": "Roca tomb",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -19811,7 +19811,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Dunsparce has a drill for its tail. It uses this tail to burrow into the tierra backward. This Pokémon is known to make its nest in complex shapes deep under the tierra.",
+    "about": "Dunsparce has a drill for its tail. It uses this tail to burrow into the Tierra backward. This Pokémon is known to make its nest in complex shapes deep under the Tierra.",
     "img": "https://www.serebii.net/pokemongo/pokemon/206.png",
     "size": {
       "height": "1.50 m",
@@ -19834,10 +19834,10 @@ export default {
       "max-hp": "189"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -19849,7 +19849,7 @@ export default {
       },
       {
         "name": "astonish",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "8",
         "energy": "14",
         "move-duration-seg": "1.1"
@@ -19858,21 +19858,21 @@ export default {
     "special-attack": [
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
       },
       {
-        "name": "rock slide",
-        "type": "roca",
+        "name": "Roca slide",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
         "name": "drill run",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.8"
@@ -19891,7 +19891,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its veneno barb.",
+    "about": "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its Veneno barb.",
     "img": "https://www.serebii.net/pokemongo/pokemon/207.png",
     "size": {
       "height": "1.09 m",
@@ -19899,8 +19899,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "tierra",
-      "volador"
+      "Tierra",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -19915,26 +19915,26 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "lucha",
-      "veneno",
-      "tierra",
-      "bicho"
+      "Luchador",
+      "Veneno",
+      "Tierra",
+      "Bicho"
     ],
     "weaknesses": [
-      "agua",
-      "hielo"
+      "Agua",
+      "Hielo"
     ],
     "quick-move": [
       {
         "name": "fury cutter",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "3",
         "energy": "6",
         "move-duration-seg": "0.4"
       },
       {
         "name": "wing attack",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "8",
         "energy": "9",
         "move-duration-seg": "0.8"
@@ -19943,14 +19943,14 @@ export default {
     "special-attack": [
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
@@ -19980,12 +19980,12 @@ export default {
   },
   {
     "num": "208",
-    "name": "aceroix",
+    "name": "Aceroix",
     "generation": {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "aceroix lives even further undertierra than Onix. This Pokémon is known to dig toward the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile undertierra.",
+    "about": "Aceroix lives even further underTierra than Onix. This Pokémon is known to dig toward the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underTierra.",
     "img": "https://www.serebii.net/pokemongo/pokemon/208.png",
     "size": {
       "height": "9.19 m",
@@ -19993,8 +19993,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "acero",
-      "tierra"
+      "Acero",
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -20010,28 +20010,28 @@ export default {
     },
     "resistant": [
       "normal",
-      "electrico",
-      "veneno",
-      "volador",
-      "psiquico"
+      "Electrico",
+      "Veneno",
+      "Volador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "fuego",
-      "agua",
-      "lucha",
-      "tierra"
+      "Fuego",
+      "Agua",
+      "Luchador",
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "iron tail",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "15",
         "energy": "7",
         "move-duration-seg": "1.1"
       },
       {
-        "name": "dragon tail",
-        "type": "dragon",
+        "name": "Dragon tail",
+        "type": "Dragon",
         "base-damage": "15",
         "energy": "9",
         "move-duration-seg": "1.1"
@@ -20040,14 +20040,14 @@ export default {
     "special-attack": [
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
       },
       {
         "name": "heavy slam",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.1"
@@ -20090,7 +20090,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "hada"
+      "Hada"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -20105,14 +20105,14 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "lucha",
-      "bicho",
-      "dragon",
-      "oscuro"
+      "Luchador",
+      "Bicho",
+      "Dragon",
+      "dark"
     ],
     "weaknesses": [
-      "veneno",
-      "acero"
+      "Veneno",
+      "Acero"
     ],
     "quick-move": [
       {
@@ -20140,7 +20140,7 @@ export default {
       },
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
@@ -20179,7 +20179,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "hada"
+      "Hada"
     ],
     "encounter": {
       "base-flee-rate": "0.08",
@@ -20194,14 +20194,14 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "lucha",
-      "bicho",
-      "dragon",
-      "oscuro"
+      "Luchador",
+      "Bicho",
+      "Dragon",
+      "dark"
     ],
     "weaknesses": [
-      "veneno",
-      "acero"
+      "Veneno",
+      "Acero"
     ],
     "quick-move": [
       {
@@ -20229,7 +20229,7 @@ export default {
       },
       {
         "name": "play rough",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.9"
@@ -20260,7 +20260,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Qwilfish sucks in agua, inflating itself. This Pokémon uses the pressure of the agua it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
+    "about": "Qwilfish sucks in Agua, inflating itself. This Pokémon uses the pressure of the Agua it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
     "img": "https://www.serebii.net/pokemongo/pokemon/211.png",
     "size": {
       "height": "0.51 m",
@@ -20268,8 +20268,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "veneno"
+      "Agua",
+      "Veneno"
     ],
     "encounter": {
       "base-flee-rate": "0.08",
@@ -20284,28 +20284,28 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "lucha",
-      "veneno"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Luchador",
+      "Veneno"
     ],
     "weaknesses": [
-      "electrico",
-      "tierra",
-      "psiquico"
+      "Electrico",
+      "Tierra",
+      "Psíquico"
     ],
     "quick-move": [
       {
-        "name": "poison sting",
-        "type": "veneno",
+        "name": "Veneno sting",
+        "type": "Veneno",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
       },
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -20314,21 +20314,21 @@ export default {
     "special-attack": [
       {
         "name": "aqua tail",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
-        "name": "ice beam",
-        "type": "hielo",
+        "name": "Hielo beam",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.3"
       },
       {
         "name": "sludge wave",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "110",
         "energy": "-100",
         "move-duration-seg": "3.2"
@@ -20347,7 +20347,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Scizor has a body with the hardness of acero. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
+    "about": "Scizor has a body with the hardness of Acero. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
     "img": "https://www.serebii.net/pokemongo/pokemon/212.png",
     "size": {
       "height": "2.01 m",
@@ -20355,8 +20355,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "acero"
+      "Bicho",
+      "Acero"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -20372,25 +20372,25 @@ export default {
     },
     "resistant": [
       "normal",
-      "planta",
-      "hielo",
-      "veneno",
-      "psiquico"
+      "Hierva",
+      "Hielo",
+      "Veneno",
+      "Psíquico"
     ],
     "weaknesses": [
-      "fuego"
+      "Fuego"
     ],
     "quick-move": [
       {
         "name": "bullet punch",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "9",
         "energy": "10",
         "move-duration-seg": "0.9"
       },
       {
         "name": "fury cutter",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "3",
         "energy": "6",
         "move-duration-seg": "0.4"
@@ -20399,14 +20399,14 @@ export default {
     "special-attack": [
       {
         "name": "x scissor",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "50",
         "energy": "-100",
         "move-duration-seg": "4.7"
       },
       {
         "name": "iron head",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "1.9"
@@ -20441,7 +20441,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Shuckle quietly hides itself under rocas, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juhielo.",
+    "about": "Shuckle quietly hides itself under Rocas, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juHielo.",
     "img": "https://www.serebii.net/pokemongo/pokemon/213.png",
     "size": {
       "height": "0.61 m",
@@ -20449,8 +20449,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "roca"
+      "Bicho",
+      "Roca"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -20466,24 +20466,24 @@ export default {
     },
     "resistant": [
       "normal",
-      "veneno"
+      "Veneno"
     ],
     "weaknesses": [
-      "agua",
-      "roca",
-      "acero"
+      "Agua",
+      "Roca",
+      "Acero"
     ],
     "quick-move": [
       {
-        "name": "struggle bug",
-        "type": "bicho",
+        "name": "struggle Bicho",
+        "type": "Bicho",
         "base-damage": "15",
         "energy": "15",
         "move-duration-seg": "1.5"
       },
       {
-        "name": "rock throw",
-        "type": "roca",
+        "name": "Roca throw",
+        "type": "Roca",
         "base-damage": "12",
         "energy": "7",
         "move-duration-seg": "0.9"
@@ -20491,22 +20491,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "rock blast",
-        "type": "roca",
+        "name": "Roca blast",
+        "type": "Roca",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.1"
       },
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
       },
       {
         "name": "gyro ball",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.3"
@@ -20533,8 +20533,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "bicho",
-      "lucha"
+      "Bicho",
+      "Luchador"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -20549,17 +20549,17 @@ export default {
       "max-hp": "162"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra",
-      "bicho",
-      "oscuro"
+      "Hierva",
+      "Luchador",
+      "Tierra",
+      "Bicho",
+      "dark"
     ],
     "weaknesses": [
-      "fuego",
-      "volador",
-      "psiquico",
-      "hada"
+      "Fuego",
+      "Volador",
+      "Psíquico",
+      "Hada"
     ],
     "quick-move": [
       {
@@ -20570,8 +20570,8 @@ export default {
         "move-duration-seg": "0.9"
       },
       {
-        "name": "struggle bug",
-        "type": "bicho",
+        "name": "struggle Bicho",
+        "type": "Bicho",
         "base-damage": "15",
         "energy": "15",
         "move-duration-seg": "1.5"
@@ -20580,7 +20580,7 @@ export default {
     "special-attack": [
       {
         "name": "megahorn",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "90",
         "energy": "-100",
         "move-duration-seg": "2.2"
@@ -20594,7 +20594,7 @@ export default {
       },
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
@@ -20621,8 +20621,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "oscuro",
-      "hielo"
+      "dark",
+      "Hielo"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -20637,21 +20637,21 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "hielo",
-      "psiquico",
-      "fantasma",
-      "oscuro"
+      "Hielo",
+      "Psíquico",
+      "Fantasma",
+      "dark"
     ],
     "weaknesses": [
-      "fuego",
-      "lucha",
-      "bicho",
-      "roca"
+      "Fuego",
+      "Luchador",
+      "Bicho",
+      "Roca"
     ],
     "quick-move": [
       {
-        "name": "ice shard",
-        "type": "hielo",
+        "name": "Hielo shard",
+        "type": "Hielo",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.2"
@@ -20667,14 +20667,14 @@ export default {
     "special-attack": [
       {
         "name": "avalanche",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
-        "name": "ice punch",
-        "type": "hielo",
+        "name": "Hielo punch",
+        "type": "Hielo",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -20732,10 +20732,10 @@ export default {
       "max-hp": "134"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -20747,7 +20747,7 @@ export default {
       },
       {
         "name": "lick",
-        "type": "fantasma",
+        "type": "Fantasma",
         "base-damage": "5",
         "energy": "6",
         "move-duration-seg": "0.5"
@@ -20770,7 +20770,7 @@ export default {
       },
       {
         "name": "play rough",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.9"
@@ -20817,15 +20817,15 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
         "name": "metal claw",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "8",
         "energy": "7",
         "move-duration-seg": "0.7"
@@ -20855,7 +20855,7 @@ export default {
       },
       {
         "name": "play rough",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.9"
@@ -20887,7 +20887,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -20902,28 +20902,28 @@ export default {
       "max-hp": "106"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
       },
       {
-        "name": "rock throw",
-        "type": "roca",
+        "name": "Roca throw",
+        "type": "Roca",
         "base-damage": "12",
         "energy": "7",
         "move-duration-seg": "0.9"
@@ -20932,21 +20932,21 @@ export default {
     "special-attack": [
       {
         "name": "flame burst",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "flame charge",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.8"
       },
       {
-        "name": "rock slide",
-        "type": "roca",
+        "name": "Roca slide",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -20978,8 +20978,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego",
-      "roca"
+      "Fuego",
+      "Roca"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -20995,28 +20995,28 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "weaknesses": [
-      "agua",
-      "lucha",
-      "tierra",
-      "roca"
+      "Agua",
+      "Luchador",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
       },
       {
-        "name": "rock throw",
-        "type": "roca",
+        "name": "Roca throw",
+        "type": "Roca",
         "base-damage": "12",
         "energy": "7",
         "move-duration-seg": "0.9"
@@ -21025,21 +21025,21 @@ export default {
     "special-attack": [
       {
         "name": "heat wave",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "95",
         "energy": "-100",
         "move-duration-seg": "3"
       },
       {
         "name": "overheat",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "160",
         "energy": "-100",
         "move-duration-seg": "4"
       },
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -21063,7 +21063,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Swinub roots for food by rubbing its snout against the tierra. Its favorite food is a mushroom that grows under the cover of dead planta. This Pokémon occasionally roots out hot springs.",
+    "about": "Swinub roots for food by rubbing its snout against the Tierra. Its favorite food is a mushroom that grows under the cover of dead Hierva. This Pokémon occasionally roots out hot springs.",
     "img": "https://www.serebii.net/pokemongo/pokemon/220.png",
     "size": {
       "height": "0.41 m",
@@ -21071,8 +21071,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "hielo",
-      "tierra"
+      "Hielo",
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -21087,14 +21087,14 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "electrico",
-      "veneno"
+      "Electrico",
+      "Veneno"
     ],
     "weaknesses": [
-      "fuego",
-      "agua",
-      "planta",
-      "lucha"
+      "Fuego",
+      "Agua",
+      "Hierva",
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -21106,7 +21106,7 @@ export default {
       },
       {
         "name": "powder snow",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "6",
         "energy": "15",
         "move-duration-seg": "1"
@@ -21115,7 +21115,7 @@ export default {
     "special-attack": [
       {
         "name": "icy wind",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "3.3"
@@ -21128,8 +21128,8 @@ export default {
         "move-duration-seg": "1.9"
       },
       {
-        "name": "rock slide",
-        "type": "roca",
+        "name": "Roca slide",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -21153,7 +21153,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under hielo.",
+    "about": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under Hielo.",
     "img": "https://www.serebii.net/pokemongo/pokemon/221.png",
     "size": {
       "height": "1.09 m",
@@ -21161,8 +21161,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "hielo",
-      "tierra"
+      "Hielo",
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -21177,26 +21177,26 @@ export default {
       "max-hp": "189"
     },
     "resistant": [
-      "electrico",
-      "veneno"
+      "Electrico",
+      "Veneno"
     ],
     "weaknesses": [
-      "fuego",
-      "agua",
-      "planta",
-      "lucha"
+      "Fuego",
+      "Agua",
+      "Hierva",
+      "Luchador"
     ],
     "quick-move": [
       {
-        "name": "ice shard",
-        "type": "hielo",
+        "name": "Hielo shard",
+        "type": "Hielo",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.2"
       },
       {
         "name": "powder snow",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "6",
         "energy": "15",
         "move-duration-seg": "1"
@@ -21205,21 +21205,21 @@ export default {
     "special-attack": [
       {
         "name": "avalanche",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
         "name": "bulldoze",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.5"
       },
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -21251,8 +21251,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "roca"
+      "Agua",
+      "Roca"
     ],
     "encounter": {
       "base-flee-rate": "0.12",
@@ -21268,16 +21268,16 @@ export default {
     },
     "resistant": [
       "normal",
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "weaknesses": [
-      "electrico",
-      "planta",
-      "lucha",
-      "tierra"
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "quick-move": [
       {
@@ -21289,7 +21289,7 @@ export default {
       },
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
@@ -21297,22 +21297,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "rock blast",
-        "type": "roca",
+        "name": "Roca blast",
+        "type": "Roca",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.1"
       },
       {
         "name": "power gem",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.9"
       },
       {
         "name": "bubble beam",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -21331,7 +21331,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Remoraid sucks in agua, then expels it at high velocity using its abdominal muscles to shoot down volador prey. When evolution draws near, this Pokémon travels downstream from rivers.",
+    "about": "Remoraid sucks in Agua, then expels it at high velocity using its abdominal muscles to shoot down Volador prey. When evolution draws near, this Pokémon travels downstream from rivers.",
     "img": "https://www.serebii.net/pokemongo/pokemon/223.png",
     "size": {
       "height": "0.61 m",
@@ -21339,7 +21339,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -21354,26 +21354,26 @@ export default {
       "max-hp": "99"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -21382,21 +21382,21 @@ export default {
     "special-attack": [
       {
         "name": "aurora beam",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.55"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
-        "name": "rock blast",
-        "type": "roca",
+        "name": "Roca blast",
+        "type": "Roca",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "2.1"
@@ -21428,7 +21428,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -21443,26 +21443,26 @@ export default {
       "max-hp": "154"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "mud shot",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "5",
         "energy": "7",
         "move-duration-seg": "0.6"
@@ -21471,21 +21471,21 @@ export default {
     "special-attack": [
       {
         "name": "gunk shot",
-        "type": "veneno",
+        "type": "Veneno",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
         "name": "aurora beam",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.55"
@@ -21517,8 +21517,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "hielo",
-      "volador"
+      "Hielo",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.2",
@@ -21533,20 +21533,20 @@ export default {
       "max-hp": "113"
     },
     "resistant": [
-      "planta",
-      "tierra",
-      "bicho"
+      "Hierva",
+      "Tierra",
+      "Bicho"
     ],
     "weaknesses": [
-      "fuego",
-      "electrico",
-      "roca",
-      "acero"
+      "Fuego",
+      "Electrico",
+      "Roca",
+      "Acero"
     ],
     "quick-move": [
       {
-        "name": "ice shard",
-        "type": "hielo",
+        "name": "Hielo shard",
+        "type": "Hielo",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.2"
@@ -21561,22 +21561,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "ice punch",
-        "type": "hielo",
+        "name": "Hielo punch",
+        "type": "Hielo",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
         "name": "icy wind",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "3.3"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
@@ -21603,8 +21603,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "volador"
+      "Agua",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -21619,27 +21619,27 @@ export default {
       "max-hp": "140"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "lucha",
-      "tierra",
-      "bicho"
+      "Fuego",
+      "Agua",
+      "Luchador",
+      "Tierra",
+      "Bicho"
     ],
     "weaknesses": [
-      "electrico",
-      "roca"
+      "Electrico",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "bubble",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "12",
         "energy": "14",
         "move-duration-seg": "1.2"
       },
       {
         "name": "wing attack",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "8",
         "energy": "9",
         "move-duration-seg": "0.8"
@@ -21647,22 +21647,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
       },
       {
-        "name": "ice beam",
-        "type": "hielo",
+        "name": "Hielo beam",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.3"
       },
       {
         "name": "aerial ace",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.4"
@@ -21694,8 +21694,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "acero",
-      "volador"
+      "Acero",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -21711,26 +21711,26 @@ export default {
     },
     "resistant": [
       "normal",
-      "planta",
-      "veneno",
-      "volador",
-      "psiquico"
+      "Hierva",
+      "Veneno",
+      "Volador",
+      "Psíquico"
     ],
     "weaknesses": [
-      "fuego",
-      "electrico"
+      "Fuego",
+      "Electrico"
     ],
     "quick-move": [
       {
-        "name": "acero wing",
-        "type": "acero",
+        "name": "Acero wing",
+        "type": "Acero",
         "base-damage": "11",
         "energy": "6",
         "move-duration-seg": "0.8"
       },
       {
         "name": "air slash",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "14",
         "energy": "10",
         "move-duration-seg": "1.2"
@@ -21739,21 +21739,21 @@ export default {
     "special-attack": [
       {
         "name": "brave bird",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "90",
         "energy": "-100",
         "move-duration-seg": "2"
       },
       {
         "name": "sky attack",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2"
       },
       {
         "name": "flash cannon",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.7"
@@ -21780,8 +21780,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "oscuro",
-      "fuego"
+      "dark",
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -21796,17 +21796,17 @@ export default {
       "max-hp": "113"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "psiquico",
-      "fantasma"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Psíquico",
+      "Fantasma"
     ],
     "weaknesses": [
-      "agua",
-      "lucha",
-      "tierra",
-      "roca"
+      "Agua",
+      "Luchador",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
@@ -21818,7 +21818,7 @@ export default {
       },
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -21834,7 +21834,7 @@ export default {
       },
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -21865,7 +21865,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "In a Houndoom pack, the one with its horns raked sharply toward the back serves a leadership role. These Pokémon choose their leader by lucha among themselves.",
+    "about": "In a Houndoom pack, the one with its horns raked sharply toward the back serves a leadership role. These Pokémon choose their leader by Luchador among themselves.",
     "img": "https://www.serebii.net/pokemongo/pokemon/229.png",
     "size": {
       "height": "1.40 m",
@@ -21873,8 +21873,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "oscuro",
-      "fuego"
+      "dark",
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -21889,17 +21889,17 @@ export default {
       "max-hp": "154"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "psiquico",
-      "fantasma"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Psíquico",
+      "Fantasma"
     ],
     "weaknesses": [
-      "agua",
-      "lucha",
-      "tierra",
-      "roca"
+      "Agua",
+      "Luchador",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
@@ -21910,8 +21910,8 @@ export default {
         "move-duration-seg": "1.1"
       },
       {
-        "name": "fuego fang",
-        "type": "fuego",
+        "name": "Fuego fang",
+        "type": "Fuego",
         "base-damage": "11",
         "energy": "8",
         "move-duration-seg": "0.9"
@@ -21926,8 +21926,8 @@ export default {
         "move-duration-seg": "3.2"
       },
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
@@ -21966,8 +21966,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "agua",
-      "dragon"
+      "Agua",
+      "Dragon"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -21982,25 +21982,25 @@ export default {
       "max-hp": "154"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Acero"
     ],
     "weaknesses": [
-      "dragon",
-      "hada"
+      "Dragon",
+      "Hada"
     ],
     "quick-move": [
       {
-        "name": "agua gun",
-        "type": "agua",
+        "name": "Agua gun",
+        "type": "Agua",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
-        "name": "dragon breath",
-        "type": "dragon",
+        "name": "Dragon breath",
+        "type": "Dragon",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -22009,21 +22009,21 @@ export default {
     "special-attack": [
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
         "name": "blizzard",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.1"
       },
       {
         "name": "outrage",
-        "type": "dragon",
+        "type": "Dragon",
         "base-damage": "110",
         "energy": "-50",
         "move-duration-seg": "3.9"
@@ -22038,8 +22038,8 @@ export default {
         "name": "seadra",
         "candy-cost": "100",
         "evolution-item": {
-          "name": "dragon scale",
-          "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/dragon-scale.png"
+          "name": "Dragon scale",
+          "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/Dragon-scale.png"
         },
         "prev-evolution": [{
           "num": "116",
@@ -22056,7 +22056,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "For its nest, Phanpy digs a vertical pit in the tierra at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
+    "about": "For its nest, Phanpy digs a vertical pit in the Tierra at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
     "img": "https://www.serebii.net/pokemongo/pokemon/231.png",
     "size": {
       "height": "0.51 m",
@@ -22064,7 +22064,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "tierra"
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.2",
@@ -22079,14 +22079,14 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "electrico",
-      "veneno",
-      "roca"
+      "Electrico",
+      "Veneno",
+      "Roca"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo"
+      "Agua",
+      "Hierva",
+      "Hielo"
     ],
     "quick-move": [
       {
@@ -22097,8 +22097,8 @@ export default {
         "move-duration-seg": "0.5"
       },
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -22107,14 +22107,14 @@ export default {
     "special-attack": [
       {
         "name": "bulldoze",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.5"
       },
       {
-        "name": "rock slide",
-        "type": "roca",
+        "name": "Roca slide",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -22153,7 +22153,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "tierra"
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -22168,14 +22168,14 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "electrico",
-      "veneno",
-      "roca"
+      "Electrico",
+      "Veneno",
+      "Roca"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "hielo"
+      "Agua",
+      "Hierva",
+      "Hielo"
     ],
     "quick-move": [
       {
@@ -22196,21 +22196,21 @@ export default {
     "special-attack": [
       {
         "name": "earthquake",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "3.6"
       },
       {
         "name": "heavy slam",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.1"
       },
       {
         "name": "play rough",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.9"
@@ -22257,10 +22257,10 @@ export default {
       "max-hp": "168"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -22272,7 +22272,7 @@ export default {
       },
       {
         "name": "charge beam",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "8",
         "energy": "15",
         "move-duration-seg": "1.1"
@@ -22281,7 +22281,7 @@ export default {
     "special-attack": [
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
@@ -22295,7 +22295,7 @@ export default {
       },
       {
         "name": "zap cannon",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "3.7"
@@ -22332,7 +22332,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Stantler's magnifhielont antlers were traded at high prhielos as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the prhieloless antlers.",
+    "about": "Stantler's magnifHielont antlers were traded at high prHielos as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the prHieloless antlers.",
     "img": "https://www.serebii.net/pokemongo/pokemon/234.png",
     "size": {
       "height": "1.40 m",
@@ -22355,10 +22355,10 @@ export default {
       "max-hp": "151"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -22370,7 +22370,7 @@ export default {
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -22386,14 +22386,14 @@ export default {
       },
       {
         "name": "wild charge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "megahorn",
-        "type": "bicho",
+        "type": "Bicho",
         "base-damage": "90",
         "energy": "-100",
         "move-duration-seg": "2.2"
@@ -22435,27 +22435,27 @@ export default {
       "max-hp": "127"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
-      "name": "tackle",
-      "type": "normal",
-      "base-damage": "5",
-      "energy": "5",
-      "move-duration-seg": "0.5"
-    }],
+        "name": "tackle",
+        "type": "normal",
+        "base-damage": "5",
+        "energy": "5",
+        "move-duration-seg": "0.5"
+      }],
     "special-attack": [
       {
-      "name": "struggle",
-      "type": "normal",
-      "base-damage": "35",
-      "energy": "-33",
-      "move-duration-seg": "2.2"
-    }],
+        "name": "struggle",
+        "type": "normal",
+        "base-damage": "35",
+        "energy": "-33",
+        "move-duration-seg": "2.2"
+      }],
     "egg": "not in eggs",
     "buddy-distance-km": "3",
     "evolution": {
@@ -22477,7 +22477,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "lucha"
+      "Luchador"
     ],
     "encounter": {
       "base-flee-rate": "not in capture",
@@ -22492,19 +22492,19 @@ export default {
       "max-hp": "99"
     },
     "resistant": [
-      "bicho",
-      "roca",
-      "oscuro"
+      "Bicho",
+      "Roca",
+      "dark"
     ],
     "weaknesses": [
-      "volador",
-      "psiquico",
-      "hada"
+      "Volador",
+      "Psíquico",
+      "Hada"
     ],
     "quick-move": [
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -22526,8 +22526,8 @@ export default {
         "move-duration-seg": "1.6"
       },
       {
-        "name": "rock slide",
-        "type": "roca",
+        "name": "Roca slide",
+        "type": "Roca",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.7"
@@ -22578,7 +22578,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "lucha"
+      "Luchador"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -22593,19 +22593,19 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "bicho",
-      "roca",
-      "oscuro"
+      "Bicho",
+      "Roca",
+      "dark"
     ],
     "weaknesses": [
-      "volador",
-      "psiquico",
-      "hada"
+      "Volador",
+      "Psíquico",
+      "Hada"
     ],
     "quick-move": [
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -22628,14 +22628,14 @@ export default {
       },
       {
         "name": "gyro ball",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.3"
       },
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -22667,8 +22667,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "hielo",
-      "psiquico"
+      "Hielo",
+      "Psíquico"
     ],
     "encounter": {
       "base-flee-rate": "not in capture",
@@ -22683,19 +22683,19 @@ export default {
       "max-hp": "113"
     },
     "resistant": [
-      "hielo",
-      "psiquico"
+      "Hielo",
+      "Psíquico"
     ],
     "weaknesses": [
-      "fuego",
-      "bicho",
-      "roca",
-      "fantasma"
+      "Fuego",
+      "Bicho",
+      "Roca",
+      "Fantasma"
     ],
     "quick-move": [
       {
         "name": "powder snow",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "6",
         "energy": "15",
         "move-duration-seg": "1"
@@ -22709,7 +22709,7 @@ export default {
       },
       {
         "name": "frost breath",
-        "type": "hielo",
+        "type": "Hielo",
         "base-damage": "10",
         "energy": "8",
         "move-duration-seg": "0.9"
@@ -22717,22 +22717,22 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "ice beam",
-        "type": "hielo",
+        "name": "Hielo beam",
+        "type": "Hielo",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "3.3"
       },
       {
-        "name": "ice punch",
-        "type": "hielo",
+        "name": "Hielo punch",
+        "type": "Hielo",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
         "name": "psyshock",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.7"
@@ -22756,7 +22756,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Elekid stores electricoity in its body. If it touches metal and accidentally discharges all its built-up electricoity, this Pokémon begins swinging its arms in circles to recharge itself.",
+    "about": "Elekid stores Electricoity in its body. If it touches metal and accidentally discharges all its built-up Electricoity, this Pokémon begins swinging its arms in circles to recharge itself.",
     "img": "https://www.serebii.net/pokemongo/pokemon/239.png",
     "size": {
       "height": "0.61 m",
@@ -22764,7 +22764,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "not in capture",
@@ -22779,17 +22779,17 @@ export default {
       "max-hp": "113"
     },
     "resistant": [
-      "electrico",
-      "volador",
-      "acero"
+      "Electrico",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "tierra"
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "thunder shock",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "5",
         "energy": "8",
         "move-duration-seg": "0.6"
@@ -22805,7 +22805,7 @@ export default {
     "special-attack": [
       {
         "name": "thunder punch",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.8"
@@ -22819,14 +22819,14 @@ export default {
       },
       {
         "name": "discharge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "65",
         "energy": "-33",
         "move-duration-seg": "2.5"
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
@@ -22859,7 +22859,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Magby's state of health is determined by observing the fuego it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+    "about": "Magby's state of health is determined by observing the Fuego it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
     "img": "https://www.serebii.net/pokemongo/pokemon/240.png",
     "size": {
       "height": "0.71 m",
@@ -22867,7 +22867,7 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "not in capture",
@@ -22882,21 +22882,21 @@ export default {
       "max-hp": "113"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
         "name": "ember",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "10",
         "energy": "10",
         "move-duration-seg": "1"
@@ -22918,22 +22918,22 @@ export default {
         "move-duration-seg": "1.6"
       },
       {
-        "name": "fuego punch",
-        "type": "fuego",
+        "name": "Fuego punch",
+        "type": "Fuego",
         "base-damage": "55",
         "energy": "-33",
         "move-duration-seg": "2.2"
       },
       {
         "name": "flame burst",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.6"
       },
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -22989,10 +22989,10 @@ export default {
       "max-hp": "182"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -23004,7 +23004,7 @@ export default {
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -23027,7 +23027,7 @@ export default {
       },
       {
         "name": "gyro ball",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "3.3"
@@ -23069,10 +23069,10 @@ export default {
       "max-hp": "403"
     },
     "resistant": [
-      "fantasma"
+      "Fantasma"
     ],
     "weaknesses": [
-      "lucha"
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -23084,7 +23084,7 @@ export default {
       },
       {
         "name": "zen headbutt",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "10",
         "move-duration-seg": "1.1"
@@ -23092,8 +23092,8 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
@@ -23107,7 +23107,7 @@ export default {
       },
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
@@ -23136,7 +23136,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the tierra as if lightning bolts had come crashing down.",
+    "about": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the Tierra as if lightning bolts had come crashing down.",
     "img": "https://www.serebii.net/pokemongo/pokemon/243.png",
     "size": {
       "height": "1.91 m",
@@ -23144,7 +23144,7 @@ export default {
     },
     "pokemon-rarity": "legendary",
     "type": [
-      "electrico"
+      "Electrico"
     ],
     "encounter": {
       "base-flee-rate": "0.04",
@@ -23159,24 +23159,24 @@ export default {
       "max-hp": "175"
     },
     "resistant": [
-      "electrico",
-      "volador",
-      "acero"
+      "Electrico",
+      "Volador",
+      "Acero"
     ],
     "weaknesses": [
-      "tierra"
+      "Tierra"
     ],
     "quick-move": [
       {
         "name": "thunder shock",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "5",
         "energy": "8",
         "move-duration-seg": "0.6"
       },
       {
         "name": "volt switch",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "20",
         "energy": "25",
         "move-duration-seg": "2.3"
@@ -23185,21 +23185,21 @@ export default {
     "special-attack": [
       {
         "name": "thunder",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.4"
       },
       {
         "name": "thunderbolt",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
         "name": "wild charge",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.6"
@@ -23218,7 +23218,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fuego that utterly consume all that they touch.",
+    "about": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of Fuego that utterly consume all that they touch.",
     "img": "https://www.serebii.net/pokemongo/pokemon/244.png",
     "size": {
       "height": "2.11 m",
@@ -23226,7 +23226,7 @@ export default {
     },
     "pokemon-rarity": "legendary",
     "type": [
-      "fuego"
+      "Fuego"
     ],
     "encounter": {
       "base-flee-rate": "0.04",
@@ -23241,28 +23241,28 @@ export default {
       "max-hp": "210"
     },
     "resistant": [
-      "fuego",
-      "planta",
-      "hielo",
-      "bicho",
-      "acero"
+      "Fuego",
+      "Hierva",
+      "Hielo",
+      "Bicho",
+      "Acero"
     ],
     "weaknesses": [
-      "agua",
-      "tierra",
-      "roca"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "quick-move": [
       {
-        "name": "fuego spin",
-        "type": "fuego",
+        "name": "Fuego spin",
+        "type": "Fuego",
         "base-damage": "14",
         "energy": "10",
         "move-duration-seg": "1.1"
       },
       {
-        "name": "fuego fang",
-        "type": "fuego",
+        "name": "Fuego fang",
+        "type": "Fuego",
         "base-damage": "11",
         "energy": "8",
         "move-duration-seg": "0.9"
@@ -23271,21 +23271,21 @@ export default {
     "special-attack": [
       {
         "name": "flamethrower",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2.2"
       },
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
       },
       {
         "name": "overheat",
-        "type": "fuego",
+        "type": "Fuego",
         "base-damage": "160",
         "energy": "-100",
         "move-duration-seg": "4"
@@ -23304,7 +23304,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Suicune embodies the compassion of a pure spring of agua. It runs across the land with gracefulness. This Pokémon has the power to purify dirty agua.",
+    "about": "Suicune embodies the compassion of a pure spring of Agua. It runs across the land with gracefulness. This Pokémon has the power to purify dirty Agua.",
     "img": "https://www.serebii.net/pokemongo/pokemon/245.png",
     "size": {
       "height": "2.01 m",
@@ -23312,7 +23312,7 @@ export default {
     },
     "pokemon-rarity": "legendary",
     "type": [
-      "agua"
+      "Agua"
     ],
     "encounter": {
       "base-flee-rate": "0.04",
@@ -23327,19 +23327,19 @@ export default {
       "max-hp": "189"
     },
     "resistant": [
-      "fuego",
-      "agua",
-      "hielo",
-      "acero"
+      "Fuego",
+      "Agua",
+      "Hielo",
+      "Acero"
     ],
     "weaknesses": [
-      "electrico",
-      "planta"
+      "Electrico",
+      "Hierva"
     ],
     "quick-move": [
       {
         "name": "extrasensory",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.1"
@@ -23355,21 +23355,21 @@ export default {
     "special-attack": [
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
         "name": "bubble beam",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "45",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
-        "name": "agua pulse",
-        "type": "agua",
+        "name": "Agua pulse",
+        "type": "Agua",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "3.2"
@@ -23388,7 +23388,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Larvitar is born deep under the tierra. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents.",
+    "about": "Larvitar is born deep under the Tierra. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents.",
     "img": "https://www.serebii.net/pokemongo/pokemon/246.png",
     "size": {
       "height": "0.60 m",
@@ -23396,8 +23396,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "roca",
-      "tierra"
+      "Roca",
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -23412,20 +23412,20 @@ export default {
       "max-hp": "120"
     },
     "resistant": [
-      "electrico",
-      "veneno",
-      "fuego",
-      "volador",
+      "Electrico",
+      "Veneno",
+      "Fuego",
+      "Volador",
       "normal",
-      "roca"
+      "Roca"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "tierra",
-      "hielo",
-      "acero",
-      "lucha"
+      "Agua",
+      "Hierva",
+      "Tierra",
+      "Hielo",
+      "Acero",
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -23436,8 +23436,8 @@ export default {
         "move-duration-seg": "0.5"
       },
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -23460,7 +23460,7 @@ export default {
       },
       {
         "name": "ancient power",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.5"
@@ -23489,7 +23489,7 @@ export default {
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid acero.",
+    "about": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid Acero.",
     "img": "https://www.serebii.net/pokemongo/pokemon/247.png",
     "size": {
       "height": "1.20 m",
@@ -23497,8 +23497,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "roca",
-      "tierra"
+      "Roca",
+      "Tierra"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -23513,20 +23513,20 @@ export default {
       "max-hp": "147"
     },
     "resistant": [
-      "electrico",
-      "veneno",
-      "fuego",
-      "volador",
+      "Electrico",
+      "Veneno",
+      "Fuego",
+      "Volador",
       "normal",
-      "roca"
+      "Roca"
     ],
     "weaknesses": [
-      "agua",
-      "planta",
-      "tierra",
-      "hielo",
-      "acero",
-      "lucha"
+      "Agua",
+      "Hierva",
+      "Tierra",
+      "Hielo",
+      "Acero",
+      "Luchador"
     ],
     "quick-move": [
       {
@@ -23537,8 +23537,8 @@ export default {
         "move-duration-seg": "0.5"
       },
       {
-        "name": "rock smash",
-        "type": "lucha",
+        "name": "Roca smash",
+        "type": "fight",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -23547,7 +23547,7 @@ export default {
     "special-attack": [
       {
         "name": "dig",
-        "type": "tierra",
+        "type": "Tierra",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "4.7"
@@ -23561,7 +23561,7 @@ export default {
       },
       {
         "name": "ancient power",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "70",
         "energy": "-33",
         "move-duration-seg": "3.5"
@@ -23598,8 +23598,8 @@ export default {
     },
     "pokemon-rarity": "normal",
     "type": [
-      "roca",
-      "oscuro"
+      "Roca",
+      "dark"
     ],
     "encounter": {
       "base-flee-rate": "0.04",
@@ -23614,22 +23614,22 @@ export default {
       "max-hp": "189"
     },
     "resistant": [
-      "psiquico",
-      "oscuro",
-      "fantasma",
-      "fuego",
-      "veneno",
-      "volador",
+      "Psíquico",
+      "dark",
+      "Fantasma",
+      "Fuego",
+      "Veneno",
+      "Volador",
       "normal"
     ],
     "weaknesses": [
-      "lucha",
-      "tierra",
-      "acero",
-      "agua",
-      "planta",
-      "bicho",
-      "hada"
+      "Luchador",
+      "Tierra",
+      "Acero",
+      "Agua",
+      "Hierva",
+      "Bicho",
+      "Hada"
     ],
     "quick-move": [
       {
@@ -23641,7 +23641,7 @@ export default {
       },
       {
         "name": "iron tail",
-        "type": "acero",
+        "type": "Acero",
         "base-damage": "15",
         "energy": "7",
         "move-duration-seg": "1.1"
@@ -23649,8 +23649,8 @@ export default {
     ],
     "special-attack": [
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
@@ -23664,7 +23664,7 @@ export default {
       },
       {
         "name": "stone edge",
-        "type": "roca",
+        "type": "Roca",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -23701,8 +23701,8 @@ export default {
     },
     "pokemon-rarity": "legendary",
     "type": [
-      "psiquico",
-      "volador"
+      "Psíquico",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.04",
@@ -23717,28 +23717,28 @@ export default {
       "max-hp": "197"
     },
     "resistant": [
-      "planta",
-      "lucha",
-      "tierra",
-      "psiquico"
+      "Hierva",
+      "Luchador",
+      "Tierra",
+      "Psíquico"
     ],
     "weaknesses": [
-      "electrico",
-      "hielo",
-      "roca",
-      "fantasma"
+      "Electrico",
+      "Hielo",
+      "Roca",
+      "Fantasma"
     ],
     "quick-move": [
       {
         "name": "extrasensory",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.1"
       },
       {
-        "name": "dragon tail",
-        "type": "dragon",
+        "name": "Dragon tail",
+        "type": "Dragon",
         "base-damage": "15",
         "energy": "9",
         "move-duration-seg": "1.1"
@@ -23747,21 +23747,21 @@ export default {
     "special-attack": [
       {
         "name": "sky attack",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "70",
         "energy": "-50",
         "move-duration-seg": "2"
       },
       {
         "name": "hydro pump",
-        "type": "agua",
+        "type": "Agua",
         "base-damage": "130",
         "energy": "-100",
         "move-duration-seg": "3.3"
       },
       {
         "name": "futuresight",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "120",
         "energy": "-100",
         "move-duration-seg": "2.7"
@@ -23788,8 +23788,8 @@ export default {
     },
     "pokemon-rarity": "legendary",
     "type": [
-      "fuego",
-      "volador"
+      "Fuego",
+      "Volador"
     ],
     "encounter": {
       "base-flee-rate": "0.04",
@@ -23804,30 +23804,30 @@ export default {
       "max-hp": "180"
     },
     "resistant": [
-      "lucha",
-      "bicho",
-      "planta",
-      "acero",
-      "fuego",
-      "hada"
+      "Luchador",
+      "Bicho",
+      "Hierva",
+      "Acero",
+      "Fuego",
+      "Hada"
     ],
     "weaknesses": [
-      "roca",
-      "tierra",
-      "electrico",
-      "agua"
+      "Roca",
+      "Tierra",
+      "Electrico",
+      "Agua"
     ],
     "quick-move": [
       {
         "name": "extrasensory",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "12",
         "energy": "12",
         "move-duration-seg": "1.1"
       },
       {
-        "name": "acero wing",
-        "type": "acero",
+        "name": "Acero wing",
+        "type": "Acero",
         "base-damage": "11",
         "energy": "6",
         "move-duration-seg": "0.8"
@@ -23836,21 +23836,21 @@ export default {
     "special-attack": [
       {
         "name": "brave bird",
-        "type": "volador",
+        "type": "Volador",
         "base-damage": "90",
         "energy": "-100",
         "move-duration-seg": "2"
       },
       {
-        "name": "fuego blast",
-        "type": "fuego",
+        "name": "Fuego blast",
+        "type": "Fuego",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "4.2"
       },
       {
         "name": "solar beam",
-        "type": "planta",
+        "type": "Hierva",
         "base-damage": "180",
         "energy": "-100",
         "move-duration-seg": "4.9"
@@ -23877,8 +23877,8 @@ export default {
     },
     "pokemon-rarity": "mythic",
     "type": [
-      "psiquico",
-      "planta"
+      "Psíquico",
+      "Hierva"
     ],
     "encounter": {
       "base-flee-rate": "0",
@@ -23893,29 +23893,29 @@ export default {
       "max-hp": "189"
     },
     "resistant": [
-      "agua",
-      "electrico",
-      "planta",
-      "lucha",
-      "tierra"
+      "Agua",
+      "Electrico",
+      "Hierva",
+      "Luchador",
+      "Tierra"
     ],
     "weaknesses": [
-      "fuego",
-      "hielo",
-      "veneno",
-      "volador"
+      "Fuego",
+      "Hielo",
+      "Veneno",
+      "Volador"
     ],
     "quick-move": [
       {
         "name": "confusion",
-        "type": "psiquico",
+        "type": "Psíquico",
         "base-damage": "20",
         "energy": "15",
         "move-duration-seg": "1.6"
       },
       {
         "name": "charge beam",
-        "type": "electrico",
+        "type": "Electrico",
         "base-damage": "8",
         "energy": "15",
         "move-duration-seg": "1.1"
@@ -23930,15 +23930,15 @@ export default {
         "move-duration-seg": "3.8"
       },
       {
-        "name": "psychic",
-        "type": "psiquico",
+        "name": "Psíquico",
+        "type": "Psíquico",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.8"
       },
       {
         "name": "dazzling gleam",
-        "type": "hada",
+        "type": "Hada",
         "base-damage": "100",
         "energy": "-50",
         "move-duration-seg": "3.5"
