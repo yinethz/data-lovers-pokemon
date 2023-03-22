@@ -1,13 +1,10 @@
 import data from './data/pokemon/pokemon.js';
 import { filterType } from './data.js';
 import { filterWeaknesses, order, changeOrder } from './data.js';
-
-const btnAll = document.querySelector('#btnAll');
 const ordenAlfabetico = document.querySelector('#ordenAlfabetico')
 const pokemones = data.pokemon;
 const root = document.querySelector('#root');
 let btnSort = false;
-//console.log(filterWeaknesses(pokemones,"water"));
 function containerElement(dataPokemon) {
   const divElement = document.createElement('div');
   divElement.setAttribute('class', 'div-Element');
@@ -46,9 +43,7 @@ function containerElement(dataPokemon) {
 }
 const insertAllPokemon = document.querySelector('#root');
 function verPokemon(cargaPokemon) {
-  //console.log('el array completo: ', cargaPokemon);
   cargaPokemon.forEach((dataPokemon) => {
-    //console.log('cada elemnto del array filtrado', dataPokemon);
     insertAllPokemon.appendChild(containerElement(dataPokemon));
   });
 }
@@ -89,7 +84,7 @@ function seleweaknesses() {
 seleweaknesses()
 
 // ordenar A-Z y Z-A
-ordenAlfabetico.addEventListener('click', () => {
+ordenAlfabetico.addEventListener('change', () => {
   if (btnSort === false) {
     root.innerHTML = '';
     ordenAlfabetico.classList.replace('btn-order', 'btn-orderAsc');
@@ -104,3 +99,8 @@ ordenAlfabetico.addEventListener('click', () => {
   }
   btnSort = !btnSort;
 });
+const btn = document.getElementById("btnOrder");
+btn.addEventListener('click', limpiar)
+function limpiar(){
+  window.location.reload();
+}
