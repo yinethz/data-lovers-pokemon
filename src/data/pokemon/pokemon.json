@@ -12,7 +12,7 @@
       "height": "0.71 m",
       "weight": "6.9 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "poison"
@@ -52,7 +52,7 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -110,7 +110,7 @@
       "height": "0.99 m",
       "weight": "13.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "poison"
@@ -208,7 +208,7 @@
       "height": "2.01 m",
       "weight": "100.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "poison"
@@ -306,7 +306,7 @@
       "height": "0.61 m",
       "weight": "8.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -344,7 +344,7 @@
       },
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -402,7 +402,7 @@
       "height": "1.09 m",
       "weight": "19.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -447,7 +447,7 @@
       },
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -505,7 +505,7 @@
       "height": "1.70 m",
       "weight": "90.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire",
       "flying"
@@ -623,7 +623,7 @@
       "height": "0.51 m",
       "weight": "9.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -659,7 +659,7 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -717,7 +717,7 @@
       "height": "0.99 m",
       "weight": "22.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -811,7 +811,7 @@
       "height": "1.60 m",
       "weight": "85.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -905,7 +905,7 @@
       "height": "0.30 m",
       "weight": "2.9 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug"
     ],
@@ -941,7 +941,7 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -950,7 +950,7 @@
     "special-attack": [
       {
       "name": "struggle",
-      "type": "normal",
+      "type": "Normal",
       "base-damage": "35",
       "energy": "-33",
       "move-duration-seg": "2.2"
@@ -984,7 +984,7 @@
       "height": "0.71 m",
       "weight": "9.9 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug"
     ],
@@ -1020,7 +1020,7 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -1029,7 +1029,7 @@
     "special-attack": [
       {
       "name": "struggle",
-      "type": "normal",
+      "type": "Normal",
       "base-damage": "35",
       "energy": "-33",
       "move-duration-seg": "2.2"
@@ -1063,7 +1063,7 @@
       "height": "1.09 m",
       "weight": "32.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "flying"
@@ -1168,7 +1168,7 @@
       "height": "0.30 m",
       "weight": "3.2 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "poison"
@@ -1217,7 +1217,7 @@
     "special-attack": [
       {
       "name": "struggle",
-      "type": "normal",
+      "type": "Normal",
       "base-damage": "35",
       "energy": "-33",
       "move-duration-seg": "2.2"
@@ -1251,7 +1251,7 @@
       "height": "0.61 m",
       "weight": "10.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "poison"
@@ -1300,7 +1300,7 @@
     "special-attack": [
       {
       "name": "struggle",
-      "type": "normal",
+      "type": "Normal",
       "base-damage": "35",
       "energy": "-33",
       "move-duration-seg": "2.2"
@@ -1334,7 +1334,7 @@
       "height": "0.99 m",
       "weight": "29.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "poison"
@@ -1439,9 +1439,9 @@
       "height": "0.30 m",
       "weight": "1.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal",
+      "Normal",
       "flying"
     ],
     "encounter": {
@@ -1469,14 +1469,14 @@
     "quick-move": [
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -1534,9 +1534,9 @@
       "height": "1.09 m",
       "weight": "30.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal",
+      "Normal",
       "flying"
     ],
     "encounter": {
@@ -1629,9 +1629,9 @@
       "height": "1.50 m",
       "weight": "39.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal",
+      "Normal",
       "flying"
     ],
     "encounter": {
@@ -1738,9 +1738,9 @@
       "height": "0.30 m",
       "weight": "3.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.2",
@@ -1763,14 +1763,14 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -1786,14 +1786,14 @@
       },
       {
         "name": "hyper fang",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -1823,9 +1823,9 @@
       "height": "0.71 m",
       "weight": "18.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -1855,7 +1855,7 @@
       },
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -1871,14 +1871,14 @@
       },
       {
         "name": "hyper fang",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "80",
         "energy": "-50",
         "move-duration-seg": "2.5"
       },
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
@@ -1908,9 +1908,9 @@
       "height": "0.30 m",
       "weight": "2.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal",
+      "Normal",
       "flying"
     ],
     "encounter": {
@@ -1945,7 +1945,7 @@
       },
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -2005,9 +2005,9 @@
       "height": "1.19 m",
       "weight": "38.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal",
+      "Normal",
       "flying"
     ],
     "encounter": {
@@ -2102,7 +2102,7 @@
       "height": "2.01 m",
       "weight": "6.9 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison"
     ],
@@ -2148,7 +2148,7 @@
     "special-attack": [
       {
         "name": "wrap",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "2.9"
@@ -2199,7 +2199,7 @@
       "height": "3.51 m",
       "weight": "65.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison"
     ],
@@ -2289,7 +2289,7 @@
       "height": "0.41 m",
       "weight": "6.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "electric"
     ],
@@ -2323,7 +2323,7 @@
       },
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -2388,7 +2388,7 @@
       "height": "0.79 m",
       "weight": "30.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "electric"
     ],
@@ -2438,7 +2438,7 @@
     "special-attack": [
       {
         "name": "brick break",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
@@ -2494,7 +2494,7 @@
       "height": "0.61 m",
       "weight": "12.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ground"
     ],
@@ -2523,7 +2523,7 @@
     "quick-move": [
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -2590,7 +2590,7 @@
       "height": "0.99 m",
       "weight": "29.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ground"
     ],
@@ -2679,7 +2679,7 @@
       "height": "0.41 m",
       "weight": "7.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison"
     ],
@@ -2732,7 +2732,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -2774,7 +2774,7 @@
       "height": "0.79 m",
       "weight": "20.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison"
     ],
@@ -2869,7 +2869,7 @@
       "height": "1.30 m",
       "weight": "60.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison",
       "ground"
@@ -2967,7 +2967,7 @@
       "height": "0.51 m",
       "weight": "9.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison"
     ],
@@ -3013,14 +3013,14 @@
     "special-attack": [
       {
         "name": "horn attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.85"
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -3062,7 +3062,7 @@
       "height": "0.89 m",
       "weight": "19.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison"
     ],
@@ -3108,7 +3108,7 @@
     "special-attack": [
       {
         "name": "horn attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.85"
@@ -3157,7 +3157,7 @@
       "height": "1.40 m",
       "weight": "62.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison",
       "ground"
@@ -3262,9 +3262,9 @@
       "height": "0.61 m",
       "weight": "7.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -3290,7 +3290,7 @@
     "quick-move": [
       {
         "name": "pound",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -3313,7 +3313,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -3355,9 +3355,9 @@
       "height": "1.30 m",
       "weight": "40.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -3397,7 +3397,7 @@
       },
       {
         "name": "pound",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -3455,7 +3455,7 @@
       "height": "0.61 m",
       "weight": "9.9 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -3486,7 +3486,7 @@
     "quick-move": [
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -3502,7 +3502,7 @@
     "special-attack": [
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -3546,7 +3546,7 @@
       "height": "1.09 m",
       "weight": "19.9 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -3658,9 +3658,9 @@
       "height": "0.51 m",
       "weight": "5.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -3686,7 +3686,7 @@
     "quick-move": [
       {
         "name": "pound",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -3723,7 +3723,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -3765,9 +3765,9 @@
       "height": "0.99 m",
       "weight": "12.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.06",
@@ -3793,7 +3793,7 @@
     "quick-move": [
       {
         "name": "pound",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -3816,7 +3816,7 @@
       },
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
@@ -3858,7 +3858,7 @@
       "height": "0.79 m",
       "weight": "7.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison",
       "flying"
@@ -3891,7 +3891,7 @@
     "quick-move": [
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -3921,7 +3921,7 @@
       },
       {
         "name": "swift",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.8"
@@ -3963,7 +3963,7 @@
       "height": "1.60 m",
       "weight": "55.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison",
       "flying"
@@ -4067,7 +4067,7 @@
       "height": "0.51 m",
       "weight": "5.4 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "poison"
@@ -4176,7 +4176,7 @@
       "height": "0.79 m",
       "weight": "8.6 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "poison"
@@ -4285,7 +4285,7 @@
       "height": "1.19 m",
       "weight": "18.6 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "poison"
@@ -4377,13 +4377,13 @@
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug Pokémon host. They are highly valued as a medicine for extending life.",
+    "about": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this bug Pokémon host. They are highly valued as a medicine for extending life.",
     "img": "https://www.serebii.net/pokemongo/pokemon/046.png",
     "size": {
       "height": "0.30 m",
       "weight": "5.4 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "grass"
@@ -4418,7 +4418,7 @@
     "quick-move": [
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -4478,7 +4478,7 @@
       "height": "0.99 m",
       "weight": "29.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "grass"
@@ -4580,7 +4580,7 @@
       "height": "0.99 m",
       "weight": "30.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "poison"
@@ -4673,7 +4673,7 @@
       "height": "1.50 m",
       "weight": "12.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "poison"
@@ -4780,7 +4780,7 @@
       "height": "0.20 m",
       "weight": "0.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ground"
     ],
@@ -4816,7 +4816,7 @@
       },
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -4876,7 +4876,7 @@
       "height": "0.71 m",
       "weight": "33.3 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ground"
     ],
@@ -4972,9 +4972,9 @@
       "height": "0.41 m",
       "weight": "4.2 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.15",
@@ -4997,7 +4997,7 @@
     "quick-move": [
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -5034,7 +5034,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -5064,9 +5064,9 @@
       "height": "0.99 m",
       "weight": "32.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -5089,7 +5089,7 @@
     "quick-move": [
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -5156,7 +5156,7 @@
       "height": "0.79 m",
       "weight": "19.6 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -5215,7 +5215,7 @@
       },
       {
         "name": "cross chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "50",
         "energy": "-50",
         "move-duration-seg": "1.5"
@@ -5245,7 +5245,7 @@
       "height": "1.70 m",
       "weight": "76.6 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -5334,7 +5334,7 @@
       "height": "0.51 m",
       "weight": "28.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fighting"
     ],
@@ -5363,14 +5363,14 @@
     "quick-move": [
       {
         "name": "karate chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
       },
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -5379,21 +5379,21 @@
     "special-attack": [
       {
         "name": "cross chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "50",
         "energy": "-50",
         "move-duration-seg": "1.5"
       },
       {
         "name": "low sweep",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
         "name": "brick break",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
@@ -5423,7 +5423,7 @@
       "height": "0.99 m",
       "weight": "32.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fighting"
     ],
@@ -5452,21 +5452,21 @@
     "quick-move": [
       {
         "name": "low kick",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "6",
         "energy": "6",
         "move-duration-seg": "0.6"
       },
       {
         "name": "counter",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "12",
         "energy": "8",
         "move-duration-seg": "0.9"
       },
       {
         "name": "karate chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -5475,7 +5475,7 @@
     "special-attack": [
       {
         "name": "low sweep",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -5489,14 +5489,14 @@
       },
       {
         "name": "close combat",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
       },
       {
         "name": "cross chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "50",
         "energy": "-50",
         "move-duration-seg": "1.5"
@@ -5526,7 +5526,7 @@
       "height": "0.71 m",
       "weight": "19.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -5580,7 +5580,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -5617,7 +5617,7 @@
       "height": "1.91 m",
       "weight": "155.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -5729,7 +5729,7 @@
       "height": "0.61 m",
       "weight": "12.4 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -5788,7 +5788,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -5834,7 +5834,7 @@
       "height": "0.99 m",
       "weight": "20.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -5946,7 +5946,7 @@
       "height": "1.30 m",
       "weight": "54.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "fighting"
@@ -5987,7 +5987,7 @@
       },
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -6017,14 +6017,14 @@
       },
       {
         "name": "dynamic punch",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
         "name": "submission",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -6059,7 +6059,7 @@
       "height": "0.89 m",
       "weight": "19.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "psychic"
     ],
@@ -6152,7 +6152,7 @@
       "height": "1.30 m",
       "weight": "56.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "psychic"
     ],
@@ -6245,7 +6245,7 @@
       "height": "1.50 m",
       "weight": "48.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "psychic"
     ],
@@ -6303,7 +6303,7 @@
       },
       {
         "name": "focus blast",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "3.5"
@@ -6352,7 +6352,7 @@
       "height": "0.79 m",
       "weight": "19.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fighting"
     ],
@@ -6381,21 +6381,21 @@
     "quick-move": [
       {
         "name": "karate chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
       },
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
       },
       {
         "name": "low kick",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "6",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -6404,21 +6404,21 @@
     "special-attack": [
       {
         "name": "low sweep",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
         "name": "brick break",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
       },
       {
         "name": "cross chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "50",
         "energy": "-50",
         "move-duration-seg": "1.5"
@@ -6453,7 +6453,7 @@
       "height": "1.50 m",
       "weight": "70.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fighting"
     ],
@@ -6482,14 +6482,14 @@
     "quick-move": [
       {
         "name": "low kick",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "6",
         "energy": "6",
         "move-duration-seg": "0.6"
       },
       {
         "name": "karate chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -6498,28 +6498,28 @@
     "special-attack": [
       {
         "name": "submission",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.2"
       },
       {
         "name": "brick break",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
       },
       {
         "name": "dynamic punch",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
         "name": "cross chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "50",
         "energy": "-50",
         "move-duration-seg": "1.5"
@@ -6554,7 +6554,7 @@
       "height": "1.60 m",
       "weight": "130.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fighting"
     ],
@@ -6590,14 +6590,14 @@
       },
       {
         "name": "counter",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "12",
         "energy": "8",
         "move-duration-seg": "0.9"
       },
       {
         "name": "karate chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -6613,21 +6613,21 @@
       },
       {
         "name": "dynamic punch",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "90",
         "energy": "-50",
         "move-duration-seg": "2.7"
       },
       {
         "name": "close combat",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
       },
       {
         "name": "cross chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "50",
         "energy": "-50",
         "move-duration-seg": "1.5"
@@ -6641,7 +6641,7 @@
       },
       {
         "name": "submission",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -6676,7 +6676,7 @@
       "height": "0.71 m",
       "weight": "4.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "poison"
@@ -6739,7 +6739,7 @@
       },
       {
         "name": "wrap",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "2.9"
@@ -6774,7 +6774,7 @@
       "height": "0.99 m",
       "weight": "6.4 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "poison"
@@ -6879,7 +6879,7 @@
       "height": "1.70 m",
       "weight": "15.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "poison"
@@ -6977,7 +6977,7 @@
       "height": "0.89 m",
       "weight": "45.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "poison"
@@ -7039,7 +7039,7 @@
       },
       {
         "name": "wrap",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "2.9"
@@ -7069,7 +7069,7 @@
       "height": "1.60 m",
       "weight": "55.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "poison"
@@ -7161,7 +7161,7 @@
       "height": "0.41 m",
       "weight": "20.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "rock",
       "ground"
@@ -7179,7 +7179,7 @@
       "max-hp": "106"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "electric",
       "poison",
@@ -7203,7 +7203,7 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -7261,7 +7261,7 @@
       "height": "0.99 m",
       "weight": "105.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "rock",
       "ground"
@@ -7279,7 +7279,7 @@
       "max-hp": "127"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "electric",
       "poison",
@@ -7375,7 +7375,7 @@
       "height": "1.40 m",
       "weight": "300.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "rock",
       "ground"
@@ -7393,7 +7393,7 @@
       "max-hp": "162"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "electric",
       "poison",
@@ -7489,7 +7489,7 @@
       "height": "0.99 m",
       "weight": "30.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -7520,7 +7520,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -7550,7 +7550,7 @@
       },
       {
         "name": "stomp",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "55",
         "energy": "-50",
         "move-duration-seg": "1.7"
@@ -7587,7 +7587,7 @@
       "height": "1.70 m",
       "weight": "95.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -7618,7 +7618,7 @@
     "quick-move": [
       {
         "name": "low kick",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "6",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -7685,7 +7685,7 @@
       "height": "1.19 m",
       "weight": "36.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "psychic"
@@ -7790,7 +7790,7 @@
       "height": "1.60 m",
       "weight": "78.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "psychic"
@@ -7884,7 +7884,7 @@
       "height": "0.30 m",
       "weight": "6.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "electric"
     ],
@@ -7901,7 +7901,7 @@
       "max-hp": "85"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "electric",
       "grass",
       "ice",
@@ -7975,7 +7975,7 @@
       "height": "0.99 m",
       "weight": "60.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "electric"
     ],
@@ -7992,7 +7992,7 @@
       "max-hp": "120"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "electric",
       "grass",
       "ice",
@@ -8074,15 +8074,15 @@
       "num": "generation i",
       "name": "kanto"
     },
-    "about": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.",
+    "about": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fighting with others over stalks.",
     "img": "https://www.serebii.net/pokemongo/pokemon/083.png",
     "size": {
       "height": "0.79 m",
       "weight": "15.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal",
+      "Normal",
       "flying"
     ],
     "encounter": {
@@ -8125,7 +8125,7 @@
       },
       {
         "name": "cut",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -8173,9 +8173,9 @@
       "height": "1.40 m",
       "weight": "39.2 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal",
+      "Normal",
       "flying"
     ],
     "encounter": {
@@ -8210,7 +8210,7 @@
       },
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -8240,7 +8240,7 @@
       },
       {
         "name": "swift",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.8"
@@ -8270,9 +8270,9 @@
       "height": "1.80 m",
       "weight": "85.2 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal",
+      "Normal",
       "flying"
     ],
     "encounter": {
@@ -8367,7 +8367,7 @@
       "height": "1.09 m",
       "weight": "90.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -8470,7 +8470,7 @@
       "height": "1.70 m",
       "weight": "120.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "ice"
@@ -8581,7 +8581,7 @@
       "height": "0.89 m",
       "weight": "30.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison"
     ],
@@ -8678,7 +8678,7 @@
       "height": "1.19 m",
       "weight": "30.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison"
     ],
@@ -8782,7 +8782,7 @@
       "height": "0.30 m",
       "weight": "4.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -8818,7 +8818,7 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -8871,7 +8871,7 @@
       "height": "1.50 m",
       "weight": "132.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "ice"
@@ -8975,7 +8975,7 @@
       "height": "1.30 m",
       "weight": "0.1 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ghost",
       "poison"
@@ -8993,7 +8993,7 @@
       "max-hp": "92"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "grass",
       "fighting",
       "poison",
@@ -9087,7 +9087,7 @@
       "height": "1.60 m",
       "weight": "0.1 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ghost",
       "poison"
@@ -9105,7 +9105,7 @@
       "max-hp": "113"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "grass",
       "fighting",
       "poison",
@@ -9199,7 +9199,7 @@
       "height": "1.50 m",
       "weight": "40.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ghost",
       "poison"
@@ -9217,7 +9217,7 @@
       "max-hp": "134"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "grass",
       "fighting",
       "poison",
@@ -9269,7 +9269,7 @@
       },
       {
         "name": "focus blast",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "3.5"
@@ -9318,7 +9318,7 @@
       "height": "8.79 m",
       "weight": "210.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "rock",
       "ground"
@@ -9336,7 +9336,7 @@
       "max-hp": "99"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "electric",
       "poison",
@@ -9360,7 +9360,7 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -9431,7 +9431,7 @@
       "height": "0.99 m",
       "weight": "32.4 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "psychic"
     ],
@@ -9459,7 +9459,7 @@
     "quick-move": [
       {
         "name": "pound",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -9519,7 +9519,7 @@
       "height": "1.60 m",
       "weight": "75.6 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "psychic"
     ],
@@ -9577,7 +9577,7 @@
       },
       {
         "name": "focus blast",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "3.5"
@@ -9621,7 +9621,7 @@
       "height": "0.41 m",
       "weight": "6.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -9666,7 +9666,7 @@
     "special-attack": [
       {
         "name": "vice grip",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "35",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -9710,7 +9710,7 @@
       "height": "1.30 m",
       "weight": "60.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -9762,7 +9762,7 @@
     "special-attack": [
       {
         "name": "vice grip",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "35",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -9806,7 +9806,7 @@
       "height": "0.51 m",
       "weight": "10.4 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "electric"
     ],
@@ -9840,7 +9840,7 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -9900,7 +9900,7 @@
       "height": "1.19 m",
       "weight": "66.6 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "electric"
     ],
@@ -9941,7 +9941,7 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -9964,7 +9964,7 @@
       },
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
@@ -9994,7 +9994,7 @@
       "height": "0.41 m",
       "weight": "2.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "psychic"
@@ -10090,7 +10090,7 @@
       "height": "2.01 m",
       "weight": "120.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "psychic"
@@ -10200,7 +10200,7 @@
       "height": "0.41 m",
       "weight": "6.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ground"
     ],
@@ -10236,7 +10236,7 @@
       },
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -10289,7 +10289,7 @@
       "height": "0.99 m",
       "weight": "45.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ground"
     ],
@@ -10325,7 +10325,7 @@
       },
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -10378,7 +10378,7 @@
       "height": "1.50 m",
       "weight": "49.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fighting"
     ],
@@ -10407,14 +10407,14 @@
     "quick-move": [
       {
         "name": "low kick",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "6",
         "energy": "6",
         "move-duration-seg": "0.6"
       },
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -10423,7 +10423,7 @@
     "special-attack": [
       {
         "name": "low sweep",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -10437,21 +10437,21 @@
       },
       {
         "name": "close combat",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
       },
       {
         "name": "brick break",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
       },
       {
         "name": "stomp",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "55",
         "energy": "-50",
         "move-duration-seg": "1.7"
@@ -10481,7 +10481,7 @@
       "height": "1.40 m",
       "weight": "50.2 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fighting"
     ],
@@ -10517,14 +10517,14 @@
       },
       {
         "name": "counter",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "12",
         "energy": "8",
         "move-duration-seg": "0.9"
       },
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -10547,14 +10547,14 @@
       },
       {
         "name": "close combat",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
       },
       {
         "name": "brick break",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
@@ -10591,9 +10591,9 @@
       "height": "1.19 m",
       "weight": "65.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -10632,14 +10632,14 @@
     "special-attack": [
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
       },
       {
         "name": "stomp",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "55",
         "energy": "-50",
         "move-duration-seg": "1.7"
@@ -10671,7 +10671,7 @@
       "height": "0.61 m",
       "weight": "1.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison"
     ],
@@ -10701,7 +10701,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -10768,7 +10768,7 @@
       "height": "1.19 m",
       "weight": "9.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison"
     ],
@@ -10798,7 +10798,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -10865,7 +10865,7 @@
       "height": "0.99 m",
       "weight": "115.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ground",
       "rock"
@@ -10883,7 +10883,7 @@
       "max-hp": "162"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "electric",
       "poison",
@@ -10907,7 +10907,7 @@
       },
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -10923,14 +10923,14 @@
       },
       {
         "name": "horn attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.85"
       },
       {
         "name": "stomp",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "55",
         "energy": "-50",
         "move-duration-seg": "1.7"
@@ -10969,7 +10969,7 @@
       "height": "1.91 m",
       "weight": "120.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ground",
       "rock"
@@ -10987,7 +10987,7 @@
       "max-hp": "195"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "electric",
       "poison",
@@ -11011,7 +11011,7 @@
       },
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -11073,9 +11073,9 @@
       "height": "1.09 m",
       "weight": "34.6 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -11098,7 +11098,7 @@
     "quick-move": [
       {
         "name": "pound",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -11128,7 +11128,7 @@
       },
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
@@ -11169,7 +11169,7 @@
       "height": "0.99 m",
       "weight": "35.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass"
     ],
@@ -11263,9 +11263,9 @@
       "height": "2.21 m",
       "weight": "80.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -11296,7 +11296,7 @@
       },
       {
         "name": "low kick",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "6",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -11326,14 +11326,14 @@
       },
       {
         "name": "brick break",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
       },
       {
         "name": "stomp",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "55",
         "energy": "-50",
         "move-duration-seg": "1.7"
@@ -11358,7 +11358,7 @@
       "height": "0.41 m",
       "weight": "8.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -11456,7 +11456,7 @@
       "height": "1.19 m",
       "weight": "25.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -11561,7 +11561,7 @@
       "height": "0.61 m",
       "weight": "15.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -11613,7 +11613,7 @@
       },
       {
         "name": "horn attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.85"
@@ -11650,7 +11650,7 @@
       "height": "1.30 m",
       "weight": "39.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -11753,7 +11753,7 @@
       "height": "0.79 m",
       "weight": "34.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -11789,14 +11789,14 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -11805,7 +11805,7 @@
     "special-attack": [
       {
         "name": "swift",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.8"
@@ -11849,7 +11849,7 @@
       "height": "1.09 m",
       "weight": "80.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "psychic"
@@ -11890,21 +11890,21 @@
       },
       {
         "name": "hidden power",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "15",
         "energy": "15",
         "move-duration-seg": "1.5"
       },
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -11964,7 +11964,7 @@
       "height": "1.30 m",
       "weight": "54.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "psychic"
     ],
@@ -12054,7 +12054,7 @@
       "height": "1.50 m",
       "weight": "56.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "flying"
@@ -12165,7 +12165,7 @@
       "height": "1.40 m",
       "weight": "40.6 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ice",
       "psychic"
@@ -12211,7 +12211,7 @@
       },
       {
         "name": "pound",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -12271,7 +12271,7 @@
       "height": "1.09 m",
       "weight": "30.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "electric"
     ],
@@ -12305,7 +12305,7 @@
       },
       {
         "name": "low kick",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "6",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -12367,7 +12367,7 @@
       "height": "1.30 m",
       "weight": "44.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -12405,7 +12405,7 @@
       },
       {
         "name": "karate chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -12467,7 +12467,7 @@
       "height": "1.50 m",
       "weight": "55.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug"
     ],
@@ -12496,7 +12496,7 @@
     "quick-move": [
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -12519,7 +12519,7 @@
     "special-attack": [
       {
         "name": "vice grip",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "35",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -12533,14 +12533,14 @@
       },
       {
         "name": "close combat",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
       },
       {
         "name": "submission",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.2"
@@ -12565,9 +12565,9 @@
       "height": "1.40 m",
       "weight": "88.4 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -12591,7 +12591,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -12607,7 +12607,7 @@
     "special-attack": [
       {
         "name": "horn attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.85"
@@ -12646,7 +12646,7 @@
       "height": "0.89 m",
       "weight": "10.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -12683,7 +12683,7 @@
     "special-attack": [
       {
       "name": "struggle",
-      "type": "normal",
+      "type": "Normal",
       "base-damage": "35",
       "energy": "-33",
       "move-duration-seg": "2.2"
@@ -12712,7 +12712,7 @@
       "height": "6.50 m",
       "weight": "235.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "flying"
@@ -12824,7 +12824,7 @@
       "height": "2.49 m",
       "weight": "220.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "ice"
@@ -12923,9 +12923,9 @@
       "height": "0.30 m",
       "weight": "4.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -12948,7 +12948,7 @@
     "quick-move": [
       {
       "name": "pound",
-      "type": "normal",
+      "type": "Normal",
       "base-damage": "7",
       "energy": "6",
       "move-duration-seg": "0.6"
@@ -12956,7 +12956,7 @@
     "special-attack": [
       {
       "name": "struggle",
-      "type": "normal",
+      "type": "Normal",
       "base-damage": "35",
       "energy": "-33",
       "move-duration-seg": "2.2"
@@ -12980,9 +12980,9 @@
       "height": "0.30 m",
       "weight": "6.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.1",
@@ -13005,14 +13005,14 @@
     "quick-move": [
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -13028,14 +13028,14 @@
       },
       {
         "name": "swift",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.8"
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -13097,7 +13097,7 @@
       "height": "0.99 m",
       "weight": "29.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -13178,7 +13178,7 @@
       "height": "0.79 m",
       "weight": "24.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "electric"
     ],
@@ -13265,7 +13265,7 @@
       "height": "0.89 m",
       "weight": "25.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -13363,9 +13363,9 @@
       "height": "0.79 m",
       "weight": "36.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -13395,21 +13395,21 @@
       },
       {
         "name": "hidden power",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "15",
         "energy": "15",
         "move-duration-seg": "1.5"
       },
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -13432,7 +13432,7 @@
       },
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
@@ -13503,7 +13503,7 @@
       "height": "0.41 m",
       "weight": "7.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "rock",
       "water"
@@ -13521,7 +13521,7 @@
       "max-hp": "99"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "ice",
       "poison",
@@ -13610,7 +13610,7 @@
       "height": "0.99 m",
       "weight": "35.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "rock",
       "water"
@@ -13628,7 +13628,7 @@
       "max-hp": "147"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "ice",
       "poison",
@@ -13717,7 +13717,7 @@
       "height": "0.51 m",
       "weight": "11.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "rock",
       "water"
@@ -13735,7 +13735,7 @@
       "max-hp": "92"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "ice",
       "poison",
@@ -13750,7 +13750,7 @@
     "quick-move": [
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -13810,7 +13810,7 @@
       "height": "1.30 m",
       "weight": "40.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "rock",
       "water"
@@ -13828,7 +13828,7 @@
       "max-hp": "134"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "ice",
       "poison",
@@ -13850,7 +13850,7 @@
       },
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -13910,7 +13910,7 @@
       "height": "1.80 m",
       "weight": "59.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "rock",
       "flying"
@@ -13928,7 +13928,7 @@
       "max-hp": "162"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "poison",
       "flying",
@@ -13974,7 +13974,7 @@
       },
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
@@ -13999,9 +13999,9 @@
       "height": "2.11 m",
       "weight": "460.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -14040,7 +14040,7 @@
     "special-attack": [
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
@@ -14061,7 +14061,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -14334,7 +14334,7 @@
       "height": "1.80 m",
       "weight": "3.3 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "dragon"
     ],
@@ -14380,7 +14380,7 @@
     "special-attack": [
       {
         "name": "wrap",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "2.9"
@@ -14429,7 +14429,7 @@
       "height": "3.99 m",
       "weight": "16.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "dragon"
     ],
@@ -14475,7 +14475,7 @@
     "special-attack": [
       {
         "name": "wrap",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "60",
         "energy": "-33",
         "move-duration-seg": "2.9"
@@ -14524,7 +14524,7 @@
       "height": "2.21 m",
       "weight": "210.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "dragon",
       "flying"
@@ -14580,7 +14580,7 @@
     "special-attack": [
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
@@ -14701,14 +14701,14 @@
       },
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
       },
       {
         "name": "focus blast",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "3.5"
@@ -14761,7 +14761,7 @@
     "quick-move": [
       {
       "name": "pound",
-      "type": "normal",
+      "type": "Normal",
       "base-damage": "7",
       "energy": "6",
       "move-duration-seg": "0.6"
@@ -14790,7 +14790,7 @@
       },
       {
         "name": "focus blast",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "3.5"
@@ -14818,7 +14818,7 @@
       },
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
@@ -14843,7 +14843,7 @@
       "height": "0.89 m",
       "weight": "6.4 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass"
     ],
@@ -14881,7 +14881,7 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -14904,7 +14904,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -14939,7 +14939,7 @@
       "height": "1.19 m",
       "weight": "15.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass"
     ],
@@ -14977,7 +14977,7 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -15035,7 +15035,7 @@
       "height": "1.80 m",
       "weight": "100.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass"
     ],
@@ -15131,7 +15131,7 @@
       "height": "0.51 m",
       "weight": "7.9 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -15169,7 +15169,7 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -15185,7 +15185,7 @@
       },
       {
         "name": "swift",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.8"
@@ -15227,7 +15227,7 @@
       "height": "0.89 m",
       "weight": "19.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -15265,7 +15265,7 @@
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -15323,7 +15323,7 @@
       "height": "1.70 m",
       "weight": "79.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -15419,7 +15419,7 @@
       "height": "0.61 m",
       "weight": "9.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -15455,7 +15455,7 @@
       },
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -15513,7 +15513,7 @@
       "height": "1.09 m",
       "weight": "25.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -15549,7 +15549,7 @@
       },
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -15607,7 +15607,7 @@
       "height": "2.31 m",
       "weight": "88.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -15701,9 +15701,9 @@
       "height": "0.79 m",
       "weight": "6.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.2",
@@ -15726,14 +15726,14 @@
     "quick-move": [
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
       },
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -15749,7 +15749,7 @@
       },
       {
         "name": "brick break",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
@@ -15786,9 +15786,9 @@
       "height": "1.80 m",
       "weight": "32.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -15811,7 +15811,7 @@
     "quick-move": [
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -15834,14 +15834,14 @@
       },
       {
         "name": "brick break",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
       },
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
@@ -15871,9 +15871,9 @@
       "height": "0.71 m",
       "weight": "21.2 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal",
+      "Normal",
       "flying"
     ],
     "encounter": {
@@ -15947,9 +15947,9 @@
       "height": "1.60 m",
       "weight": "40.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal",
+      "Normal",
       "flying"
     ],
     "encounter": {
@@ -16038,7 +16038,7 @@
       "height": "0.99 m",
       "weight": "10.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "flying"
@@ -16070,7 +16070,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -16093,7 +16093,7 @@
       },
       {
         "name": "swift",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.8"
@@ -16130,7 +16130,7 @@
       "height": "1.40 m",
       "weight": "35.6 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "flying"
@@ -16222,7 +16222,7 @@
       "height": "0.51 m",
       "weight": "8.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "poison"
@@ -16315,7 +16315,7 @@
       "height": "1.09 m",
       "weight": "33.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "poison"
@@ -16408,7 +16408,7 @@
       "height": "1.80 m",
       "weight": "75.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "poison",
       "flying"
@@ -16506,7 +16506,7 @@
       "height": "0.51 m",
       "weight": "12.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "electric"
@@ -16597,7 +16597,7 @@
       "height": "1.19 m",
       "weight": "22.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "electric"
@@ -16688,7 +16688,7 @@
       "height": "0.30 m",
       "weight": "2.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "electric"
     ],
@@ -16722,7 +16722,7 @@
       },
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -16780,7 +16780,7 @@
       "height": "0.30 m",
       "weight": "3.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fairy"
     ],
@@ -16809,7 +16809,7 @@
     "quick-move": [
       {
         "name": "pound",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -16853,7 +16853,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -16888,9 +16888,9 @@
       "height": "0.30 m",
       "weight": "1.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal",
+      "Normal",
       "fairy"
     ],
     "encounter": {
@@ -16918,7 +16918,7 @@
     "quick-move": [
       {
         "name": "pound",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -16955,7 +16955,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -16990,7 +16990,7 @@
       "height": "0.30 m",
       "weight": "1.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fairy"
     ],
@@ -17019,7 +17019,7 @@
     "quick-move": [
       {
         "name": "hidden power",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "15",
         "energy": "15",
         "move-duration-seg": "1.5"
@@ -17095,7 +17095,7 @@
       "height": "0.61 m",
       "weight": "3.2 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fairy",
       "flying"
@@ -17135,7 +17135,7 @@
       },
       {
         "name": "hidden power",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "15",
         "energy": "15",
         "move-duration-seg": "1.5"
@@ -17197,7 +17197,7 @@
       "height": "0.21 m",
       "weight": "2.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "psychic",
       "flying"
@@ -17236,7 +17236,7 @@
       },
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -17289,7 +17289,7 @@
       "height": "1.50 m",
       "weight": "15.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "psychic",
       "flying"
@@ -17381,7 +17381,7 @@
       "height": "0.61 m",
       "weight": "7.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "electric"
     ],
@@ -17408,7 +17408,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -17424,7 +17424,7 @@
     "special-attack": [
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -17473,7 +17473,7 @@
       "height": "0.79 m",
       "weight": "13.3 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "electric"
     ],
@@ -17500,7 +17500,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -17565,7 +17565,7 @@
       "height": "1.40 m",
       "weight": "61.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "electric"
     ],
@@ -17615,7 +17615,7 @@
       },
       {
         "name": "focus blast",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "140",
         "energy": "-100",
         "move-duration-seg": "3.5"
@@ -17657,7 +17657,7 @@
       "height": "0.41 m",
       "weight": "5.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass"
     ],
@@ -17757,7 +17757,7 @@
       "height": "0.41 m",
       "weight": "8.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "fairy"
@@ -17789,7 +17789,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -17819,7 +17819,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -17854,7 +17854,7 @@
       "height": "0.79 m",
       "weight": "28.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "fairy"
@@ -17886,7 +17886,7 @@
     "quick-move": [
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -17951,7 +17951,7 @@
       "height": "1.19 m",
       "weight": "38.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "rock"
     ],
@@ -17968,7 +17968,7 @@
       "max-hp": "147"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "poison",
       "flying"
@@ -17989,7 +17989,7 @@
       },
       {
         "name": "counter",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "12",
         "energy": "8",
         "move-duration-seg": "0.9"
@@ -18042,7 +18042,7 @@
       "height": "10.90 m",
       "weight": "33.9 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -18140,7 +18140,7 @@
       "height": "0.41 m",
       "weight": "0.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "flying"
@@ -18172,7 +18172,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -18237,7 +18237,7 @@
       "height": "0.61 m",
       "weight": "1.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "flying"
@@ -18269,7 +18269,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -18334,7 +18334,7 @@
       "height": "0.79 m",
       "weight": "3.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass",
       "flying"
@@ -18431,9 +18431,9 @@
       "height": "0.79 m",
       "weight": "11.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.09",
@@ -18456,7 +18456,7 @@
     "quick-move": [
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -18472,14 +18472,14 @@
     "special-attack": [
       {
         "name": "low sweep",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.9"
       },
       {
         "name": "swift",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "60",
         "energy": "-50",
         "move-duration-seg": "2.8"
@@ -18511,7 +18511,7 @@
       "height": "0.30 m",
       "weight": "1.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass"
     ],
@@ -18549,7 +18549,7 @@
       },
       {
         "name": "cut",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -18606,7 +18606,7 @@
       "height": "0.79 m",
       "weight": "8.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "grass"
     ],
@@ -18701,7 +18701,7 @@
       "height": "1.19 m",
       "weight": "38.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "flying"
@@ -18733,7 +18733,7 @@
     "quick-move": [
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -18788,7 +18788,7 @@
       "height": "0.41 m",
       "weight": "8.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "ground"
@@ -18847,7 +18847,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -18877,7 +18877,7 @@
       "height": "1.40 m",
       "weight": "75.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "ground"
@@ -18966,7 +18966,7 @@
       "height": "0.89 m",
       "weight": "26.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "psychic"
     ],
@@ -19054,7 +19054,7 @@
       "height": "0.99 m",
       "weight": "27.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "dark"
     ],
@@ -19136,7 +19136,7 @@
       "height": "0.51 m",
       "weight": "2.1 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "dark",
       "flying"
@@ -19233,7 +19233,7 @@
       "height": "2.01 m",
       "weight": "79.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "psychic"
@@ -19330,7 +19330,7 @@
       "height": "0.71 m",
       "weight": "1.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ghost"
     ],
@@ -19347,7 +19347,7 @@
       "max-hp": "134"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fighting",
       "poison",
       "bug"
@@ -19423,7 +19423,7 @@
       "height": "0.51 m",
       "weight": "5.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "psychic"
     ],
@@ -19451,7 +19451,7 @@
     "quick-move": [
       {
       "name": "hidden power",
-      "type": "normal",
+      "type": "Normal",
       "base-damage": "15",
       "energy": "15",
       "move-duration-seg": "1.5"
@@ -19459,7 +19459,7 @@
     "special-attack": [
       {
       "name": "struggle",
-      "type": "normal",
+      "type": "Normal",
       "base-damage": "35",
       "energy": "-33",
       "move-duration-seg": "2.2"
@@ -19483,7 +19483,7 @@
       "height": "1.30 m",
       "weight": "28.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "psychic"
     ],
@@ -19511,7 +19511,7 @@
     "quick-move": [
       {
         "name": "counter",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "12",
         "energy": "8",
         "move-duration-seg": "0.9"
@@ -19556,9 +19556,9 @@
       "height": "1.50 m",
       "weight": "41.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal",
+      "Normal",
       "psychic"
     ],
     "encounter": {
@@ -19583,7 +19583,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -19638,7 +19638,7 @@
       "height": "0.61 m",
       "weight": "7.2 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug"
     ],
@@ -19667,7 +19667,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -19727,7 +19727,7 @@
       "height": "1.19 m",
       "weight": "125.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "steel"
@@ -19745,7 +19745,7 @@
       "max-hp": "154"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "grass",
       "ice",
       "poison",
@@ -19817,9 +19817,9 @@
       "height": "1.50 m",
       "weight": "14.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.2",
@@ -19897,7 +19897,7 @@
       "height": "1.09 m",
       "weight": "64.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ground",
       "flying"
@@ -19985,13 +19985,13 @@
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.",
+    "about": "steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.",
     "img": "https://www.serebii.net/pokemongo/pokemon/208.png",
     "size": {
       "height": "9.19 m",
       "weight": "400.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "steel",
       "ground"
@@ -20009,7 +20009,7 @@
       "max-hp": "154"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "electric",
       "poison",
       "flying",
@@ -20088,7 +20088,7 @@
       "height": "0.61 m",
       "weight": "7.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fairy"
     ],
@@ -20117,7 +20117,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -20147,7 +20147,7 @@
       },
       {
         "name": "brick break",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
@@ -20177,7 +20177,7 @@
       "height": "1.40 m",
       "weight": "48.7 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fairy"
     ],
@@ -20236,7 +20236,7 @@
       },
       {
         "name": "close combat",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -20266,7 +20266,7 @@
       "height": "0.51 m",
       "weight": "3.9 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "poison"
@@ -20353,7 +20353,7 @@
       "height": "2.01 m",
       "weight": "125.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "steel"
@@ -20371,7 +20371,7 @@
       "max-hp": "147"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "grass",
       "ice",
       "poison",
@@ -20447,7 +20447,7 @@
       "height": "0.61 m",
       "weight": "20.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "rock"
@@ -20465,7 +20465,7 @@
       "max-hp": "79"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "poison"
     ],
     "weaknesses": [
@@ -20531,7 +20531,7 @@
       "height": "1.50 m",
       "weight": "54.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "bug",
       "fighting"
@@ -20564,7 +20564,7 @@
     "quick-move": [
       {
         "name": "counter",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "12",
         "energy": "8",
         "move-duration-seg": "0.9"
@@ -20587,7 +20587,7 @@
       },
       {
         "name": "close combat",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -20619,7 +20619,7 @@
       "height": "0.89 m",
       "weight": "28.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "dark",
       "ice"
@@ -20715,9 +20715,9 @@
       "height": "0.61 m",
       "weight": "8.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.2",
@@ -20740,7 +20740,7 @@
     "quick-move": [
       {
         "name": "scratch",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "6",
         "energy": "4",
         "move-duration-seg": "0.5"
@@ -20756,7 +20756,7 @@
     "special-attack": [
       {
         "name": "cross chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "50",
         "energy": "-50",
         "move-duration-seg": "1.5"
@@ -20800,9 +20800,9 @@
       "height": "1.80 m",
       "weight": "125.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -20832,7 +20832,7 @@
       },
       {
         "name": "counter",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "12",
         "energy": "8",
         "move-duration-seg": "0.9"
@@ -20841,14 +20841,14 @@
     "special-attack": [
       {
         "name": "close combat",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
       },
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
@@ -20885,7 +20885,7 @@
       "height": "0.71 m",
       "weight": "35.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -20976,7 +20976,7 @@
       "height": "0.79 m",
       "weight": "55.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire",
       "rock"
@@ -20994,7 +20994,7 @@
       "max-hp": "120"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "ice",
       "poison",
@@ -21069,7 +21069,7 @@
       "height": "0.41 m",
       "weight": "6.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ice",
       "ground"
@@ -21099,7 +21099,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -21122,7 +21122,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -21159,7 +21159,7 @@
       "height": "1.09 m",
       "weight": "55.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ice",
       "ground"
@@ -21249,7 +21249,7 @@
       "height": "0.61 m",
       "weight": "5.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "rock"
@@ -21267,7 +21267,7 @@
       "max-hp": "127"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "fire",
       "ice",
       "poison",
@@ -21282,7 +21282,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -21337,7 +21337,7 @@
       "height": "0.61 m",
       "weight": "12.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -21426,7 +21426,7 @@
       "height": "0.89 m",
       "weight": "28.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water"
     ],
@@ -21515,7 +21515,7 @@
       "height": "0.89 m",
       "weight": "16.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ice",
       "flying"
@@ -21553,7 +21553,7 @@
       },
       {
         "name": "quick attack",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -21601,7 +21601,7 @@
       "height": "2.11 m",
       "weight": "220.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "flying"
@@ -21692,7 +21692,7 @@
       "height": "1.70 m",
       "weight": "50.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "steel",
       "flying"
@@ -21710,7 +21710,7 @@
       "max-hp": "140"
     },
     "resistant": [
-      "normal",
+      "Normal",
       "grass",
       "poison",
       "flying",
@@ -21778,7 +21778,7 @@
       "height": "0.61 m",
       "weight": "10.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "dark",
       "fire"
@@ -21871,7 +21871,7 @@
       "height": "1.40 m",
       "weight": "35.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "dark",
       "fire"
@@ -21964,7 +21964,7 @@
       "height": "1.80 m",
       "weight": "152.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "water",
       "dragon"
@@ -22062,7 +22062,7 @@
       "height": "0.51 m",
       "weight": "33.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ground"
     ],
@@ -22091,14 +22091,14 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -22121,7 +22121,7 @@
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -22151,7 +22151,7 @@
       "height": "1.09 m",
       "weight": "120.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ground"
     ],
@@ -22180,14 +22180,14 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
       },
       {
         "name": "counter",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "12",
         "energy": "8",
         "move-duration-seg": "0.9"
@@ -22240,9 +22240,9 @@
       "height": "0.61 m",
       "weight": "32.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -22265,7 +22265,7 @@
     "quick-move": [
       {
         "name": "hidden power",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "15",
         "energy": "15",
         "move-duration-seg": "1.5"
@@ -22288,7 +22288,7 @@
       },
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
@@ -22338,9 +22338,9 @@
       "height": "1.40 m",
       "weight": "71.2 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.08",
@@ -22363,7 +22363,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -22379,7 +22379,7 @@
     "special-attack": [
       {
         "name": "stomp",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "55",
         "energy": "-50",
         "move-duration-seg": "1.7"
@@ -22418,9 +22418,9 @@
       "height": "1.19 m",
       "weight": "58.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.07",
@@ -22443,7 +22443,7 @@
     "quick-move": [
       {
       "name": "tackle",
-      "type": "normal",
+      "type": "Normal",
       "base-damage": "5",
       "energy": "5",
       "move-duration-seg": "0.5"
@@ -22451,7 +22451,7 @@
     "special-attack": [
       {
       "name": "struggle",
-      "type": "normal",
+      "type": "Normal",
       "base-damage": "35",
       "energy": "-33",
       "move-duration-seg": "2.2"
@@ -22475,7 +22475,7 @@
       "height": "0.71 m",
       "weight": "21.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fighting"
     ],
@@ -22504,14 +22504,14 @@
     "quick-move": [
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
       },
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -22520,7 +22520,7 @@
     "special-attack": [
       {
         "name": "brick break",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
@@ -22534,7 +22534,7 @@
       },
       {
         "name": "low sweep",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -22576,7 +22576,7 @@
       "height": "1.40 m",
       "weight": "48.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fighting"
     ],
@@ -22605,14 +22605,14 @@
     "quick-move": [
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
       },
       {
         "name": "counter",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "12",
         "energy": "8",
         "move-duration-seg": "0.9"
@@ -22621,7 +22621,7 @@
     "special-attack": [
       {
         "name": "close combat",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "100",
         "energy": "-100",
         "move-duration-seg": "2.3"
@@ -22665,7 +22665,7 @@
       "height": "0.41 m",
       "weight": "6.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "ice",
       "psychic"
@@ -22702,7 +22702,7 @@
       },
       {
         "name": "pound",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -22762,7 +22762,7 @@
       "height": "0.61 m",
       "weight": "23.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "electric"
     ],
@@ -22796,7 +22796,7 @@
       },
       {
         "name": "low kick",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "6",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -22812,7 +22812,7 @@
       },
       {
         "name": "brick break",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
@@ -22865,7 +22865,7 @@
       "height": "0.71 m",
       "weight": "21.4 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "fire"
     ],
@@ -22903,7 +22903,7 @@
       },
       {
         "name": "karate chop",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "8",
         "energy": "10",
         "move-duration-seg": "0.8"
@@ -22912,7 +22912,7 @@
     "special-attack": [
       {
         "name": "brick break",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "40",
         "energy": "-33",
         "move-duration-seg": "1.6"
@@ -22972,9 +22972,9 @@
       "height": "1.19 m",
       "weight": "75.5 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.08",
@@ -22997,7 +22997,7 @@
     "quick-move": [
       {
         "name": "tackle",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "5",
         "energy": "5",
         "move-duration-seg": "0.5"
@@ -23013,14 +23013,14 @@
     "special-attack": [
       {
         "name": "stomp",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "55",
         "energy": "-50",
         "move-duration-seg": "1.7"
       },
       {
         "name": "body slam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "50",
         "energy": "-33",
         "move-duration-seg": "1.9"
@@ -23052,9 +23052,9 @@
       "height": "1.50 m",
       "weight": "46.8 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
-      "normal"
+      "Normal"
     ],
     "encounter": {
       "base-flee-rate": "0.05",
@@ -23077,7 +23077,7 @@
     "quick-move": [
       {
         "name": "pound",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "7",
         "energy": "6",
         "move-duration-seg": "0.6"
@@ -23100,7 +23100,7 @@
       },
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"
@@ -23394,7 +23394,7 @@
       "height": "0.60 m",
       "weight": "72.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "rock",
       "ground"
@@ -23416,7 +23416,7 @@
       "poison",
       "fire",
       "flying",
-      "normal",
+      "Normal",
       "rock"
     ],
     "weaknesses": [
@@ -23437,7 +23437,7 @@
       },
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -23446,7 +23446,7 @@
     "special-attack": [
       {
         "name": "stomp",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "55",
         "energy": "-50",
         "move-duration-seg": "1.7"
@@ -23495,7 +23495,7 @@
       "height": "1.20 m",
       "weight": "152.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "rock",
       "ground"
@@ -23517,7 +23517,7 @@
       "poison",
       "fire",
       "flying",
-      "normal",
+      "Normal",
       "rock"
     ],
     "weaknesses": [
@@ -23538,7 +23538,7 @@
       },
       {
         "name": "rock smash",
-        "type": "fight",
+        "type": "fighting",
         "base-damage": "15",
         "energy": "10",
         "move-duration-seg": "1.3"
@@ -23590,13 +23590,13 @@
       "num": "generation ii",
       "name": "johto"
     },
-    "about": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
+    "about": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fighting.",
     "img": "https://www.serebii.net/pokemongo/pokemon/248.png",
     "size": {
       "height": "2.00 m",
       "weight": "202.0 kg"
     },
-    "pokemon-rarity": "normal",
+    "pokemon-rarity": "Normal",
     "type": [
       "rock",
       "dark"
@@ -23620,7 +23620,7 @@
       "fire",
       "poison",
       "flying",
-      "normal"
+      "Normal"
     ],
     "weaknesses": [
       "fighting",
@@ -23924,7 +23924,7 @@
     "special-attack": [
       {
         "name": "hyper beam",
-        "type": "normal",
+        "type": "Normal",
         "base-damage": "150",
         "energy": "-100",
         "move-duration-seg": "3.8"

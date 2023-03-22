@@ -20,22 +20,21 @@
 <body>
   <nav>
     <select class="link navOption" name="ordenAlfabetico" id="ordenAlfabetico">
-      <option id="btnAll" class="link navOption" value="" selected disabled>Ordenar</option>
+      <option value="todos" disabled selected>Ordenado A-Z</option>
       <option class="link navOption" value="a-z">A-Z</option>
       <option class="link navOption" value="z-a">Z-A</option>
     </select>
-
     <option id="btnOrder" class="link navOption">No. Pokedex</option>
     <select class="link navOption" id="seleweaknesses">
       <option value="todos" disabled selected>Debilidades</option>
       <option value="Acero">Acero</option>
       <option value="Agua">Agua </option>
-      <option value="Dragon">Dragon</option>
+      <option value="Dragon">Dragón</option>
       <option value="Fantasma">Fantasma</option>
       <option value="Fuego">Fuego</option>
       <option value="Hielo">Hielo</option>
       <option value="Normal">Normal</option>
-      <option value="Planta">Planta</option>
+      <option value="Hierba">Hierba</option>
       <option value="Psíquico">Psíquico</option>
       <option value="Roca">Roca</option>
       <option value="Veneno">Veneno</option>
@@ -45,34 +44,36 @@
       <option value="Luchador">Luchador</option>
       <option value="Tierra">Tierra</option>
       <option value="Volador">Volador</option>
+      <option value="Siniestro">Siniestro</option>
     </select>
   </nav>
-
-
+  
   <div class="container">
-    <div class="categoriasList" id="cate">
-      <span class="categoria">Categoría </span>
-      <option class="link" id="Acero">Acero</option>
-      <option class="link" id="Agua">Agua </option>
-      <option class="link" id="Dragon">Dragon</option>
-      <option class="link" id="Fantasma">Fantasma</option>
-      <option class="link" id="Fuego">Fuego</option>
-      <option class="link" id="Hielo">Hielo</option>
-      <option class="link" id="normal">Normal</option>
-      <option class="link" id="Hierva">Planta</option>
-      <option class="link" id="Psíquico">Psíquico</option>
-      <option class="link" id="Roca">Roca</option>
-      <option class="link" id="Veneno">Veneno</option>
-      <option class="link" id="Bicho">Bicho</option>
-      <option class="link" id="Electrico">Eléctrico</option>
-      <option class="link" id="Hada">Hada</option>
-      <option class="link" id="Luchador">Lucha</option>
-      <option class="link" id="Tierra">Tierra</option>
-      <option class="link" id="Volador">Volador</option>
-    </div>
-    <div id="root"></div>
+  <div class="categoriasList" id="cate">
+    <span class="categoria">Categoría </span>
+    <option class="link" id="Acero">Acero</option>
+    <option class="link" id="Agua">Agua </option>
+    <option class="link" id="Dragón">Dragón</option>
+    <option class="link" id="Fantasma">Fantasma</option>
+    <option class="link" id="Fuego">Fuego</option>
+    <option class="link" id="Hielo">Hielo</option>
+    <option class="link" id="Normal">Normal</option>
+    <option class="link" id="Hierba">Hierba</option>
+    <option class="link" id="Psíquico">Psíquico</option>
+    <option class="link" id="Roca">Roca</option>
+    <option class="link" id="Veneno">Veneno</option>
+    <option class="link" id="Bicho">Bicho</option>
+    <option class="link" id="Eléctrico">Eléctrico</option>
+    <option class="link" id="Hada">Hada</option>
+    <option class="link" id="Luchador">Luchador</option>
+    <option class="link" id="Tierra">Tierra</option>
+    <option class="link" id="Volador">Volador</option>
+    <option class="link" id="Siniestro">Siniestro</option>
+
   </div>
-  <footer class="footer">
+  <div id="root"></div>
+</div>
+<footer class="footer">
     <span>Laboratoria</span>
     <img src="assets/pokebola.png" alt="Imagen pokebola" class="pokebola">
   </footer>
