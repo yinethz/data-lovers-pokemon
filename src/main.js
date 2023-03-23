@@ -105,10 +105,10 @@ ordenAlfabetico.addEventListener('change', () => {
 _toggle.onclick = () => {
   // eslint-disable-next-line no-undef
   _items.classList.toggle("open");
-
+}
 const btn = document.getElementById("btnOrder");
 btn.addEventListener('click', limpiar)
-function limpiar(){
+function limpiar() {
   window.location.reload();
 
 }
