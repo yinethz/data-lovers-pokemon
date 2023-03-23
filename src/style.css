@@ -12,7 +12,7 @@
   display: flex;
   flex-wrap: wrap;
   margin-left: 18%;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .container {
@@ -69,7 +69,7 @@ nav {
 
 /* palabra categoria*/
 .categoria {
-  color: rgb(40, 39, 39);
+  color: #000;
   font-family: 'Neucha', cursive;
   font-size: 40px;
   top: 10px;
@@ -78,7 +78,7 @@ nav {
 
 /* todos los linkis*/
 .link {
-  color: rgb(40, 39, 39);
+  color: #000;
   text-decoration: none;
   font-family: 'Neucha', cursive;
   font-size: 25px;
@@ -97,7 +97,7 @@ nav {
   width: 200px;
   padding: 10px 20px 10px;
   text-align: center;
-  background-color: rgba(239, 192, 13, 0.13);
+  background-color: rgba(239, 192, 13, 0.2);
 }
 
 .contenedorAdelante:hover {
@@ -185,4 +185,79 @@ body::-webkit-scrollbar-thumb {
   /* roundness of the scroll thumb */
   border: 3px solid var(--headerColor);
   /* creates padding around scroll thumb */
+}
+
+@media (max-width: 768px) {
+  .nav_items {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    background: var(--grayCategory);
+    display: flex;
+    flex-direction: column;
+    width: 98%;
+    transform: translateX(-100%);
+    transform: 0.3 ease all;
+    padding: 2% 0 2% 2%;
+  }
+
+  .nav_toggle {
+    display: flex !important;
+    flex-direction: column;
+    color: #000;
+
+  }
+
+  .nav_toggle span {
+    width: 30px;
+    height: 4px;
+    background: var(--grayCategory);
+    margin-bottom: 5px;
+    border-radius: 2px;
+    transform-origin: 5px 0px;
+    transform: all 0.2s linear;
+    transform: 0.3 ease all;
+    color: #000;
+
+  }
+
+  .nav_items option {
+    margin: 15px;
+    color: var(--grayCategory);
+    position: relative;
+    text-decoration: none;
+    color: #000;
+
+  }
+
+  .nav_items option::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    background: var(--grayCategory);
+    transition: all 0.5s;
+    cursor: pointer;
+
+  }
+
+  .close span {
+    transform: rotate(45deg) translate(0px, 0px);
+  }
+
+  .close span:nth-child(2) {
+    display: none;
+  }
+
+  .close span:nth-child(3) {
+    transform: rotate(45deg) translate(-5px, 1px);
+  }
+
+  .open {
+    transform: translate(0) !important;
+    z-index: 1;
+
+  }
 }
