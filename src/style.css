@@ -211,7 +211,7 @@ body::-webkit-scrollbar-thumb {
   .nav_toggle span {
     width: 30px;
     height: 4px;
-    background: var(--grayCategory);
+    background: #A39B9C;
     margin-bottom: 5px;
     border-radius: 2px;
     transform-origin: 5px 0px;
