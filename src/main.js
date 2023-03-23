@@ -1,13 +1,10 @@
 import data from './data/pokemon/pokemon.js';
 import { filterType } from './data.js';
 import { filterWeaknesses, order, changeOrder } from './data.js';
-
-const btnAll = document.querySelector('#btnAll');
 const ordenAlfabetico = document.querySelector('#ordenAlfabetico')
 const pokemones = data.pokemon;
 const root = document.querySelector('#root');
 let btnSort = false;
-//console.log(filterWeaknesses(pokemones,"water"));
 function containerElement(dataPokemon) {
   const divElement = document.createElement('div');
   divElement.setAttribute('class', 'div-Element');
@@ -46,9 +43,7 @@ function containerElement(dataPokemon) {
 }
 const insertAllPokemon = document.querySelector('#root');
 function verPokemon(cargaPokemon) {
-  //console.log('el array completo: ', cargaPokemon);
   cargaPokemon.forEach((dataPokemon) => {
-    //console.log('cada elemnto del array filtrado', dataPokemon);
     insertAllPokemon.appendChild(containerElement(dataPokemon));
   });
 }
@@ -76,7 +71,7 @@ function seleweaknesses() {
   const weaknesses = document.getElementById("seleweaknesses")
   weaknesses.addEventListener("change", function (e) {
     const target = e.target.value; // Or any other selector.
-    console.log(e.target.value)
+    //console.log(e.target.value)
     if (target) {
       pokemones.innerHTML = filterWeaknesses(pokemones, target)
       insertAllPokemon.innerHTML = ''
@@ -89,7 +84,7 @@ function seleweaknesses() {
 seleweaknesses()
 
 // ordenar A-Z y Z-A
-ordenAlfabetico.addEventListener('click', () => {
+ordenAlfabetico.addEventListener('change', () => {
   if (btnSort === false) {
     root.innerHTML = '';
     ordenAlfabetico.classList.replace('btn-order', 'btn-orderAsc');
@@ -105,8 +100,15 @@ ordenAlfabetico.addEventListener('click', () => {
   btnSort = !btnSort;
 });
 
+
 // eslint-disable-next-line no-undef
 _toggle.onclick = () => {
   // eslint-disable-next-line no-undef
   _items.classList.toggle("open");
+
+const btn = document.getElementById("btnOrder");
+btn.addEventListener('click', limpiar)
+function limpiar(){
+  window.location.reload();
+
 }
