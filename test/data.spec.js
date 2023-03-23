@@ -1,3 +1,4 @@
+import {dataAfeterOrdened} from './mockData.js'
 import { filterType,filterWeaknesses, order, } from '../src/data.js';
 const pokemon = [{
   "num": "001","name": "bulbasaur","type": ["Hierba","Veneno"],"weaknesses": ["Fuego","Hielo","Volador","Psíquico"]},
@@ -37,11 +38,8 @@ describe('order', () => {
     expect(typeof order).toBe('function');
   });
   it("deberia de retornar un array de objetos por orden alfabetico", () => {
-    const orden = "asc";
-    const order2 = [{name: "bulbasaur"},
-      {name: "charmander"},
-      {name: "ivysaur"},
-      {name: "venusaur"}]
-    expect(order(order1, orden)).toEqual(order2);
+    
+
+    expect(order(order1, 'a-z')).toEqual(dataAfeterOrdened);
   });
 });
