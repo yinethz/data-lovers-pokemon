@@ -3,6 +3,7 @@
 
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Data Lovers </title>
   <link rel="stylesheet" href="style.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -19,33 +20,43 @@
 
 <body>
   <nav>
-    <select class="link navOption" name="ordenAlfabetico" id="ordenAlfabetico">
-      <option id="btnAll" class="link navOption" value="" selected disabled>Ordenar</option>
-      <option class="link navOption" value="a-z">A-Z</option>
-      <option class="link navOption" value="z-a">Z-A</option>
-    </select>
+    <div class="nav_items" id="_items">
+      <select class="link navOption" name="" id="">
+        <option id="btnOrder" class="link navOption">No. Pokedex</option>
+      </select>
 
-    <option id="btnOrder" class="link navOption">No. Pokedex</option>
-    <select class="link navOption" id="seleweaknesses">
-      <option value="todos" disabled selected>Debilidades</option>
-      <option value="Acero">Acero</option>
-      <option value="Agua">Agua </option>
-      <option value="Dragon">Dragon</option>
-      <option value="Fantasma">Fantasma</option>
-      <option value="Fuego">Fuego</option>
-      <option value="Hielo">Hielo</option>
-      <option value="Normal">Normal</option>
-      <option value="Planta">Planta</option>
-      <option value="Psíquico">Psíquico</option>
-      <option value="Roca">Roca</option>
-      <option value="Veneno">Veneno</option>
-      <option value="Bicho">Bicho</option>
-      <option value="Eléctrico">Eléctrico</option>
-      <option value="Hada">Hada</option>
-      <option value="Luchador">Luchador</option>
-      <option value="Tierra">Tierra</option>
-      <option value="Volador">Volador</option>
-    </select>
+      <select class="link navOption" name="ordenAlfabetico" id="ordenAlfabetico">
+        <option id="btnAll" class="link navOption" value="" selected disabled>Ordenar</option>
+        <option class="link navOption" value="a-z">A-Z</option>
+        <option class="link navOption" value="z-a">Z-A</option>
+      </select>
+
+      <select class="link navOption" id="seleweaknesses">
+        <option value="todos" disabled selected>Debilidades</option>
+        <option value="Acero">Acero</option>
+        <option value="Agua">Agua </option>
+        <option value="Dragon">Dragon</option>
+        <option value="Fantasma">Fantasma</option>
+        <option value="Fuego">Fuego</option>
+        <option value="Hielo">Hielo</option>
+        <option value="Normal">Normal</option>
+        <option value="Planta">Planta</option>
+        <option value="Psíquico">Psíquico</option>
+        <option value="Roca">Roca</option>
+        <option value="Veneno">Veneno</option>
+        <option value="Bicho">Bicho</option>
+        <option value="Eléctrico">Eléctrico</option>
+        <option value="Hada">Hada</option>
+        <option value="Luchador">Luchador</option>
+        <option value="Tierra">Tierra</option>
+        <option value="Volador">Volador</option>
+      </select>
+    </div>
+    <div class="nav_toggle" id="_toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
   </nav>
 
 

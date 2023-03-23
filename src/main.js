@@ -104,3 +104,9 @@ ordenAlfabetico.addEventListener('click', () => {
   }
   btnSort = !btnSort;
 });
+
+// eslint-disable-next-line no-undef
+_toggle.onclick = () => {
+  // eslint-disable-next-line no-undef
+  _items.classList.toggle("open");
+}
