@@ -1,0 +1,69 @@
+@media (max-width: 768px) {
+  .header {
+    width: 100%;
+    height: 5%;
+  }
+
+  .logo {
+    min-width: 49px;
+    min-height: 29px;
+  }
+
+  .categoryList {
+    visibility: hidden;
+  }
+
+  .contenedorAdelante {
+    margin-left: 0;
+    margin-top: 0;
+  }
+
+  .contenedorModal {
+    left: 1%;
+    right: 1%;
+    width: 100%;
+  }
+
+  .contenedorModal .imgPokemon {
+    width: 38%;
+    height: 38%;
+  }
+
+  .nav_items {
+    position: absolute;
+    top: 60px;
+    background: rgba(230, 230, 230);
+    display: flex;
+    flex-direction: column;
+    width: 98%;
+    transform: translateX(-100%);
+    transform: 0.3 ease all;
+    padding: 2% 0 2% 2%;
+  }
+
+  .nav_toggle {
+    display: flex !important;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+
+  .nav_toggle span {
+    width: 30px;
+    height: 4px;
+    background: #A39B9C;
+    margin-bottom: 5px;
+    border-radius: 2px;
+    transform-origin: 5px 0px;
+    transform: all 0.2s linear;
+    transform: 0.3 ease all;
+  }
+
+  .close span {
+    transform: rotate(45deg) translate(0px, 0px);
+  }
+
+  .open {
+    transform: translate(0) !important;
+    z-index: 1;
+  }
+}

@@ -5,19 +5,20 @@ const alphabeticalOrder = document.querySelector('#alphabeticalOrder')
 const pokemones = data.pokemon;
 const root = document.querySelector('#root');
 let btnSort = false;
+
 function containerElement(dataPokemon) {
   const divElement = document.createElement('div');
   divElement.setAttribute('class', 'div-Element');
   let typePokemon = "";
   dataPokemon.type.forEach((pokemoncategory) => {
-    typePokemon += `<span>${pokemoncategory}</span>`
+    typePokemon += `<span class="tag-type">${pokemoncategory}</span>`
   })
   divElement.innerHTML = `
   <div class="contenedorAdelante">
     <img src='${dataPokemon.img}'/>
-    <p>${dataPokemon.num}</p>
+    <p>#${dataPokemon.num}</p>
     <h2>${dataPokemon.name}</h2>
-    <p> ${typePokemon}</p>
+    <p class="tag-type"> ${typePokemon}</p>
   </div>
   <div class="contenedorModal">
     <span class="close">&times;</span>
@@ -66,6 +67,22 @@ function selectPokemon() {
 }
 selectPokemon()
 
+//Función dinamica de selecciòn de tipo de pokemon MOBILE
+function selectPokemoon() {
+  document.getElementById("categoryMobile").addEventListener("change", function (e) {
+    const target = e.target.value; // Or any other selector.
+    //console.log(e.target.id)
+    if (target) {
+      pokemones.innerHTML = filterType(pokemones, target)
+      insertAllPokemon.innerHTML = ''
+      verPokemon(filterType(pokemones, target))
+      // Do something with `target`.
+    }
+  })
+
+}
+selectPokemoon()
+
 
 function seleweaknesses() {
   const weaknesses = document.getElementById("seleweaknesses")
@@ -112,3 +129,6 @@ function limpiar() {
   window.location.reload();
 
 }
+
+
+
