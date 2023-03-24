@@ -1,7 +1,7 @@
 import data from './data/pokemon/pokemon.js';
 import { filterType } from './data.js';
 import { filterWeaknesses, order, changeOrder } from './data.js';
-const ordenAlfabetico = document.querySelector('#ordenAlfabetico')
+const alphabeticalOrder = document.querySelector('#alphabeticalOrder')
 const pokemones = data.pokemon;
 const root = document.querySelector('#root');
 let btnSort = false;
@@ -9,8 +9,8 @@ function containerElement(dataPokemon) {
   const divElement = document.createElement('div');
   divElement.setAttribute('class', 'div-Element');
   let typePokemon = "";
-  dataPokemon.type.forEach((pokemonCategoria) => {
-    typePokemon += `<span>${pokemonCategoria}</span>`
+  dataPokemon.type.forEach((pokemoncategory) => {
+    typePokemon += `<span>${pokemoncategory}</span>`
   })
   divElement.innerHTML = `
   <div class="contenedorAdelante">
@@ -42,8 +42,8 @@ function containerElement(dataPokemon) {
   return divElement;
 }
 const insertAllPokemon = document.querySelector('#root');
-function verPokemon(cargaPokemon) {
-  cargaPokemon.forEach((dataPokemon) => {
+function verPokemon(loadPokemon) {
+  loadPokemon.forEach((dataPokemon) => {
     insertAllPokemon.appendChild(containerElement(dataPokemon));
   });
 }
@@ -84,16 +84,16 @@ function seleweaknesses() {
 seleweaknesses()
 
 // ordenar A-Z y Z-A
-ordenAlfabetico.addEventListener('change', () => {
+alphabeticalOrder.addEventListener('change', () => {
   if (btnSort === false) {
     root.innerHTML = '';
-    ordenAlfabetico.classList.replace('btn-order', 'btn-orderAsc');
+    alphabeticalOrder.classList.replace('btn-order', 'btn-orderAsc');
     const ascendente = order(pokemones, 'a-z');
     verPokemon(ascendente);
   }
   if (btnSort === true) {
     root.innerHTML = '';
-    ordenAlfabetico.classList.replace('btn-orderAsc', 'btn-order');
+    alphabeticalOrder.classList.replace('btn-orderAsc', 'btn-order');
     const descendente = changeOrder(order(pokemones, 'a-z'));
     verPokemon(descendente);
   }

@@ -55,7 +55,7 @@ nav {
 }
 
 /* el bloque donde de encuentran las categoritas*/
-.categoriasList {
+.categoryList {
   line-height: 1.9em;
   font-family: 'Ubuntu Condensed', sans-serif;
   background-color: rgba(230, 230, 230, 0.7);
@@ -67,8 +67,8 @@ nav {
   margin-left: 1%;
 }
 
-/* palabra categoria*/
-.categoria {
+/* palabra category*/
+.category {
   color: #000;
   font-family: 'Neucha', cursive;
   font-size: 40px;
