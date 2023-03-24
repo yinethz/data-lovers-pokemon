@@ -77,3 +77,25 @@ Entrenadores Pokémon que deseen encontrar información útil, ágil de las legi
 
 
 ## Test
+Se realizaron pruebas unitarias para filtrar las categorias, las debilidades y para ordenar de la A a la Z los nombres de los pokemones. 
+
+ PASS  test/data.spec.js
+  filterType
+    ✓ es una función (1 ms)
+    ✓ deberia de retornar un array de objetos de pokemones del tipo Fuego (1 ms)
+  filterWeaknesses
+    ✓ Es una función
+    ✓ deberia de retornar un array de objetos con pokemones con debilidades de fuego
+  order
+    ✓ Es una función
+    ✓ deberia de retornar un array de objetos por orden alfabetico (1 ms)
+
+--------------|---------|----------|---------|---------|-------------------
+File          | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
+--------------|---------|----------|---------|---------|-------------------
+All files     |   93.75 |      100 |   85.71 |     100 |                   
+ src          |   93.33 |      100 |   85.71 |     100 |                   
+  data.js     |   93.33 |      100 |   85.71 |     100 |                   
+ test         |     100 |      100 |     100 |     100 |                   
+  mockData.js |     100 |      100 |     100 |     100 |                   
+--------------|---------|----------|---------|---------|-------------------

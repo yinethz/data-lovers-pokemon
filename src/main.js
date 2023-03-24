@@ -54,7 +54,6 @@ verPokemon(data.pokemon);
 function selectPokemon() {
   document.getElementById("cate").addEventListener("click", function (e) {
     const target = e.target.id; // Or any other selector.
-    //console.log(e.target.id)
     if (target) {
       pokemones.innerHTML = filterType(pokemones, target)
       insertAllPokemon.innerHTML = ''
@@ -71,7 +70,6 @@ function seleweaknesses() {
   const weaknesses = document.getElementById("seleweaknesses")
   weaknesses.addEventListener("change", function (e) {
     const target = e.target.value; // Or any other selector.
-    //console.log(e.target.value)
     if (target) {
       pokemones.innerHTML = filterWeaknesses(pokemones, target)
       insertAllPokemon.innerHTML = ''
@@ -101,8 +99,10 @@ alphabeticalOrder.addEventListener('change', () => {
 });
 
 
+
 // eslint-disable-next-line no-undef
 _toggle.onclick = () => {
+  
   // eslint-disable-next-line no-undef
   _items.classList.toggle("open");
 }
