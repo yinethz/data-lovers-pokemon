@@ -1,0 +1,85 @@
+@import "category.css";
+@import "navbar.css";
+@import "mediaQuery.css";
+@import "styleType.css";
+
+
+:root {
+  --headerColor: #F0C005;
+  --grayCategory: #D4D5DA;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 18%;
+  justify-content: space-evenly;
+}
+
+.container {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-between;
+}
+
+body {
+  background-image: url(../assets/background.jpg);
+}
+
+/*Header*/
+.header {
+  background-color: var(--headerColor);
+  text-align: center;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  position: fixed;
+  z-index: 2;
+}
+
+.logo {
+  max-width: 7%;
+  max-height: 7%;
+}
+
+/*Footer*/
+.pokebola {
+  max-width: 3%;
+  max-height: 3%;
+}
+
+.footer {
+  background-color: #A39B9C;
+  font-family: 'Neucha', cursive;
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  border-top-right-radius: 10%;
+  border-top-left-radius: 10%;
+}
+
+/*diseño del scroll*/
+
+body::-webkit-scrollbar {
+  width: 12px;
+  /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: var(--headerColor);
+  /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: blue;
+  /* color of the scroll thumb */
+  border-radius: 20px;
+  /* roundness of the scroll thumb */
+  border: 3px solid var(--headerColor);
+  /* creates padding around scroll thumb */
+}

@@ -8,12 +8,12 @@ export const filterWeaknesses = (dataArray, typeUser) => {
 
 // ordenar de A-Z y Z-A
 export const order = (arrayObj, orderBy) => {
-  
+
   let sortObj = [];
   switch (orderBy) {
-  case 'a-z':
-    sortObj = arrayObj.sort((a, b) => ((a.name <= b.name) ? -1 : 1));
-    break;
+    case 'a-z':
+      sortObj = arrayObj.sort((a, b) => ((a.name <= b.name) ? -1 : 1));
+      break;
   }
   return sortObj;
 };

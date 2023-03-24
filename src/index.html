@@ -4,8 +4,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Data Lovers </title>
-  <link rel="stylesheet" href="style.css" />
+  <title>Pokémon</title>
+  <link rel="stylesheet" href="assets/pokebola.png" type="imagen logo">
+  <link rel="stylesheet" href="css/style.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap" rel="stylesheet">
@@ -32,25 +33,48 @@
       </select>
 
       <select class="link navOption" id="seleweaknesses">
-        <option value="todos" disabled selected>Debilidades</option>
-        <option value="Acero">Acero</option>
-        <option value="Agua">Agua </option>
-        <option value="Dragon">Dragon</option>
-        <option value="Fantasma">Fantasma</option>
-        <option value="Fuego">Fuego</option>
-        <option value="Hielo">Hielo</option>
-        <option value="Normal">Normal</option>
-        <option value="Planta">Planta</option>
-        <option value="Psíquico">Psíquico</option>
-        <option value="Roca">Roca</option>
-        <option value="Veneno">Veneno</option>
-        <option value="Bicho">Bicho</option>
-        <option value="Eléctrico">Eléctrico</option>
-        <option value="Hada">Hada</option>
-        <option value="Luchador">Luchador</option>
-        <option value="Tierra">Tierra</option>
-        <option value="Volador">Volador</option>
+        <option class="link navOption" value="todos" disabled selected>Debilidades</option>
+        <option class="link navOption" value="Acero">Acero</option>
+        <option class="link navOption" value="Agua">Agua </option>
+        <option class="link navOption" value="Dragon">Dragon</option>
+        <option class="link navOption" value="Fantasma">Fantasma</option>
+        <option class="link navOption" value="Fuego">Fuego</option>
+        <option class="link navOption" value="Hielo">Hielo</option>
+        <option class="link navOption" value="Normal">Normal</option>
+        <option class="link navOption" value="Planta">Planta</option>
+        <option class="link navOption" value="Psíquico">Psíquico</option>
+        <option class="link navOption" value="Roca">Roca</option>
+        <option class="link navOption" value="Veneno">Veneno</option>
+        <option class="link navOption" value="Bicho">Bicho</option>
+        <option class="link navOption" value="Eléctrico">Eléctrico</option>
+        <option class="link navOption" value="Hada">Hada</option>
+        <option class="link navOption" value="Luchador">Luchador</option>
+        <option class="link navOption" value="Tierra">Tierra</option>
+        <option class="link navOption" value="Volador">Volador</option>
       </select>
+
+      <select class="link navOption" id="categoryMobile">
+        <option class="category">Categoría </option>
+        <option class="link steel" value="Acero">Acero</option>
+        <option class="link water" value="Agua">Agua </option>
+        <option class="link dragon" value="Dragón">Dragón</option>
+        <option class="link ghost" value="Fantasma">Fantasma</option>
+        <option class="link fire" value="Fuego">Fuego</option>
+        <option class="link ice" value="Hielo">Hielo</option>
+        <option class="link normal" value="Normal">Normal</option>
+        <option class="link grass" value="Hierba">Hierba</option>
+        <option class="link psychic" value="Psíquico">Psíquico</option>
+        <option class="link rock" value="Roca">Roca</option>
+        <option class="link poison" value="Veneno">Veneno</option>
+        <option class="link bug" value="Bicho">Bicho</option>
+        <option class="link electric" value="Eléctrico">Eléctrico</option>
+        <option class="link fairy" value="Hada">Hada</option>
+        <option class="link fighting" value="Luchador">Luchador</option>
+        <option class="link ground" value="Tierra">Tierra</option>
+        <option class="link flying" value="Volador">Volador</option>
+        <option class="link loss" value="Siniestro">Siniestro</option>
+      </select>
+
     </div>
     <div class="nav_toggle" id="_toggle">
       <span></span>
@@ -59,31 +83,34 @@
     </div>
   </nav>
 
+
   <div class="container">
     <div class="categoryList" id="cate">
       <span class="category">Categoría </span>
-      <option class="link" id="Acero">Acero</option>
-      <option class="link" id="Agua">Agua </option>
-      <option class="link" id="Dragón">Dragón</option>
-      <option class="link" id="Fantasma">Fantasma</option>
-      <option class="link" id="Fuego">Fuego</option>
-      <option class="link" id="Hielo">Hielo</option>
-      <option class="link" id="Normal">Normal</option>
-      <option class="link" id="Hierba">Hierba</option>
-      <option class="link" id="Psíquico">Psíquico</option>
-      <option class="link" id="Roca">Roca</option>
-      <option class="link" id="Veneno">Veneno</option>
-      <option class="link" id="Bicho">Bicho</option>
-      <option class="link" id="Eléctrico">Eléctrico</option>
-      <option class="link" id="Hada">Hada</option>
-      <option class="link" id="Luchador">Luchador</option>
-      <option class="link" id="Tierra">Tierra</option>
-      <option class="link" id="Volador">Volador</option>
-      <option class="link" id="Siniestro">Siniestro</option>
-
+      <option class="link steel" id="Acero">Acero</option>
+      <option class="link water" id="Agua">Agua </option>
+      <option class="link dragon" id="Dragón">Dragón</option>
+      <option class="link ghost" id="Fantasma">Fantasma</option>
+      <option class="link fire" id="Fuego">Fuego</option>
+      <option class="link ice" id="Hielo">Hielo</option>
+      <option class="link normal" id="Normal">Normal</option>
+      <option class="link grass" id="Hierba">Hierba</option>
+      <option class="link psychic" id="Psíquico">Psíquico</option>
+      <option class="link rock" id="Roca">Roca</option>
+      <option class="link poison" id="Veneno">Veneno</option>
+      <option class="link bug" id="Bicho">Bicho</option>
+      <option class="link electric" id="Eléctrico">Eléctrico</option>
+      <option class="link fairy" id="Hada">Hada</option>
+      <option class="link fighting" id="Luchador">Luchador</option>
+      <option class="link ground" id="Tierra">Tierra</option>
+      <option class="link flying" id="Volador">Volador</option>
+      <option class="link loss" id="Siniestro">Siniestro</option>
     </div>
     <div id="root"></div>
   </div>
+
+
+
   <footer class="footer">
     <span>Laboratoria</span>
     <img src="assets/pokebola.png" alt="Imagen pokebola" class="pokebola">

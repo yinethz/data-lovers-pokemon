@@ -1,0 +1,76 @@
+.grass {
+  color: #9BCC50;
+}
+
+.poison {
+  color: #B97FC9;
+}
+
+.flying {
+  color: #3DC7EF;
+}
+
+.fire {
+  color: #FD7D24;
+}
+
+.water {
+  color: #4592C4;
+}
+
+.bug {
+  color: #B7BB35;
+}
+
+.normal {
+  color: #A8A878;
+}
+
+.electric {
+  color: #EED535;
+}
+
+.ground {
+  color: #D4A82F;
+}
+
+.fighting {
+  color: #B1502D;
+}
+
+.psychic {
+  color: #F17CA8;
+}
+
+.rock {
+  color: #B8A85F;
+}
+
+.ice {
+  color: #98D8D8;
+}
+
+.ghost {
+  color: #7B62A3;
+}
+
+.dragon {
+  color: #7038F8
+}
+
+.pokemon-box {
+  margin-bottom: 30px;
+  cursor: pointer;
+}
+
+.pokemon-box .card-img-top img {
+  height: 100px;
+}
+
+.tag-type {
+  color: #000000;
+  padding: 5px;
+  margin: 2.5px;
+  border-radius: 5px;
+  display: inline-block;
+}

@@ -1,0 +1,95 @@
+/* el bloque donde de encuentran las categoritas*/
+.categoryList {
+  line-height: 1.9em;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  background-color: rgb(255 255 255);
+  border-radius: 10%;
+  opacity: .7;
+  box-shadow: 10px 5px 5px var(--grayCategory);
+  padding: 2%;
+  position: fixed;
+  margin-left: 1%;
+}
+
+/* palabra category*/
+.category {
+  color: #000;
+  font-family: 'Neucha', cursive;
+  font-size: 40px;
+  top: 10px;
+  left: 50px;
+}
+
+/* todos los links*/
+.link {
+  color: #000;
+  text-decoration: none;
+  font-family: 'Neucha', cursive;
+  font-size: 25px;
+  letter-spacing: 2px;
+  left: 20px;
+  cursor: pointer;
+}
+
+/*Card*/
+.contenedorAdelante {
+  display: inline-block;
+  flex-direction: row;
+  position: relative;
+  border-radius: 40px;
+  margin: 30px 30px 30px;
+  width: 200px;
+  padding: 10px 20px 10px;
+  text-align: center;
+  background-color: rgba(239, 192, 13, 0.2);
+}
+
+.contenedorAdelante:hover {
+  background-color: rgba(146, 156, 112, 0.19);
+  cursor: pointer;
+}
+
+.contenedorModal {
+  display: none;
+  position: fixed;
+  top: 30%;
+  left: 40%;
+  z-index: 2;
+  background-color: rgba(230, 230, 230, 0.9);
+  width: 35%;
+  border-radius: 20px;
+  font-size: 20px;
+  text-align: center;
+  animation-name: modal;
+  animation-duration: 2s;
+  padding-bottom: 5%;
+}
+
+@keyframes modal {
+  from {
+    top: -800px;
+    opacity: 0;
+  }
+
+  to {
+    top: 50;
+    opacity: 1
+  }
+}
+
+.close {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.close:hover {
+  color: red;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.contenedorModal .imgPokemon {
+  width: 28%;
+  height: 28%;
+}
